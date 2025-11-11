@@ -1,0 +1,19 @@
+{
+  "name": "youtube-trend-analyzer",
+  "version": "1.0.0",
+  "description": "유튜브 트렌드 분석 및 스크립트 생성기",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "batch": "node ./src/1_batch/runDailyCollection.js"
+  },
+  "dependencies": {
+    "@xenova/transformers": "^2.17.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2",
+    "ytdl-core": "^4.11.5"
+  }
+}
