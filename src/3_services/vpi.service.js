@@ -34,6 +34,34 @@ const YOUTUBE_CATEGORY_MAP = {
   'default': 'Other'   // 그 외
 };
 
+/*
+* 입력 데이터 평탄화 @v : 비디오 json 객체
+*/
+function normalizeToVPIBase(v) {
+  const id = v?.id ?? v?.videoId;
+  const title = v?.snippet?.title ?? v?.title ?? '';
+  const publishedAt = v?.snippet?.publishedAt ?? v?.publishedAt ?? '';
+  const channelId = v?.snippet?.channelId ?? v?.channelId ?? '';
+  const thumbnails = v?.snippet?.thumbnails ?? v?.thumbnails;
+
+  const viewCount = v?.statistics?.viewCount ?? v?.viewCount;
+  const likeCount = v?.statistics?.likeCount ?? v?.likeCount;
+  const duration = v?.contentDetails?.duration ?? v?.duration;
+  const subscriberCount = v.subscriberCount
+  const categoryId = v.categoryId
+
+  if (!id || !title || !publishedAt || !channelId) return null;
+
+  return {
+    id,
+    subscriberCount,
+    categoryId,
+    snippet: { title, publishedAt, channelId, thumbnails },
+    statistics: { viewCount, likeCount },
+    contentDetails: { duration },
+  };
+}
+
 
 /**
  * ISO 8601 Duration (예: PT4M13S)을 초(seconds)로 변환합니다.
@@ -80,7 +108,7 @@ function formatVideoForVPI(video) {
   const durationSec = parseISODuration(v.contentDetails?.duration);
   const uploadDate = new Date(v.snippet.publishedAt);
   const hoursSinceUpload = (new Date().getTime() - uploadDate.getTime()) / (1000 * 60 * 60);
-  const categoryIdNum = toNum(v.snippet?.categoryId);
+  const categoryIdNum = toNum(v.categoryId);
   const categoryGroup = YOUTUBE_CATEGORY_MAP[categoryIdNum] || YOUTUBE_CATEGORY_MAP['default'];
   // ---
 
@@ -109,8 +137,14 @@ function formatVideoForVPI(video) {
  */
 export async function fetchVPIs(videos) {
   let payload;
+
+  const normalized_v = videos.map(normalizeToVPIBase)
+  console.log("===========fetchVPIS==============")
+  console.log(videos)
+  console.log(normalized_v)
+
 try {
-  payload = videos.map(formatVideoForVPI);
+  payload = normalized_v.map(formatVideoForVPI);
 } catch (validationError) {
   console.error('[VPI] PI 페이로드 생성 중 치명적 오류:', validationError.message);
   throw validationError;

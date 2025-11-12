@@ -1,2 +1,4 @@
 .env
 00_TEST/venv
+node_modules
+__pycache__

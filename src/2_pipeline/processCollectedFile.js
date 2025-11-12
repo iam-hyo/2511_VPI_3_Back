@@ -66,7 +66,7 @@ export async function processCollectedFile(rawFileName, region, collectedAt, vid
     });
 
     // 3. [Spec 4.1] VPI 예측
-    const vpiResultsMap = await fetchVPIs(analyzedVideos); 
+    const vpiResultsMap = await fetchVPIs(analyzedVideos); ////// 오류 발생!!!!!!!!!!!!!!! 
     
     analyzedVideos.forEach(v => {
       // [수정] Map에서 videoId로 VPI 점수를 찾습니다.
