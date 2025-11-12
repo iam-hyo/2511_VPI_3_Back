@@ -3,10 +3,12 @@ import { downloadAndTranscribe } from '../3_services/stt.service.js';
 import { fetchGeneratedScript } from '../3_services/gemini.service.js';
 import { saveGeneratedScript } from '../6_repository/file.repository.js';
 import fs from 'fs/promises';
+import { fileURLToPath } from 'url';
 import path from 'path';
 
 // __dirname 설정
-const __dirname = path.dirname(new URL(import.meta.url).pathname);
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 // /data/scripts/ 폴더에 저장
 const SCRIPT_DATA_DIR = path.join(__dirname, '../../data/scripts'); 
 
@@ -20,10 +22,11 @@ async function createTimestampedDir(query) {
   const yyyymmdd = now.toISOString().slice(0, 10).replace(/-/g, '');
   const hhmmss = now.toTimeString().slice(0, 8).replace(/:/g, '');
   const safeQuery = query.replace(/[^a-zA-Z0-9ㄱ-ㅎㅏ-ㅣ가-힣]/g, '').slice(0, 15);
-  
+
   // 예: /data/scripts/20251110_153000_AI반도체
   const dirName = `${yyyymmdd}_${hhmmss}_${safeQuery}`;
   const fullPath = path.join(SCRIPT_DATA_DIR, dirName);
+  
 
   await fs.mkdir(fullPath, { recursive: true });
   return fullPath;
