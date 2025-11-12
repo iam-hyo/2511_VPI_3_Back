@@ -48,7 +48,8 @@ function normalizeToVPIBase(v) {
   const likeCount = v?.statistics?.likeCount ?? v?.likeCount;
   const duration = v?.contentDetails?.duration ?? v?.duration;
   const subscriberCount = v.subscriberCount
-  const categoryId = v.categoryId
+  // const categoryId = v.categoryId 배치에는 문제 없었음.
+  const categoryId = v.snippet?.categoryId //배치에는 문제 없었음.
 
   if (!id || !title || !publishedAt || !channelId) return null;
 
@@ -103,6 +104,9 @@ function formatVideoForVPI(video) {
     // subscriberCount는 0일 수 없으므로(1로 보정), undefined/null만 체크
     throw new Error(`[VPI Validation Error] Video ID ${v.id}에서 'subscriberCount' 값이 누락되었습니다.`);
   }
+  if (!v.snippet.publishedAt) {
+    throw new Error(`[VPI Validation Error] Video ID ${v.id}에서 'snippet.publishedAt' (게시 시간)이 누락되었습니다.`);
+  }
 
   // --- VPI API가 요구하는 3개 신규 필드 계산 ---
   const durationSec = parseISODuration(v.contentDetails?.duration);
@@ -114,15 +118,14 @@ function formatVideoForVPI(video) {
 
   const obj = {
     id: v.videoId || v.id,
-    actual_views: toNum(v.viewCount),
+    actual_views: toNum(v.statistics.viewCount),
     subscriber_count: toNum(v.subscriberCount),
     upload_date: v.publishedAt, // 스키마가 string을 요구
-    like_count: toNum(v.likeCount),
+    like_count: toNum(v.statistics.likeCount),
     duration_sec: durationSec,
     category_id: categoryIdNum,
     upload_date: v.snippet.publishedAt,
     
-    // [핵심] 누락되었던 3개 필드 추가
     is_short: durationSec <= 140, // 140초 이하를 쇼츠로 간주
     hours_since_upload: Math.round(hoursSinceUpload),
     category_group: categoryGroup
@@ -139,9 +142,9 @@ export async function fetchVPIs(videos) {
   let payload;
 
   const normalized_v = videos.map(normalizeToVPIBase)
-  console.log("===========fetchVPIS==============")
-  console.log(videos)
-  console.log(normalized_v)
+  // console.log("===========fetchVPIS==============")
+  // console.log(videos)
+  // console.log(normalized_v)
 
 try {
   payload = normalized_v.map(formatVideoForVPI);

@@ -124,7 +124,7 @@ export async function fetchVideoDetails(videoIds) {
   }
   
   const data = await res.json();
-  console.log("=============디버깅============")
-  console.log(data.items)
+  // console.log("=============디버깅============")
+  // console.log(data.items)
   return data.items || [];
 }

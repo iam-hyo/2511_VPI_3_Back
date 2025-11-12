@@ -39,12 +39,14 @@ export async function handlePostScript(req, res) {
   try {
     // 요구사항 2: 프론트에서 선택된 videoId 배열과 원본 쿼리 수신
     const { videoIds, query } = req.body;
+    // console.log("[HandelPostScript 디버깅]")
+    // console.log(req.body)
     if (!Array.isArray(videoIds) || videoIds.length === 0 || !query) {
       return res.status(400).json({ error: 'videoIds 배열(선택된)과 query가 필요합니다.' });
     }
 
     // 요구사항 4: 고유 폴더 생성
-    const saveDir = await createTimestampedDir(query);
+    const saveDir = await createTimestampedDir(query[0]);
     console.log(`[Script Controller] 고유 폴더 생성: ${saveDir}`);
 
     // 요구사항 3 (1단계): 오디오 다운로드 및 Python Whisper 전사 실행

@@ -1,0 +1,622 @@
+{
+  "collectedAt": "2025-11-12T08:34:47.603Z",
+  "regionCode": "US",
+  "videos": [
+    {
+      "kind": "youtube#video",
+      "etag": "h5TvmATVTOsMqCFMlplmREOt9Jk",
+      "id": "qtlb5xu1XBw",
+      "snippet": {
+        "publishedAt": "2025-11-11T18:00:07Z",
+        "channelId": "UCFlC8U0Uif2hF0FIgsSIIYQ",
+        "title": "Grupo Firme - Luis Alfonso Partida \"El Yaki\" - Que Te Quieran Bonito (Video Oficial)",
+        "description": "Grupo Firme\nSuscríbete a Youtube: www.youtube.com/channel/UCFlC8U0Uif2hF0FIgsSIIYQ\n© 2025 Music VIP Entertainment, LLC, \n\nProductor Ejecutivo: Luis Alfonso Partida\nProductor Ejecutivo: Isael Gutierrez\nProductor Ejecutivo: Eduin Caz\nCompositor: Geovani Cabrera\nCompositor: Omar Cárdenas\nCompositor: Kelvin Mejía\n\nInstagram https://www.instagram.com/grupofirme/\nFacebook https://www.facebook.com/GrupoFirmeOficial\nX https://www.twitter.com/grupofirme\n\nLetra !\nMis flores no te gustaron\nTampoco mis regalos caros\nTal vez ya no te importa por qué me tardé\nBien me dijiste que cuándo yo quisiera no iba a ser\n\nQuién iba a imaginar que ya no me querías\nA quién engaño si fue culpa mía\nYo prefiero verte feliz aunque no sea conmigo\n\nQue te quieran bonito\nQue no te hagan llorar\nQue no te falte nada\nQue te mimen\nQue te cuiden pa que no te vayas\nPorque pa perderte en eso nadie me gana\n\nQue te quieran bonito\nYo quise hacerlo bien y no fue suficiente\nMis flores llegaron tarde y eso si que duele\nNo será un feliz por siempre aunque quiera detenerte\nYa no tengo más opción que dejarte ser feliz\n\nIrme de aquí\nQue te quieran bonito\nQue no les pase cómo a mí\n\nQue te quieran bonito\nQue no te hagan llorar\nQue no te falte nada\nQue te mimen\nQue te cuiden pa que no te vayas\nPorque pa perderte en eso nadie me gana\n\nQue te quieran bonito\nYo quise hacerlo bien y no fue suficiente\nMis flores llegaron tarde y eso si que duele\nNo será un feliz por siempre aunque quiera detenerte\nYa no tengo más opción que dejarte ser feliz\n\nIrme de aquí\nQue te quieran bonito\nQue no les pase cómo a mí\n\nDuración: 2:44\nDisquera: Music VIP Entertainment ℗ 2025 & LAP Music\nGénero: Regional Mexicano \n\n\n© 2025 Music VIP Entertainment, LLC, \n\nSpotify https://open.spotify.com/intl-es/artist/1dKdetem2xEmjgvyymzytS?si=tWOpv5SYT7CkjsAVgCHHjw&nd=1&dlsi=3ddc1d7895904954\n#grupofirme #eduincaz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qtlb5xu1XBw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qtlb5xu1XBw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qtlb5xu1XBw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qtlb5xu1XBw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qtlb5xu1XBw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Grupo Firme",
+        "tags": [
+          "Grupo Firme",
+          "Firme",
+          "Firme Gabito",
+          "Grupo Firme Gabito",
+          "Grupo Firme Gabito Ballesteros Otra Noche",
+          "Grupo Firme music",
+          "Grupo Firme nuevo video",
+          "Grupo Firme video",
+          "Grupo Firme video oficial",
+          "Firme music",
+          "Firme nuevo video",
+          "Firme video",
+          "Firme video oficial",
+          "Firme Covers",
+          "Firme mix 2023",
+          "Firme new video",
+          "Firme official video",
+          "Firme video nuevo",
+          "new single Firme",
+          "Eduin Caz music",
+          "Eduin Caz nuevo video",
+          "Eduin Caz video",
+          "Eduin Caz video oficial"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es-MX",
+        "localized": {
+          "title": "Grupo Firme - Luis Alfonso Partida \"El Yaki\" - Que Te Quieran Bonito (Video Oficial)",
+          "description": "Grupo Firme\nSuscríbete a Youtube: www.youtube.com/channel/UCFlC8U0Uif2hF0FIgsSIIYQ\n© 2025 Music VIP Entertainment, LLC, \n\nProductor Ejecutivo: Luis Alfonso Partida\nProductor Ejecutivo: Isael Gutierrez\nProductor Ejecutivo: Eduin Caz\nCompositor: Geovani Cabrera\nCompositor: Omar Cárdenas\nCompositor: Kelvin Mejía\n\nInstagram https://www.instagram.com/grupofirme/\nFacebook https://www.facebook.com/GrupoFirmeOficial\nX https://www.twitter.com/grupofirme\n\nLetra !\nMis flores no te gustaron\nTampoco mis regalos caros\nTal vez ya no te importa por qué me tardé\nBien me dijiste que cuándo yo quisiera no iba a ser\n\nQuién iba a imaginar que ya no me querías\nA quién engaño si fue culpa mía\nYo prefiero verte feliz aunque no sea conmigo\n\nQue te quieran bonito\nQue no te hagan llorar\nQue no te falte nada\nQue te mimen\nQue te cuiden pa que no te vayas\nPorque pa perderte en eso nadie me gana\n\nQue te quieran bonito\nYo quise hacerlo bien y no fue suficiente\nMis flores llegaron tarde y eso si que duele\nNo será un feliz por siempre aunque quiera detenerte\nYa no tengo más opción que dejarte ser feliz\n\nIrme de aquí\nQue te quieran bonito\nQue no les pase cómo a mí\n\nQue te quieran bonito\nQue no te hagan llorar\nQue no te falte nada\nQue te mimen\nQue te cuiden pa que no te vayas\nPorque pa perderte en eso nadie me gana\n\nQue te quieran bonito\nYo quise hacerlo bien y no fue suficiente\nMis flores llegaron tarde y eso si que duele\nNo será un feliz por siempre aunque quiera detenerte\nYa no tengo más opción que dejarte ser feliz\n\nIrme de aquí\nQue te quieran bonito\nQue no les pase cómo a mí\n\nDuración: 2:44\nDisquera: Music VIP Entertainment ℗ 2025 & LAP Music\nGénero: Regional Mexicano \n\n\n© 2025 Music VIP Entertainment, LLC, \n\nSpotify https://open.spotify.com/intl-es/artist/1dKdetem2xEmjgvyymzytS?si=tWOpv5SYT7CkjsAVgCHHjw&nd=1&dlsi=3ddc1d7895904954\n#grupofirme #eduincaz"
+        },
+        "defaultAudioLanguage": "es-MX"
+      },
+      "contentDetails": {
+        "duration": "PT2M44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "427607",
+        "likeCount": "22173",
+        "favoriteCount": "0",
+        "commentCount": "680"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "kqHiBC5aSFqAeTnWDvr6DEHa0vs",
+      "id": "X6xQKNM1xA8",
+      "snippet": {
+        "publishedAt": "2025-11-11T22:44:47Z",
+        "channelId": "UC_ntXHv-XdKCD7CPynVvnQw",
+        "title": "ELDEN RING NIGHTREIGN The Forsaken Hollows | Official Gameplay Reveal Trailer",
+        "description": "In our war against the Night, every battle left a scar.\nThese wounds were given will. A foul life, born of cast-away souls.\nSteel your resolve, Nightfarers. This hunt must be seen to its end.\n#ELDENRING #NIGHTREIGN The Forsaken Hollows launches on December 4, 2025.\n\nFollow Bandai Namco Entertainment: \nX (Twitter): https://twitter.com/BandaiNamcoUS \nTikTok: https://www.tiktok.com/@bandainamcous\nInstagram: https://www.instagram.com/bandainamcous\nFacebook: https://www.facebook.com/BandaiNamcoUS\nTwitch: http://www.twitch.tv/bandainamcous",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X6xQKNM1xA8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X6xQKNM1xA8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X6xQKNM1xA8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X6xQKNM1xA8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X6xQKNM1xA8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bandai Namco Entertainment America",
+        "tags": [
+          "Bandai Namco",
+          "Bandai Namco Entertainment",
+          "video games",
+          "namco bandai",
+          "PS5",
+          "PS4",
+          "Xbox Series X",
+          "anime games",
+          "playstation",
+          "xbox",
+          "pc games"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "ELDEN RING NIGHTREIGN The Forsaken Hollows | Official Gameplay Reveal Trailer",
+          "description": "In our war against the Night, every battle left a scar.\nThese wounds were given will. A foul life, born of cast-away souls.\nSteel your resolve, Nightfarers. This hunt must be seen to its end.\n#ELDENRING #NIGHTREIGN The Forsaken Hollows launches on December 4, 2025.\n\nFollow Bandai Namco Entertainment: \nX (Twitter): https://twitter.com/BandaiNamcoUS \nTikTok: https://www.tiktok.com/@bandainamcous\nInstagram: https://www.instagram.com/bandainamcous\nFacebook: https://www.facebook.com/BandaiNamcoUS\nTwitch: http://www.twitch.tv/bandainamcous"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1M48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "211681",
+        "likeCount": "17255",
+        "favoriteCount": "0",
+        "commentCount": "1474"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "f8xcWnQFvxH274qF4an4YrNRVJI",
+      "id": "d4yvBw1sfko",
+      "snippet": {
+        "publishedAt": "2025-11-11T18:30:47Z",
+        "channelId": "UCWzmOSSiSPbVnVu3ZAyDx2w",
+        "title": "Gambit: Le Diable Blanc | Character Reveal | Marvel Rivals",
+        "description": "Every card he plays changes the game.\n\nRemy LeBeau - better known as Gambit - has always been more than a charming thief. His Mutant gift lets him charge any object with explosive kinetic energy, but it's his wit and finesse that make him truly dangerous.\n\nAfter the Timestream Entanglement tore apart his wedding with Rogue, Gambit struck a deal with the Grandmaster himself: steal a priceless contract from the Collector, and receive Chronovium dice that could be forged into new wedding rings.\n\nUnder the guise of an intergalactic honeymoon, Remy sets off on the ultimate heist - one that will spiral into cosmic chaos far beyond his wildest dreams.\n\nSeason 5 begins on November 14 UTC!\n\nDeal the cards. Play the odds. Steal the show! \n\nPlay free now on:\n🔹 Steam: https://t.co/IPhy0Of1cG\n🔹 PlayStation: https://t.co/FR0aVfTmcn\n🔹 Xbox: https://t.co/GaAYz7Nku6\n🔹 Epic Games: https://t.co/QXoxz0VAP7\n\nFollow #MarvelRivals for the latest news:\n🔹 Discord: https://discord.gg/marvelrivals\n🔹 Twitter: https://twitter.com/MarvelRivals\n🔹 Instagram: https://www.instagram.com/marvelrivals/\n🔹 Facebook: https://www.facebook.com/marvelrivals/\n🔹 TikTok: https://www.tiktok.com/@marvelrivals\n🔹 Twitch: https://www.twitch.tv/marvelrivals\n🔹 Bluesky: https://bsky.app/profile/marvelrivalsglobal.bsky.social\n🔹 Threads: https://www.threads.net/@marvelrivals\n\n#MarvelRivals",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d4yvBw1sfko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d4yvBw1sfko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d4yvBw1sfko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/d4yvBw1sfko/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/d4yvBw1sfko/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Marvel Rivals",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Gambit: Le Diable Blanc | Character Reveal | Marvel Rivals",
+          "description": "Every card he plays changes the game.\n\nRemy LeBeau - better known as Gambit - has always been more than a charming thief. His Mutant gift lets him charge any object with explosive kinetic energy, but it's his wit and finesse that make him truly dangerous.\n\nAfter the Timestream Entanglement tore apart his wedding with Rogue, Gambit struck a deal with the Grandmaster himself: steal a priceless contract from the Collector, and receive Chronovium dice that could be forged into new wedding rings.\n\nUnder the guise of an intergalactic honeymoon, Remy sets off on the ultimate heist - one that will spiral into cosmic chaos far beyond his wildest dreams.\n\nSeason 5 begins on November 14 UTC!\n\nDeal the cards. Play the odds. Steal the show! \n\nPlay free now on:\n🔹 Steam: https://t.co/IPhy0Of1cG\n🔹 PlayStation: https://t.co/FR0aVfTmcn\n🔹 Xbox: https://t.co/GaAYz7Nku6\n🔹 Epic Games: https://t.co/QXoxz0VAP7\n\nFollow #MarvelRivals for the latest news:\n🔹 Discord: https://discord.gg/marvelrivals\n🔹 Twitter: https://twitter.com/MarvelRivals\n🔹 Instagram: https://www.instagram.com/marvelrivals/\n🔹 Facebook: https://www.facebook.com/marvelrivals/\n🔹 TikTok: https://www.tiktok.com/@marvelrivals\n🔹 Twitch: https://www.twitch.tv/marvelrivals\n🔹 Bluesky: https://bsky.app/profile/marvelrivalsglobal.bsky.social\n🔹 Threads: https://www.threads.net/@marvelrivals\n\n#MarvelRivals"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "742300",
+        "likeCount": "55401",
+        "favoriteCount": "0",
+        "commentCount": "3722"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "pEKjWP8pPvHdm1tWeJsnHj7Qmvs",
+      "id": "Ndswr4tDAyQ",
+      "snippet": {
+        "publishedAt": "2025-11-11T20:00:06Z",
+        "channelId": "UCgBYYDPuLTMRrnPtBiqWJSQ",
+        "title": "Toosii, YoungBoy Never Broke Again - Please Don't Go",
+        "description": "Music video by Toosii, YoungBoy Never Broke Again performing Please Don't Go.© 2025 UMG Recordings, Inc.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ndswr4tDAyQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ndswr4tDAyQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ndswr4tDAyQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ndswr4tDAyQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ndswr4tDAyQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Toosii2xVEVO",
+        "tags": [
+          "Toosii",
+          "YoungBoy Never Broke Again",
+          "South Coast Music Group/Capitol Records",
+          "Pop"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Toosii, YoungBoy Never Broke Again - Please Don't Go",
+          "description": "Music video by Toosii, YoungBoy Never Broke Again performing Please Don't Go.© 2025 UMG Recordings, Inc."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3M31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": [
+            "AD",
+            "AE",
+            "AF",
+            "AG",
+            "AI",
+            "AL",
+            "AM",
+            "AO",
+            "AQ",
+            "AR",
+            "AS",
+            "AT",
+            "AU",
+            "AW",
+            "AX",
+            "AZ",
+            "BA",
+            "BB",
+            "BD",
+            "BE",
+            "BF",
+            "BG",
+            "BH",
+            "BI",
+            "BJ",
+            "BL",
+            "BM",
+            "BN",
+            "BO",
+            "BQ",
+            "BR",
+            "BS",
+            "BT",
+            "BV",
+            "BW",
+            "BZ",
+            "CA",
+            "CC",
+            "CD",
+            "CF",
+            "CG",
+            "CH",
+            "CI",
+            "CK",
+            "CL",
+            "CM",
+            "CN",
+            "CO",
+            "CR",
+            "CU",
+            "CV",
+            "CW",
+            "CX",
+            "CY",
+            "CZ",
+            "DE",
+            "DJ",
+            "DK",
+            "DM",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "EH",
+            "ER",
+            "ES",
+            "ET",
+            "FI",
+            "FJ",
+            "FK",
+            "FM",
+            "FO",
+            "FR",
+            "GA",
+            "GB",
+            "GD",
+            "GE",
+            "GF",
+            "GG",
+            "GH",
+            "GI",
+            "GL",
+            "GM",
+            "GN",
+            "GP",
+            "GQ",
+            "GR",
+            "GS",
+            "GT",
+            "GU",
+            "GW",
+            "GY",
+            "HK",
+            "HM",
+            "HN",
+            "HR",
+            "HT",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IM",
+            "IN",
+            "IQ",
+            "IR",
+            "IS",
+            "IT",
+            "JE",
+            "JM",
+            "JO",
+            "JP",
+            "KE",
+            "KG",
+            "KH",
+            "KI",
+            "KM",
+            "KN",
+            "KR",
+            "KW",
+            "KY",
+            "KZ",
+            "LA",
+            "LB",
+            "LC",
+            "LI",
+            "LK",
+            "LR",
+            "LS",
+            "LT",
+            "LU",
+            "LV",
+            "LY",
+            "MA",
+            "MC",
+            "MD",
+            "ME",
+            "MF",
+            "MG",
+            "MH",
+            "MK",
+            "ML",
+            "MM",
+            "MN",
+            "MO",
+            "MP",
+            "MQ",
+            "MR",
+            "MS",
+            "MT",
+            "MU",
+            "MV",
+            "MW",
+            "MX",
+            "MY",
+            "MZ",
+            "NA",
+            "NC",
+            "NE",
+            "NF",
+            "NG",
+            "NI",
+            "NL",
+            "NO",
+            "NP",
+            "NR",
+            "NU",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PF",
+            "PG",
+            "PH",
+            "PK",
+            "PL",
+            "PM",
+            "PN",
+            "PR",
+            "PS",
+            "PT",
+            "PW",
+            "PY",
+            "QA",
+            "RE",
+            "RO",
+            "RS",
+            "RW",
+            "SA",
+            "SB",
+            "SC",
+            "SD",
+            "SE",
+            "SG",
+            "SH",
+            "SI",
+            "SJ",
+            "SK",
+            "SL",
+            "SM",
+            "SN",
+            "SO",
+            "SR",
+            "ST",
+            "SV",
+            "SX",
+            "SY",
+            "SZ",
+            "TC",
+            "TD",
+            "TF",
+            "TG",
+            "TH",
+            "TJ",
+            "TK",
+            "TL",
+            "TM",
+            "TN",
+            "TO",
+            "TR",
+            "TT",
+            "TV",
+            "TW",
+            "TZ",
+            "UA",
+            "UG",
+            "UM",
+            "US",
+            "UY",
+            "UZ",
+            "VA",
+            "VC",
+            "VE",
+            "VG",
+            "VI",
+            "VN",
+            "VU",
+            "WF",
+            "WS",
+            "YE",
+            "YT",
+            "ZA",
+            "ZM",
+            "ZW"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "163343",
+        "likeCount": "20253",
+        "favoriteCount": "0",
+        "commentCount": "1207"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "FlCeUf4prwn_paRpDJgSfhAN1_M",
+      "id": "s9gSuKaKcqM",
+      "snippet": {
+        "publishedAt": "2025-11-11T14:01:11Z",
+        "channelId": "UCuPivVjnfNo4mb3Oog_frZg",
+        "title": "Marty Supreme | Official Trailer HD | A24",
+        "description": "SUBSCRIBE: http://bit.ly/A24subscribe\n\nFrom writer/director Josh Safdie and starring Timothée Chalamet, Gwyneth Paltrow, Odessa A'zion, Kevin O'Leary, Tyler Okonma, Abel Ferrara, and Fran Drescher. MARTY SUPREME – In Theaters December 25\n\nRELEASE DATE: In Theaters December 25\nDIRECTOR: Josh Safdie\nCAST: Timothée Chalamet, Gwyneth Paltrow, Odessa A'zion, Kevin O'Leary, Tyler Okonma, Abel Ferrara, and Fran Drescher\n\nFollow MARTY SUPREME on INSTAGRAM: https://bit.ly/MartySupreme_IG\nFollow MARTY SUPREME on X: https://bit.ly/MartySupreme_X\nFollow MARTY SUPREME on TIKTOK: https://bit.ly/MartySupreme_TikTok\nLike MARTY SUPREME on FACEBOOK: https://bit.ly/MartySupreme_FB\n\n------\n\nABOUT A24:\nThe studio behind EVERYTHING EVERYWHERE ALL AT ONCE, UNCUT GEMS, MIDSOMMAR, MOONLIGHT, BEEF on Netflix, EUPHORIA on Max & more.\n\nComing Soon: EDDINGTON, THE SMASHING MACHINE, MARTY SUPREME & more\n\nSubscribe to A24's NEWSLETTER:  http://bit.ly/A24signup\nSign up for A24 MEMBERSHIP: aaa24.com\nVisit A24 WEBSITE: http://bit.ly/A24filmsdotcom\nLike A24 on FACEBOOK: http://bit.ly/FBA24\nFollow A24 on TWITTER: http://bit.ly/TweetA24\nFollow A24 on INSTAGRAM: http://bit.ly/InstaA24",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s9gSuKaKcqM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s9gSuKaKcqM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s9gSuKaKcqM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s9gSuKaKcqM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s9gSuKaKcqM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "A24",
+        "tags": [
+          "a24",
+          "a24 films",
+          "a24 trailers",
+          "independent films",
+          "trailer",
+          "HD",
+          "official",
+          "movie",
+          "film",
+          "a24 movies",
+          "oscar winner",
+          "academy award winner"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Marty Supreme | Official Trailer HD | A24",
+          "description": "SUBSCRIBE: http://bit.ly/A24subscribe\n\nFrom writer/director Josh Safdie and starring Timothée Chalamet, Gwyneth Paltrow, Odessa A'zion, Kevin O'Leary, Tyler Okonma, Abel Ferrara, and Fran Drescher. MARTY SUPREME – In Theaters December 25\n\nRELEASE DATE: In Theaters December 25\nDIRECTOR: Josh Safdie\nCAST: Timothée Chalamet, Gwyneth Paltrow, Odessa A'zion, Kevin O'Leary, Tyler Okonma, Abel Ferrara, and Fran Drescher\n\nFollow MARTY SUPREME on INSTAGRAM: https://bit.ly/MartySupreme_IG\nFollow MARTY SUPREME on X: https://bit.ly/MartySupreme_X\nFollow MARTY SUPREME on TIKTOK: https://bit.ly/MartySupreme_TikTok\nLike MARTY SUPREME on FACEBOOK: https://bit.ly/MartySupreme_FB\n\n------\n\nABOUT A24:\nThe studio behind EVERYTHING EVERYWHERE ALL AT ONCE, UNCUT GEMS, MIDSOMMAR, MOONLIGHT, BEEF on Netflix, EUPHORIA on Max & more.\n\nComing Soon: EDDINGTON, THE SMASHING MACHINE, MARTY SUPREME & more\n\nSubscribe to A24's NEWSLETTER:  http://bit.ly/A24signup\nSign up for A24 MEMBERSHIP: aaa24.com\nVisit A24 WEBSITE: http://bit.ly/A24filmsdotcom\nLike A24 on FACEBOOK: http://bit.ly/FBA24\nFollow A24 on TWITTER: http://bit.ly/TweetA24\nFollow A24 on INSTAGRAM: http://bit.ly/InstaA24"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2811196",
+        "likeCount": "20868",
+        "favoriteCount": "0",
+        "commentCount": "1158"
+      }
+    }
+  ]
+}
