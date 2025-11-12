@@ -61,11 +61,26 @@ function formatVideoForVPI(video) {
   const v = video;
   const toNum = (val) => (val == null || val === '' ? undefined : Number(val));
 
+  // --- [신규] 엄격한 데이터 검증 (Fail Fast) ---
+  if (!v.snippet) {
+    throw new Error(`[VPI Validation Error] Video ID ${v.id}에서 'snippet' 객체가 누락되었습니다.`);
+  }
+  if (!v.contentDetails) {
+    throw new Error(`[VPI Validation Error] Video ID ${v.id}에서 'contentDetails' 객체가 누락되었습니다.`);
+  }
+  if (!v.statistics) {
+    throw new Error(`[VPI Validation Error] Video ID ${v.id}에서 'statistics' 객체가 누락되었습니다.`);
+  }
+  if (!v.subscriberCount) {
+    // subscriberCount는 0일 수 없으므로(1로 보정), undefined/null만 체크
+    throw new Error(`[VPI Validation Error] Video ID ${v.id}에서 'subscriberCount' 값이 누락되었습니다.`);
+  }
+
   // --- VPI API가 요구하는 3개 신규 필드 계산 ---
-  const durationSec = parseISODuration(v.duration);
-  const uploadDate = new Date(v.publishedAt);
+  const durationSec = parseISODuration(v.contentDetails?.duration);
+  const uploadDate = new Date(v.snippet.publishedAt);
   const hoursSinceUpload = (new Date().getTime() - uploadDate.getTime()) / (1000 * 60 * 60);
-  const categoryIdNum = toNum(v.categoryId);
+  const categoryIdNum = toNum(v.snippet?.categoryId);
   const categoryGroup = YOUTUBE_CATEGORY_MAP[categoryIdNum] || YOUTUBE_CATEGORY_MAP['default'];
   // ---
 
@@ -77,31 +92,36 @@ function formatVideoForVPI(video) {
     like_count: toNum(v.likeCount),
     duration_sec: durationSec,
     category_id: categoryIdNum,
+    upload_date: v.snippet.publishedAt,
     
     // [핵심] 누락되었던 3개 필드 추가
-    is_short: durationSec <= 61, // 61초 이하를 쇼츠로 간주
+    is_short: durationSec <= 140, // 140초 이하를 쇼츠로 간주
     hours_since_upload: Math.round(hoursSinceUpload),
     category_group: categoryGroup
   };
   
   // VPI API가 null이나 undefined 값을 싫어할 수 있으므로, 해당 키를 제거
-  return Object.fromEntries(
-    Object.entries(obj).filter(([, val]) => val !== undefined && val !== null)
-  );
+  return obj
 }
 
 /**
  * [Spec 4.1] 여러 비디오의 VPI 점수를 일괄 요청
  */
 export async function fetchVPIs(videos) {
-  const payload = videos.map(formatVideoForVPI);
+  let payload;
+try {
+  payload = videos.map(formatVideoForVPI);
+} catch (validationError) {
+  console.error('[VPI] PI 페이로드 생성 중 치명적 오류:', validationError.message);
+  throw validationError;
+}
 
   // (디버깅) VPI로 전송되는 페이로드 샘플을 콘솔에 1개만 출력
   if (payload.length > 0) {
     console.log('[VPI Service] VPI API로 전송하는 페이로드 샘플:', JSON.stringify(payload[0]));
   }
 
-  const res = await fetch(VPI_API_URL, {
+  const res = await fetch(`${VPI_API_URL}`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
     body: JSON.stringify(payload),
@@ -109,7 +129,7 @@ export async function fetchVPIs(videos) {
 
   if (!res.ok) {
     const text = await res.text();
-    throw new Error(`VPI API 오류 (${res.status}): ${text.slice(0, 150)}`);
+    throw new Error(`VPI API 오류 (${res.status}): ${text.slice(0, 160)}`);
   }
   
   // VPI API는 { "id": "string", "vpi": 0, "pred": 0 } 배열을 반환

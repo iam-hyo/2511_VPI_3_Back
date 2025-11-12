@@ -28,12 +28,20 @@ export async function fetchPopularVideos(regionCode, maxResults = 50) {
  * @param {string} keyword - 검색어
  * @returns {Promise<Array<Object>>} 검색 결과 비디오 리소스 배열
  */
-export async function fetchSearchList(keyword) {
+export async function fetchSearchList(keyword, maxResults=50) {
   const fiveDaysAgo = new Date(Date.now() - 5 * 24 * 60 * 60 * 1000).toISOString();
-  const url = `${BASE_URL}/search?part=snippet&q=${encodeURIComponent(keyword)}&maxResults=50&order=date&publishedAfter=${fiveDaysAgo}&type=video&key=${API_KEY}`;
+  const url = `${BASE_URL}/search?part=snippet&q=${encodeURIComponent(keyword)}&maxResults=${maxResults}&order=date&publishedAfter=${fiveDaysAgo}&type=video&key=${API_KEY}`;
   
   const res = await fetch(url);
-  if (!res.ok) throw new Error(`Youtube API 오류: ${res.statusText}`);
+  if (!res.ok) {
+    const errorBody = await res.json();
+    const errorMessage = errorBody.error?.message || `Unknown API Error (Status: ${res.status})`;
+
+    console.error(`[fetchSearchList Error] YouTube API 호출 실패:`, errorMessage);
+    console.error(`[fetchSearchList Debug] Request URL: ${url.replace(API_KEY, '...API_KEY...')}`); // (키는 숨김)
+
+    throw new Error(`Youtube API 오류: ${errorMessage}`);
+  }
   const data = await res.json();
   // (참고: Search API 결과는 Video API 결과와 스키마가 약간 다름)
   return data.items || [];
@@ -116,5 +124,7 @@ export async function fetchVideoDetails(videoIds) {
   }
   
   const data = await res.json();
+  console.log("=============디버깅============")
+  console.log(data.items)
   return data.items || [];
 }
