@@ -1,0 +1,1865 @@
+{
+  "collectedAt": "2025-11-13T06:50:32.839Z",
+  "regionCode": "US",
+  "videos": [
+    {
+      "kind": "youtube#video",
+      "etag": "afjKsazwcVVevJvl2THGjIHaFak",
+      "id": "XMOFWEr07xI",
+      "snippet": {
+        "publishedAt": "2025-11-12T17:01:01Z",
+        "channelId": "UCM1gEqLPsgej7ZKzu9w8v7A",
+        "title": "Lil Baby - Otha Boy",
+        "description": "Music video by Lil Baby performing Otha Boy.© 2025 Quality Control Music, LLC, under exclusive license to UMG Recordings, Inc.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XMOFWEr07xI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XMOFWEr07xI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XMOFWEr07xI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XMOFWEr07xI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XMOFWEr07xI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "LilBabyVEVO",
+        "tags": [
+          "Lil Baby",
+          "Quality Control Music/Motown Records",
+          "Hip Hop"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Lil Baby - Otha Boy",
+          "description": "Music video by Lil Baby performing Otha Boy.© 2025 Quality Control Music, LLC, under exclusive license to UMG Recordings, Inc."
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": [
+            "AD",
+            "AE",
+            "AF",
+            "AG",
+            "AI",
+            "AL",
+            "AM",
+            "AO",
+            "AQ",
+            "AR",
+            "AS",
+            "AT",
+            "AU",
+            "AW",
+            "AX",
+            "AZ",
+            "BA",
+            "BB",
+            "BD",
+            "BE",
+            "BF",
+            "BG",
+            "BH",
+            "BI",
+            "BJ",
+            "BL",
+            "BM",
+            "BN",
+            "BO",
+            "BQ",
+            "BR",
+            "BS",
+            "BT",
+            "BV",
+            "BW",
+            "BZ",
+            "CA",
+            "CC",
+            "CD",
+            "CF",
+            "CG",
+            "CH",
+            "CI",
+            "CK",
+            "CL",
+            "CM",
+            "CN",
+            "CO",
+            "CR",
+            "CU",
+            "CV",
+            "CW",
+            "CX",
+            "CY",
+            "CZ",
+            "DE",
+            "DJ",
+            "DK",
+            "DM",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "EH",
+            "ER",
+            "ES",
+            "ET",
+            "FI",
+            "FJ",
+            "FK",
+            "FM",
+            "FO",
+            "FR",
+            "GA",
+            "GB",
+            "GD",
+            "GE",
+            "GF",
+            "GG",
+            "GH",
+            "GI",
+            "GL",
+            "GM",
+            "GN",
+            "GP",
+            "GQ",
+            "GR",
+            "GS",
+            "GT",
+            "GU",
+            "GW",
+            "GY",
+            "HK",
+            "HM",
+            "HN",
+            "HR",
+            "HT",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IM",
+            "IN",
+            "IQ",
+            "IR",
+            "IS",
+            "IT",
+            "JE",
+            "JM",
+            "JO",
+            "JP",
+            "KE",
+            "KG",
+            "KH",
+            "KI",
+            "KM",
+            "KN",
+            "KR",
+            "KW",
+            "KY",
+            "KZ",
+            "LA",
+            "LB",
+            "LC",
+            "LI",
+            "LK",
+            "LR",
+            "LS",
+            "LT",
+            "LU",
+            "LV",
+            "LY",
+            "MA",
+            "MC",
+            "MD",
+            "ME",
+            "MF",
+            "MG",
+            "MH",
+            "MK",
+            "ML",
+            "MM",
+            "MN",
+            "MO",
+            "MP",
+            "MQ",
+            "MR",
+            "MS",
+            "MT",
+            "MU",
+            "MV",
+            "MW",
+            "MX",
+            "MY",
+            "MZ",
+            "NA",
+            "NC",
+            "NE",
+            "NF",
+            "NG",
+            "NI",
+            "NL",
+            "NO",
+            "NP",
+            "NR",
+            "NU",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PF",
+            "PG",
+            "PH",
+            "PK",
+            "PL",
+            "PM",
+            "PN",
+            "PR",
+            "PS",
+            "PT",
+            "PW",
+            "PY",
+            "QA",
+            "RE",
+            "RO",
+            "RS",
+            "RW",
+            "SA",
+            "SB",
+            "SC",
+            "SD",
+            "SE",
+            "SG",
+            "SH",
+            "SI",
+            "SJ",
+            "SK",
+            "SL",
+            "SM",
+            "SN",
+            "SO",
+            "SR",
+            "ST",
+            "SV",
+            "SX",
+            "SY",
+            "SZ",
+            "TC",
+            "TD",
+            "TF",
+            "TG",
+            "TH",
+            "TJ",
+            "TK",
+            "TL",
+            "TM",
+            "TN",
+            "TO",
+            "TR",
+            "TT",
+            "TV",
+            "TW",
+            "TZ",
+            "UA",
+            "UG",
+            "UM",
+            "US",
+            "UY",
+            "UZ",
+            "VA",
+            "VC",
+            "VE",
+            "VG",
+            "VI",
+            "VN",
+            "VU",
+            "WF",
+            "WS",
+            "YE",
+            "YT",
+            "ZA",
+            "ZM",
+            "ZW"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "329866",
+        "likeCount": "27066",
+        "favoriteCount": "0",
+        "commentCount": "3002"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4H1pN7Mw7moNM00nguyJk8cmo5E",
+      "id": "GuCejewteF8",
+      "snippet": {
+        "publishedAt": "2025-11-12T14:10:47Z",
+        "channelId": "UCGIY_O-8vW4rfX98KlMkvRg",
+        "title": "The Super Mario Galaxy Movie – Official Trailer",
+        "description": "The Galaxy awaits. The official trailer for The Super Mario Galaxy Movie is here. Only in theaters April 2026.\n\nFollow on Instagram at  https://www.instagram.com/supermariomovie\nFollow on X at https://twitter.com/supermariomovie\nFollow on Facebook at  https://www.facebook.com/supermariomovie\nFollow on TikTok at  https://www.tiktok.com/@supermariomovie\n\n#TheSuperMarioGalaxyMovie \n\nVisit Nintendo.com for more info: https://ninten.do/6008Spp2s\n\nSubscribe for more Nintendo fun: https://goo.gl/HYYsot\n\nFollow Nintendo of America\nX/Twitter: https://twitter.com/NintendoAmerica\nFacebook: https://www.facebook.com/NintendoAmerica\nInstagram: https://www.instagram.com/nintendoamerica\nTwitch: https://www.twitch.tv/nintendo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GuCejewteF8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GuCejewteF8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GuCejewteF8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GuCejewteF8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GuCejewteF8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nintendo of America",
+        "tags": [
+          "nintendo",
+          "game",
+          "gameplay",
+          "fun",
+          "video game",
+          "action",
+          "adventure",
+          "rpg",
+          "play",
+          "switch",
+          "nintendo switch"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "The Super Mario Galaxy Movie – Official Trailer",
+          "description": "The Galaxy awaits. The official trailer for The Super Mario Galaxy Movie is here. Only in theaters April 2026.\n\nFollow on Instagram at  https://www.instagram.com/supermariomovie\nFollow on X at https://twitter.com/supermariomovie\nFollow on Facebook at  https://www.facebook.com/supermariomovie\nFollow on TikTok at  https://www.tiktok.com/@supermariomovie\n\n#TheSuperMarioGalaxyMovie \n\nVisit Nintendo.com for more info: https://ninten.do/6008Spp2s\n\nSubscribe for more Nintendo fun: https://goo.gl/HYYsot\n\nFollow Nintendo of America\nX/Twitter: https://twitter.com/NintendoAmerica\nFacebook: https://www.facebook.com/NintendoAmerica\nInstagram: https://www.instagram.com/nintendoamerica\nTwitch: https://www.twitch.tv/nintendo"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3204541",
+        "likeCount": "198934",
+        "favoriteCount": "0",
+        "commentCount": "16945"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ix2VPUpLedfWiRgC00n_mKvAZiU",
+      "id": "_3IkaGoyGKQ",
+      "snippet": {
+        "publishedAt": "2025-11-12T21:04:26Z",
+        "channelId": "UCYzPXprvl5Y-Sf0g4vX-m6g",
+        "title": "THE BIG FINALE (Dispatch 7 & 8)",
+        "description": "What an incredible finale to Dispatch\nDrink my coffee: https://topofthemornincoffee.com/\n\nFollow me on Instagram: https://www.instagram.com/jacksepticeye",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_3IkaGoyGKQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_3IkaGoyGKQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_3IkaGoyGKQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_3IkaGoyGKQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_3IkaGoyGKQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "jacksepticeye",
+        "tags": [
+          "jacksepticeye"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "THE BIG FINALE (Dispatch 7 & 8)",
+          "description": "What an incredible finale to Dispatch\nDrink my coffee: https://topofthemornincoffee.com/\n\nFollow me on Instagram: https://www.instagram.com/jacksepticeye"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2H45M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1015827",
+        "likeCount": "89826",
+        "favoriteCount": "0",
+        "commentCount": "8222"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2OZg-CBKVec_ai_G5Vcw5Led2NA",
+      "id": "veSg0RjgbX4",
+      "snippet": {
+        "publishedAt": "2025-11-12T17:00:06Z",
+        "channelId": "UCrksLiNO2Mu1vMaAkUckhCw",
+        "title": "Clipse, Pusha T, Malice, Stove God Cooks - F.I.C.O. (Official Music Video)",
+        "description": "Stream “F.I.C.O.”: https://ffm.to/letgodsortemout\n\nNew Album 'Let God Sort Em Out' Out Now\nVinyl / CD / Cassette / Merch: https://letgodsortemout.com/\n\nFollow Clipse\nInstagram: https://www.instagram.com/clipse/\nTikTok: https://www.tiktok.com/@clipse\nTwitter: https://x.com/clipse\n\nLyrics\nI remember late nights, pissy hallways\nDriving me psycho\nThe money wouldn’t come fast enough\nWe was back and forth, down streamline\nMoving weight was like lipo\nThe rest of y’all stuck in a rut\ndouble crossing, talk behind ya back\nSee, that’s where the knife go\nI guess they wasn’t * wit’ us\nSome * get the luck of the draw\nFor others, life is a dice roll\nAnd waiting on faith ain’t for us\nWhen you young, you realize that you can’t trust a mouth where the pipe go\nThey tried but couldn’t love you enough\nDance music on my neck\nWhere’s your water bottle?\nDiamonds, the light show\nLooking like the sun in the club\nIf you re-ing up with us then your credit score gotta be F.I.C.O.\nI’m talkin’ 850 or bust\nSee you really real power when you make * balance on tight ropes\nThey know they not much for the blood\nHave my man shoot ya block\nI’ma send his * far as the flight go\nAin’t worried ‘bout ducking a judge\nKeep frontin’ for ya *\nCause any minute repo might show\nYou know that * up in a month\nHeard your man was in there singing for his life\nThey was calling him maestro\nCause time that heavy can crush\nWhen you pay a * back, like it’s layaway, whispering “die slow”\nThe last words you hear in the trunk\n\nYou don’t know what I know\nYou ain’t seen what I saw, no\nYou ain’t been where I go\nWit’ a fetti so strong you gotta bag it wit’ one eye closed\nMy shooter turn you inside out\nI heard the Feds turned the crib inside out\nDrop the roof on you *, let the inside out\nFresh Prince jacket, boy, I cook ‘em till they inside out\n\nGo get a Glock, 27 fits snug in the waistline\nBoth sticks came with the drum\nI was 5’6”, shoulder with a chip\nWish a * to take mine\nIndex yanked till it’s numb\nUsed to call me Windex ‘cause this thing I spray gon’ make you change minds\nI done seen Hercules run\nWe was powerlifting 2.2’s\nNah, we ain’t throw gang signs\nMy brick walk was second to none\nI would have them take a number like DMV\nThat was the baseline\nCheckout on register one\nMiami * like Big Perm ‘cause they numbers was Faizon\nCubans showed me nothing but love\nWhen it come down to it, every Stringer Bell just needs an Avon\nWho won’t sweep it under the rug\nOn the road, with a load, *, break line\nI knew where to place mine\nI don’t keep the gun in the glove\nHit the turnpike with the running lights that be on in the daytime\nCause K9’s sniff out a crumb\nHands 3 and 9 on the wheel as I’m crossing the state line\nDumb, ditty, dumb, ditty, dumb\nSurvival of the fittest\nYou either get acquitted or face time\nI done had an infamous run\nMy story gon’ hit the first 48\nThen it’s on Dateline ‘cause this really * I’d done\n\nYou don’t know what I know\nYou ain’t seen what I saw, no\nYou ain’t been where I go\nWit’ a fetti so strong you gotta bag it wit’ one eye closed\nMy shooter turn you inside out\nI heard the Feds turned the crib inside out\nDrop the roof on you *, let the inside out\nFresh Prince jacket, boy, I cook ‘em till they inside out",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/veSg0RjgbX4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/veSg0RjgbX4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/veSg0RjgbX4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/veSg0RjgbX4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/veSg0RjgbX4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "clipseVEVO",
+        "tags": [
+          "Clipse",
+          "Pusha",
+          "Malice",
+          "Stove God Cooks",
+          "Roc Nation Distribution",
+          "Hip Hop/Rap"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Clipse, Pusha T, Malice, Stove God Cooks - F.I.C.O. (Official Music Video)",
+          "description": "Stream “F.I.C.O.”: https://ffm.to/letgodsortemout\n\nNew Album 'Let God Sort Em Out' Out Now\nVinyl / CD / Cassette / Merch: https://letgodsortemout.com/\n\nFollow Clipse\nInstagram: https://www.instagram.com/clipse/\nTikTok: https://www.tiktok.com/@clipse\nTwitter: https://x.com/clipse\n\nLyrics\nI remember late nights, pissy hallways\nDriving me psycho\nThe money wouldn’t come fast enough\nWe was back and forth, down streamline\nMoving weight was like lipo\nThe rest of y’all stuck in a rut\ndouble crossing, talk behind ya back\nSee, that’s where the knife go\nI guess they wasn’t * wit’ us\nSome * get the luck of the draw\nFor others, life is a dice roll\nAnd waiting on faith ain’t for us\nWhen you young, you realize that you can’t trust a mouth where the pipe go\nThey tried but couldn’t love you enough\nDance music on my neck\nWhere’s your water bottle?\nDiamonds, the light show\nLooking like the sun in the club\nIf you re-ing up with us then your credit score gotta be F.I.C.O.\nI’m talkin’ 850 or bust\nSee you really real power when you make * balance on tight ropes\nThey know they not much for the blood\nHave my man shoot ya block\nI’ma send his * far as the flight go\nAin’t worried ‘bout ducking a judge\nKeep frontin’ for ya *\nCause any minute repo might show\nYou know that * up in a month\nHeard your man was in there singing for his life\nThey was calling him maestro\nCause time that heavy can crush\nWhen you pay a * back, like it’s layaway, whispering “die slow”\nThe last words you hear in the trunk\n\nYou don’t know what I know\nYou ain’t seen what I saw, no\nYou ain’t been where I go\nWit’ a fetti so strong you gotta bag it wit’ one eye closed\nMy shooter turn you inside out\nI heard the Feds turned the crib inside out\nDrop the roof on you *, let the inside out\nFresh Prince jacket, boy, I cook ‘em till they inside out\n\nGo get a Glock, 27 fits snug in the waistline\nBoth sticks came with the drum\nI was 5’6”, shoulder with a chip\nWish a * to take mine\nIndex yanked till it’s numb\nUsed to call me Windex ‘cause this thing I spray gon’ make you change minds\nI done seen Hercules run\nWe was powerlifting 2.2’s\nNah, we ain’t throw gang signs\nMy brick walk was second to none\nI would have them take a number like DMV\nThat was the baseline\nCheckout on register one\nMiami * like Big Perm ‘cause they numbers was Faizon\nCubans showed me nothing but love\nWhen it come down to it, every Stringer Bell just needs an Avon\nWho won’t sweep it under the rug\nOn the road, with a load, *, break line\nI knew where to place mine\nI don’t keep the gun in the glove\nHit the turnpike with the running lights that be on in the daytime\nCause K9’s sniff out a crumb\nHands 3 and 9 on the wheel as I’m crossing the state line\nDumb, ditty, dumb, ditty, dumb\nSurvival of the fittest\nYou either get acquitted or face time\nI done had an infamous run\nMy story gon’ hit the first 48\nThen it’s on Dateline ‘cause this really * I’d done\n\nYou don’t know what I know\nYou ain’t seen what I saw, no\nYou ain’t been where I go\nWit’ a fetti so strong you gotta bag it wit’ one eye closed\nMy shooter turn you inside out\nI heard the Feds turned the crib inside out\nDrop the roof on you *, let the inside out\nFresh Prince jacket, boy, I cook ‘em till they inside out"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3M44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "335050",
+        "likeCount": "42873",
+        "favoriteCount": "0",
+        "commentCount": "2852"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "UplsaGhLj-lgbeYfUfSSkV8ymy0",
+      "id": "9c-DrMe8o5Q",
+      "snippet": {
+        "publishedAt": "2025-11-12T17:00:17Z",
+        "channelId": "UC2-BeLxzUBSs0uSrmzWhJuQ",
+        "title": "The Devil Wears Prada 2 | Teaser Trailer",
+        "description": "A sequel? For spring? Groundbreaking. Meryl Streep, Anne Hathaway, Emily Blunt, and Stanley Tucci return in The Devil Wears Prada 2, in theaters May 1, 2026. Watch the teaser trailer now. \n\nAlmost twenty years after making their iconic turns as Miranda, Andy, Emily and Nigel—Meryl Streep, Anne Hathaway, Emily Blunt and Stanley Tucci return to the fashionable streets of New York City and the sleek offices of Runway Magazine in the eagerly awaited sequel to the 2006 phenomenon that defined a generation. \n \nThe film reunites the original main cast with director David Frankel and writer Aline Brosh McKenna, and introduces an all-new runway of characters including Kenneth Branagh, Simone Ashley, Justin Theroux, Lucy Liu, Patrick Brammall, Caleb Hearon, Helen J. Shen, Pauline Chalamet, B.J. Novak and Conrad Ricamora. Tracie Thoms and Tibor Feldman also reprise their roles as “Lily” and “Irv” from the first film. \n \n“The Devil Wears Prada 2” is produced by Wendy Finerman, and executive produced by Michael Bederman, Karen Rosenfelt and McKenna. The film debuts exclusively in theaters May 1, 2026.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9c-DrMe8o5Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9c-DrMe8o5Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9c-DrMe8o5Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9c-DrMe8o5Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9c-DrMe8o5Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "20th Century Studios",
+        "tags": [
+          "Trailer"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "The Devil Wears Prada 2 | Teaser Trailer",
+          "description": "A sequel? For spring? Groundbreaking. Meryl Streep, Anne Hathaway, Emily Blunt, and Stanley Tucci return in The Devil Wears Prada 2, in theaters May 1, 2026. Watch the teaser trailer now. \n\nAlmost twenty years after making their iconic turns as Miranda, Andy, Emily and Nigel—Meryl Streep, Anne Hathaway, Emily Blunt and Stanley Tucci return to the fashionable streets of New York City and the sleek offices of Runway Magazine in the eagerly awaited sequel to the 2006 phenomenon that defined a generation. \n \nThe film reunites the original main cast with director David Frankel and writer Aline Brosh McKenna, and introduces an all-new runway of characters including Kenneth Branagh, Simone Ashley, Justin Theroux, Lucy Liu, Patrick Brammall, Caleb Hearon, Helen J. Shen, Pauline Chalamet, B.J. Novak and Conrad Ricamora. Tracie Thoms and Tibor Feldman also reprise their roles as “Lily” and “Irv” from the first film. \n \n“The Devil Wears Prada 2” is produced by Wendy Finerman, and executive produced by Michael Bederman, Karen Rosenfelt and McKenna. The film debuts exclusively in theaters May 1, 2026."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2640719",
+        "likeCount": "72185",
+        "favoriteCount": "0",
+        "commentCount": "2707"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5yPbt29Uhs-_o2tpHenxc3ueNEQ",
+      "id": "OmKrKTwtukE",
+      "snippet": {
+        "publishedAt": "2025-11-12T18:00:43Z",
+        "channelId": "UCg0FSqPeiGD_lIiPaaAehQg",
+        "title": "Steam Hardware Announcement",
+        "description": "Learn more and wishlist now: https://steampowered.com/hardware\nAnnouncing new Steam Hardware from Valve: Steam Controller, Steam Machine, and Steam Frame are coming in 2026. Just like Steam Deck, all three devices are optimized for Steam and designed for players to get even more out of their Steam library.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OmKrKTwtukE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OmKrKTwtukE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OmKrKTwtukE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OmKrKTwtukE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OmKrKTwtukE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Valve",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Steam Hardware Announcement",
+          "description": "Learn more and wishlist now: https://steampowered.com/hardware\nAnnouncing new Steam Hardware from Valve: Steam Controller, Steam Machine, and Steam Frame are coming in 2026. Just like Steam Deck, all three devices are optimized for Steam and designed for players to get even more out of their Steam library."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT6M17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2113622",
+        "likeCount": "344705",
+        "favoriteCount": "0",
+        "commentCount": "29320"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Jrd2EHXlW21RaUGblv_XMeQ0DSI",
+      "id": "pdOgqeexD7w",
+      "snippet": {
+        "publishedAt": "2025-11-12T20:00:48Z",
+        "channelId": "UCOBVHHugHl1EI3R5Zxs3fyA",
+        "title": "Topoppgen - Petty $hit (Official Video)",
+        "description": "Watch the official video for Petty $hit by Topoppgen\n\nListen to 'Kalon' Now: https://TopOppGen.lnk.to/kalon\n\nFollow TopOppGen:\nInstagram https://www.instagram.com/eyeammusic6...\nTikTok   / snapchatghost79  \nSoundcloud   / topoppgen  \n\n\n\n #trending #topoppgen #newartist #Kalon #Kalonalbum",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pdOgqeexD7w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pdOgqeexD7w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pdOgqeexD7w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pdOgqeexD7w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pdOgqeexD7w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Topoppgen",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Topoppgen - Petty $hit (Official Video)",
+          "description": "Watch the official video for Petty $hit by Topoppgen\n\nListen to 'Kalon' Now: https://TopOppGen.lnk.to/kalon\n\nFollow TopOppGen:\nInstagram https://www.instagram.com/eyeammusic6...\nTikTok   / snapchatghost79  \nSoundcloud   / topoppgen  \n\n\n\n #trending #topoppgen #newartist #Kalon #Kalonalbum"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+          "blocked": [
+            "RU"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "56378",
+        "likeCount": "6708",
+        "favoriteCount": "0",
+        "commentCount": "590"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "CSRxYewy2wPAwGDcpOB2_T4EVb4",
+      "id": "X6xQKNM1xA8",
+      "snippet": {
+        "publishedAt": "2025-11-11T22:44:47Z",
+        "channelId": "UC_ntXHv-XdKCD7CPynVvnQw",
+        "title": "ELDEN RING NIGHTREIGN The Forsaken Hollows | Official Gameplay Reveal Trailer",
+        "description": "In our war against the Night, every battle left a scar.\nThese wounds were given will. A foul life, born of cast-away souls.\nSteel your resolve, Nightfarers. This hunt must be seen to its end.\n#ELDENRING #NIGHTREIGN The Forsaken Hollows launches on December 4, 2025.\n\nFollow Bandai Namco Entertainment: \nX (Twitter): https://twitter.com/BandaiNamcoUS \nTikTok: https://www.tiktok.com/@bandainamcous\nInstagram: https://www.instagram.com/bandainamcous\nFacebook: https://www.facebook.com/BandaiNamcoUS\nTwitch: http://www.twitch.tv/bandainamcous",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X6xQKNM1xA8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X6xQKNM1xA8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X6xQKNM1xA8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X6xQKNM1xA8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X6xQKNM1xA8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bandai Namco Entertainment America",
+        "tags": [
+          "Bandai Namco",
+          "Bandai Namco Entertainment",
+          "video games",
+          "namco bandai",
+          "PS5",
+          "PS4",
+          "Xbox Series X",
+          "anime games",
+          "playstation",
+          "xbox",
+          "pc games"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "ELDEN RING NIGHTREIGN The Forsaken Hollows | Official Gameplay Reveal Trailer",
+          "description": "In our war against the Night, every battle left a scar.\nThese wounds were given will. A foul life, born of cast-away souls.\nSteel your resolve, Nightfarers. This hunt must be seen to its end.\n#ELDENRING #NIGHTREIGN The Forsaken Hollows launches on December 4, 2025.\n\nFollow Bandai Namco Entertainment: \nX (Twitter): https://twitter.com/BandaiNamcoUS \nTikTok: https://www.tiktok.com/@bandainamcous\nInstagram: https://www.instagram.com/bandainamcous\nFacebook: https://www.facebook.com/BandaiNamcoUS\nTwitch: http://www.twitch.tv/bandainamcous"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1M48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "362836",
+        "likeCount": "23300",
+        "favoriteCount": "0",
+        "commentCount": "1935"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZLvx0hEG_8ukAgHr4m6p7Z7hvag",
+      "id": "dU3ru09HTng",
+      "snippet": {
+        "publishedAt": "2025-11-12T17:59:59Z",
+        "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "title": "Every Other VR Headset is Obsolete Now - Steam Frame First Look",
+        "description": "Jawa’s dropping epic deals every day from Nov 22 - Dec. 2 Get $300 off select custom PCs and RTX 4080s for just $550 https://jawa.link/LTTNov25\n\nGet Grammarly today! http://grammarly.com/lttnov\n\nShop now at LTTStore to enter the Holiday Loot Drop: http://lmg.gg/lootdrop\n\nSteam Machine video SOON!\n\nCheck out the Valve Steam Frame: https://lmg.gg/D2a0i\n\nValve has announced the Steam Frame, Steam Machine, Steam controllers and so much more! Today Linus tries the new VR headset which uses Wifi 5Ghz and 6Ghz to deliver foveated streaming for a low latency high resolution experience unlike any other. But does it work as well as they claim?\n\nDiscuss on the forum: https://linustechtips.com/topic/1626620-valve-blew-away-my-expectations-steam-frame-first-look/\n\nCheck out our Channel Partners:\nSecretlab - Buy a Titan EVO ergonomic gaming chair: https://lmg.gg/secretlabltt\nPIA - Get the VPN of our choice: https://www.piavpn.com/ltt\ndbrand - Buy a \"Circuit\" series skin for your device: https://dbrand.com/pcb\n\n► GET OUR MERCH: https://lttstore.com\n► GET EXCLUSIVE CONTENT ON FLOATPLANE: https://lmg.gg/lttfloatplane\n► SPONSORS, AFFILIATES, AND PARTNERS: https://lmg.gg/partners\n\nPurchases made through some store links may provide some compensation to Linus Media Group. Affiliate links powered in part by https://affilimate.com/\n\nLinus Sebastian is an investor in Framework Computer, Inc\n\nCHAPTERS\n---------------------------------------------------\n0:00 Intro\n2:06 What is the Frame?\n2:29 The Headset\n2:56 The Optics\n4:08 New Controllers\n6:05 More about the Frame\n7:25 Why Wireless?\n8:36 Foveated Streaming\n10:55 Audio\n11:50 FEX and ARM\n13:50 The Industry should be scared\n15:43 Outro",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dU3ru09HTng/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dU3ru09HTng/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dU3ru09HTng/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dU3ru09HTng/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dU3ru09HTng/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Linus Tech Tips",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Every Other VR Headset is Obsolete Now - Steam Frame First Look",
+          "description": "Jawa’s dropping epic deals every day from Nov 22 - Dec. 2 Get $300 off select custom PCs and RTX 4080s for just $550 https://jawa.link/LTTNov25\n\nGet Grammarly today! http://grammarly.com/lttnov\n\nShop now at LTTStore to enter the Holiday Loot Drop: http://lmg.gg/lootdrop\n\nSteam Machine video SOON!\n\nCheck out the Valve Steam Frame: https://lmg.gg/D2a0i\n\nValve has announced the Steam Frame, Steam Machine, Steam controllers and so much more! Today Linus tries the new VR headset which uses Wifi 5Ghz and 6Ghz to deliver foveated streaming for a low latency high resolution experience unlike any other. But does it work as well as they claim?\n\nDiscuss on the forum: https://linustechtips.com/topic/1626620-valve-blew-away-my-expectations-steam-frame-first-look/\n\nCheck out our Channel Partners:\nSecretlab - Buy a Titan EVO ergonomic gaming chair: https://lmg.gg/secretlabltt\nPIA - Get the VPN of our choice: https://www.piavpn.com/ltt\ndbrand - Buy a \"Circuit\" series skin for your device: https://dbrand.com/pcb\n\n► GET OUR MERCH: https://lttstore.com\n► GET EXCLUSIVE CONTENT ON FLOATPLANE: https://lmg.gg/lttfloatplane\n► SPONSORS, AFFILIATES, AND PARTNERS: https://lmg.gg/partners\n\nPurchases made through some store links may provide some compensation to Linus Media Group. Affiliate links powered in part by https://affilimate.com/\n\nLinus Sebastian is an investor in Framework Computer, Inc\n\nCHAPTERS\n---------------------------------------------------\n0:00 Intro\n2:06 What is the Frame?\n2:29 The Headset\n2:56 The Optics\n4:08 New Controllers\n6:05 More about the Frame\n7:25 Why Wireless?\n8:36 Foveated Streaming\n10:55 Audio\n11:50 FEX and ARM\n13:50 The Industry should be scared\n15:43 Outro"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT16M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1399429",
+        "likeCount": "88965",
+        "favoriteCount": "0",
+        "commentCount": "6544"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Z5rqes8RdanECMCXIJ9sylusJKM",
+      "id": "cIHsaI2XET4",
+      "snippet": {
+        "publishedAt": "2025-11-12T17:00:59Z",
+        "channelId": "UCxMAbVFmxKUVGAll0WVGpFw",
+        "title": "Cardi B - ErrTime (feat. Jeezy) [Official Audio]",
+        "description": "Cardi B - ErrTime (feat. Jeezy)\nStream/Download: https://CardiB.lnk.to/ErrtimeJeezy\n\nAM I THE DRAMA? (The Snow Mix) out now: https://CardiB.lnk.to/AITDTheSnowMix\n\nSubscribe for more official content from Cardi B: https://CardiB.lnk.to/Subscribe\n\nFollow Cardi B\nhttps://www.cardib.com/\nhttp://Instagram.com/iamcardib\nhttps://www.tiktok.com/@iamcardib\nhttp://x.com/IAmCardiB\nhttps://Facebook.com/cardib\nhttp://Soundcloud.com/IAmCardiB\n\nThe official YouTube channel of Atlantic Records artist Cardi B. Subscribe for the latest music videos, performances, and more.\n\n#ErrTime #CardiB #Jeezy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cIHsaI2XET4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cIHsaI2XET4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cIHsaI2XET4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cIHsaI2XET4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cIHsaI2XET4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cardi B",
+        "tags": [
+          "Cardi B",
+          "Cardi",
+          "Atlantic Records",
+          "rap",
+          "hip hop",
+          "Bodak Yellow",
+          "invasion of privacy",
+          "finesse",
+          "cardi b",
+          "cardi",
+          "cardi b new album",
+          "cardi b new music",
+          "cardi b am i the drama",
+          "am i the drama",
+          "am i the drama cardi b",
+          "am i the drama?",
+          "cardi b am i the drama?",
+          "Cardi B - ErrTime [Official Audio]",
+          "cardi b errtime",
+          "errtime cardi b",
+          "errtime",
+          "errTime",
+          "errTime cardi b",
+          "cardi b errTime",
+          "cardi errtime",
+          "errtime cardi",
+          "CARDI B ALBUM",
+          "cardi b latto",
+          "cardi b jeezy",
+          "jeezy"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Cardi B - ErrTime (feat. Jeezy) [Official Audio]",
+          "description": "Cardi B - ErrTime (feat. Jeezy)\nStream/Download: https://CardiB.lnk.to/ErrtimeJeezy\n\nAM I THE DRAMA? (The Snow Mix) out now: https://CardiB.lnk.to/AITDTheSnowMix\n\nSubscribe for more official content from Cardi B: https://CardiB.lnk.to/Subscribe\n\nFollow Cardi B\nhttps://www.cardib.com/\nhttp://Instagram.com/iamcardib\nhttps://www.tiktok.com/@iamcardib\nhttp://x.com/IAmCardiB\nhttps://Facebook.com/cardib\nhttp://Soundcloud.com/IAmCardiB\n\nThe official YouTube channel of Atlantic Records artist Cardi B. Subscribe for the latest music videos, performances, and more.\n\n#ErrTime #CardiB #Jeezy"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3M17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": [
+            "BY",
+            "RU"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "60972",
+        "likeCount": "7417",
+        "favoriteCount": "0",
+        "commentCount": "867"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qADDEebMpX_5WmhYU05XaMOipRI",
+      "id": "CaSxNAZUKsM",
+      "snippet": {
+        "publishedAt": "2025-11-12T14:00:00Z",
+        "channelId": "UCfnXpb2MPBULONuZCyaKgmA",
+        "title": "GOOD LUCK, HAVE FUN, DON'T DIE | Teaser Trailer | February 13 - Only in Theaters",
+        "description": "A man claiming to be from the future takes the patrons of an iconic Los Angeles diner hostage in search of unlikely recruits in a quest to save the world. February 13 - Only in Theaters\n\nDirected by: Gore Verbinski\n\nStarring: Sam Rockwell, Haley Lu Richardson, Michael Peña, Zazie Beetz, Asim Chandhry, Tom Taylor, Juno Temple\n \nhttps://www.facebook.com/GoodLuckHaveFunDontDieMovie/\nhttps://www.instagram.com/goodluckhavefundontdie\nhttps://x.com/glhfddmovie\nhttps://www.tiktok.com/@goodluckhavefundontdie",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CaSxNAZUKsM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CaSxNAZUKsM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CaSxNAZUKsM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CaSxNAZUKsM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CaSxNAZUKsM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Briarcliff Entertainment",
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "GOOD LUCK, HAVE FUN, DON'T DIE | Teaser Trailer | February 13 - Only in Theaters",
+          "description": "A man claiming to be from the future takes the patrons of an iconic Los Angeles diner hostage in search of unlikely recruits in a quest to save the world. February 13 - Only in Theaters\n\nDirected by: Gore Verbinski\n\nStarring: Sam Rockwell, Haley Lu Richardson, Michael Peña, Zazie Beetz, Asim Chandhry, Tom Taylor, Juno Temple\n \nhttps://www.facebook.com/GoodLuckHaveFunDontDieMovie/\nhttps://www.instagram.com/goodluckhavefundontdie\nhttps://x.com/glhfddmovie\nhttps://www.tiktok.com/@goodluckhavefundontdie"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "348434",
+        "likeCount": "10002",
+        "favoriteCount": "0",
+        "commentCount": "520"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "CGyHXKmE25g8_R1VFIJ6jYdE9xA",
+      "id": "c53r8-xQE78",
+      "snippet": {
+        "publishedAt": "2025-11-12T18:00:11Z",
+        "channelId": "UCVhkzoReyB25jpFEeXjh3kQ",
+        "title": "TRUST THE PROCESS | A Call of Duty Documentary",
+        "description": "Get your OpTic Merch Here: https://shop.opticgaming.com/\n\nCheck out the OpTic Podcast here: \nhttps://podcasts.apple.com/us/podcast/optic-podcast/id1542810047\n\nhttps://open.spotify.com/show/25iPKftrl0akOZKqS0wHQG\n\n\n---Socials---\nhttps://www.instagram.com/opticgaming\nhttps://twitter.com/OpTic\n\nMB01VRXLRVBBYYQ\nMB01X7JUSD3A4IT\nMB01IAETAWIBXU9",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c53r8-xQE78/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c53r8-xQE78/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c53r8-xQE78/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/c53r8-xQE78/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/c53r8-xQE78/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OpTic Gaming",
+        "tags": [
+          "optic",
+          "optic gaming",
+          "gaming",
+          "optic nation",
+          "greenwall",
+          "best of optic",
+          "esports",
+          "warzone",
+          "call of duty warzone",
+          "cdl drama",
+          "scump pov",
+          "scumpy",
+          "OpTic texas",
+          "shotzzy",
+          "formal",
+          "bigt",
+          "montage",
+          "vision",
+          "funny moments",
+          "reacts",
+          "Call of Duty",
+          "Modern Warfare 3",
+          "Pro Call of Duty",
+          "CDL",
+          "Call of Duty League",
+          "Fails",
+          "Wins",
+          "Funny",
+          "Streaming",
+          "Humor",
+          "OpTic Best Moments",
+          "Call of Duty Best Moments"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "TRUST THE PROCESS | A Call of Duty Documentary",
+          "description": "Get your OpTic Merch Here: https://shop.opticgaming.com/\n\nCheck out the OpTic Podcast here: \nhttps://podcasts.apple.com/us/podcast/optic-podcast/id1542810047\n\nhttps://open.spotify.com/show/25iPKftrl0akOZKqS0wHQG\n\n\n---Socials---\nhttps://www.instagram.com/opticgaming\nhttps://twitter.com/OpTic\n\nMB01VRXLRVBBYYQ\nMB01X7JUSD3A4IT\nMB01IAETAWIBXU9"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2H51M19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "309512",
+        "likeCount": "23819",
+        "favoriteCount": "0",
+        "commentCount": "2262"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "YTdkjo6RXQsgX16IlEbNMwQKYjE",
+      "id": "Y6L0B3S_C-o",
+      "snippet": {
+        "publishedAt": "2025-11-12T08:02:24Z",
+        "channelId": "UCFZWwdDTeBrTWJs0v1_GHpg",
+        "title": "Losin' Streak",
+        "description": "Provided to YouTube by Atlantic Records\n\nLosin' Streak · Hazbin Hotel · Blake Roman · Sam Haft · Andrew Underberg\n\nHazbin Hotel: Season Two (Episodes 5 - 6) [Original Soundtrack]\n\n℗ 2025 Amazon Content Services LLC under exclusive license to Atlantic Recording Corporation\n\nKeyboards, Programming: Andrew Underberg\nVocals: Blake Roman\nArranger: George Luton\nVocals: Hazbin Hotel\nKeyboards, Programming: Sam Haft\nDrums: Sergio da Silva\nWriter: Sam Haft\nWriter: Andrew Underberg\n\nAuto-generated by YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y6L0B3S_C-o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y6L0B3S_C-o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y6L0B3S_C-o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y6L0B3S_C-o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y6L0B3S_C-o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hazbin Hotel - Topic",
+        "tags": [
+          "Hazbin Hotel",
+          "Blake Roman",
+          "Sam Haft",
+          "Andrew Underberg",
+          "Hazbin Hotel: Season Two (Episodes 5 - 6) [Original Soundtrack]",
+          "Losin' Streak"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Losin' Streak",
+          "description": "Provided to YouTube by Atlantic Records\n\nLosin' Streak · Hazbin Hotel · Blake Roman · Sam Haft · Andrew Underberg\n\nHazbin Hotel: Season Two (Episodes 5 - 6) [Original Soundtrack]\n\n℗ 2025 Amazon Content Services LLC under exclusive license to Atlantic Recording Corporation\n\nKeyboards, Programming: Andrew Underberg\nVocals: Blake Roman\nArranger: George Luton\nVocals: Hazbin Hotel\nKeyboards, Programming: Sam Haft\nDrums: Sergio da Silva\nWriter: Sam Haft\nWriter: Andrew Underberg\n\nAuto-generated by YouTube."
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": [
+            "AE",
+            "AR",
+            "AS",
+            "AT",
+            "AU",
+            "AW",
+            "AZ",
+            "BA",
+            "BD",
+            "BE",
+            "BG",
+            "BH",
+            "BM",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GE",
+            "GF",
+            "GH",
+            "GP",
+            "GR",
+            "GT",
+            "GU",
+            "HK",
+            "HN",
+            "HR",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IN",
+            "IQ",
+            "IS",
+            "IT",
+            "JM",
+            "JO",
+            "JP",
+            "KE",
+            "KH",
+            "KR",
+            "KW",
+            "KY",
+            "KZ",
+            "LA",
+            "LB",
+            "LI",
+            "LK",
+            "LT",
+            "LU",
+            "LV",
+            "LY",
+            "MA",
+            "MK",
+            "MP",
+            "MQ",
+            "MT",
+            "MX",
+            "MY",
+            "NC",
+            "NG",
+            "NI",
+            "NL",
+            "NO",
+            "NP",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PF",
+            "PG",
+            "PH",
+            "PK",
+            "PL",
+            "PR",
+            "PT",
+            "PY",
+            "QA",
+            "RE",
+            "RO",
+            "RS",
+            "SA",
+            "SE",
+            "SG",
+            "SI",
+            "SK",
+            "SN",
+            "SV",
+            "TC",
+            "TH",
+            "TN",
+            "TR",
+            "TW",
+            "TZ",
+            "UA",
+            "UG",
+            "US",
+            "UY",
+            "VE",
+            "VI",
+            "VN",
+            "YE",
+            "YT",
+            "ZA",
+            "ZW"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "210566",
+        "likeCount": "12004",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "LYelg8pltHKY64Mpz4fP-xxTrrg",
+      "id": "pU28ukue2zw",
+      "snippet": {
+        "publishedAt": "2025-11-12T19:13:24Z",
+        "channelId": "UCkFbAywlXz4W0BCle2eFyUw",
+        "title": "The Mario Galaxy Movie Trailer Looks...",
+        "description": "Super Mario Galaxy Trailer Breakdown. Nintendo revealed in a Nintendo Direct the official trailer and voice actors for Rosalina and Bowser Jr. I give you my trailer reaction along with my trailer breakdown point out easer eggs and refrences to Mario Galaxy Sunshine Wonder & Odyssey. The Super Mario Galaxy Movie Trailer\n\n\n\n------------------------SOCIAL MEDIA ------------------------\n\nTik Tok: https://www.tiktok.com/@3cfilms?lang=en\nTwitter: https://twitter.com/3CFilmss\nTwitch: https://www.twitch.tv/3c_films\nInstagram: https://www.instagram.com/3cfilm/\n\nBusiness Inquiries:\n3cfilmreview@gmail.com\n\nThank You For Any Support!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pU28ukue2zw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pU28ukue2zw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pU28ukue2zw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pU28ukue2zw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pU28ukue2zw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "3C Films",
+        "tags": [
+          "mario",
+          "super mario",
+          "super mario galaxy",
+          "super mario galaxy movie",
+          "super mario movie 2",
+          "trailer",
+          "teaser trailer",
+          "3cfilms",
+          "3c films",
+          "mario galaxy movie"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "The Mario Galaxy Movie Trailer Looks...",
+          "description": "Super Mario Galaxy Trailer Breakdown. Nintendo revealed in a Nintendo Direct the official trailer and voice actors for Rosalina and Bowser Jr. I give you my trailer reaction along with my trailer breakdown point out easer eggs and refrences to Mario Galaxy Sunshine Wonder & Odyssey. The Super Mario Galaxy Movie Trailer\n\n\n\n------------------------SOCIAL MEDIA ------------------------\n\nTik Tok: https://www.tiktok.com/@3cfilms?lang=en\nTwitter: https://twitter.com/3CFilmss\nTwitch: https://www.twitch.tv/3c_films\nInstagram: https://www.instagram.com/3cfilm/\n\nBusiness Inquiries:\n3cfilmreview@gmail.com\n\nThank You For Any Support!"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT11M7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "70483",
+        "likeCount": "4651",
+        "favoriteCount": "0",
+        "commentCount": "438"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "sRip7xQ5vVSF3d7n6u4A54Cw9JQ",
+      "id": "SCAKX1luh_0",
+      "snippet": {
+        "publishedAt": "2025-11-13T01:33:23Z",
+        "channelId": "UCq6VFHwMzcMXbuKyG7SQYIg",
+        "title": "Dispatch finale",
+        "description": "Member discord https://discord.gg/KZBF7Pb2n4\nOur new soap is here https://usecheeky.com/\nMerch https://moistglobal.com/\nComics https://badegg.co/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SCAKX1luh_0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SCAKX1luh_0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SCAKX1luh_0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SCAKX1luh_0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "penguinz0",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Dispatch finale",
+          "description": "Member discord https://discord.gg/KZBF7Pb2n4\nOur new soap is here https://usecheeky.com/\nMerch https://moistglobal.com/\nComics https://badegg.co/"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3H2M9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "425801",
+        "likeCount": "17990",
+        "favoriteCount": "0",
+        "commentCount": "660"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "BO7-pOkXWLnPl_HSQO4OG9ISnks",
+      "id": "fhr_XwSYf8w",
+      "snippet": {
+        "publishedAt": "2025-11-12T21:00:50Z",
+        "channelId": "UCV0pIPt5HFfulonNog3cz1A",
+        "title": "G Herbo - Fallen Soldiers (Official Music Video)",
+        "description": "Official music video for \"Fallen Soldiers\", available everywhere now: https://gherbo.lnk.to/LilHerb\n\nSubscribe to G Herbo's official channel for exclusive music videos & behind the scenes footage: http://bit.ly/Subscribe-to-GHerbo\n\nMore G Herbo:\nhttps://fb.com/gherbomusic\nhttp://twitter.com/gherbo\nhttps://instagram.com/nolimitherbo\nhttps://www.tiktok.com/@gherbo\nhttps://soundcloud.com/gherbo\nhttp://spoti.fi/1LwQTBk\nhttp://gherbomusic.com\n\n#LILHERB #GHERBO",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fhr_XwSYf8w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fhr_XwSYf8w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fhr_XwSYf8w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fhr_XwSYf8w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fhr_XwSYf8w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "G Herbo",
+        "tags": [
+          "G herbo",
+          "g herbo official",
+          "g herbo music",
+          "swervo",
+          "strictly 4 my fans",
+          "g herbo ptsd",
+          "survivors remorse",
+          "rap music",
+          "hip hop",
+          "chicago rap",
+          "BossMan D Low",
+          "Bossman",
+          "DLow",
+          "Lil Durk",
+          "Polo G",
+          "Chicago",
+          "drill",
+          "King Louie",
+          "new hip hop",
+          "new drill wave",
+          "Chief Keef",
+          "Lil Zay Osama",
+          "600 Breezy",
+          "600Breezy",
+          "nba youngboy",
+          "skilla baby",
+          "gherbo 2024",
+          "lil herb",
+          "Von Off 1700",
+          "Von",
+          "King Von",
+          "g herbo reason",
+          "new rap 2025",
+          "new drill 2025",
+          "hunxho"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "G Herbo - Fallen Soldiers (Official Music Video)",
+          "description": "Official music video for \"Fallen Soldiers\", available everywhere now: https://gherbo.lnk.to/LilHerb\n\nSubscribe to G Herbo's official channel for exclusive music videos & behind the scenes footage: http://bit.ly/Subscribe-to-GHerbo\n\nMore G Herbo:\nhttps://fb.com/gherbomusic\nhttp://twitter.com/gherbo\nhttps://instagram.com/nolimitherbo\nhttps://www.tiktok.com/@gherbo\nhttps://soundcloud.com/gherbo\nhttp://spoti.fi/1LwQTBk\nhttp://gherbomusic.com\n\n#LILHERB #GHERBO"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT4M41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+          "blocked": [
+            "BY",
+            "RU"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "88786",
+        "likeCount": "8894",
+        "favoriteCount": "0",
+        "commentCount": "761"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "jnjwQOJ3ypelNbINhYi4VHCO6Hg",
+      "id": "ZvFmElCcKVg",
+      "snippet": {
+        "publishedAt": "2025-11-12T18:00:01Z",
+        "channelId": "UCJ6nMHaJPZvsJ-HmUmj1SeA",
+        "title": "The Housemaid (2025) Official Trailer 2 - Sydney Sweeney, Amanda Seyfried, Brandon Sklenar",
+        "description": "THE HOUSEMAID – in theaters December 19, 2025. Starring Sydney Sweeney, Amanda Seyfried, Brandon Sklenar, Michele Morrone, and Elizabeth Perkins.\n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\nhttps://www.instagram.com/housemaidmovie\nhttps://www.facebook.com/HousemaidMovie\nhttps://x.com/HousemaidMovie\nhttps://www.tiktok.com/@housemaidmovie   \nhttps://www.threads.com/@housemaidmovie\n\n#TheHousemaidMovie\n\nTHE HOUSEMAID is a wildly entertaining thriller starring Sydney Sweeney and Amanda Seyfried, based on the best-selling book. From director Paul Feig, the film plunges audiences into a twisted world where perfection is an illusion, and nothing is as it seems. Trying to escape her past, Millie (Sweeney) accepts a job as a live-in housemaid for the wealthy Nina (Seyfried) and Andrew Winchester (Brandon Sklenar). But what begins as a dream job quickly unravels into something far more dangerous — a sexy, seductive game of secrets, scandal, and power. Behind the Winchesters’ closed doors lies a world of shocking twists that will leave you guessing until the very end.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZvFmElCcKVg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZvFmElCcKVg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZvFmElCcKVg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZvFmElCcKVg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZvFmElCcKVg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Lionsgate Movies",
+        "tags": [
+          "The Housemaid",
+          "The Housemaid 2025",
+          "The Housemaid 2025 official trailer",
+          "The Housemaid 2025 trailer",
+          "The Housemaid 2025 movie",
+          "The Housemaid 2025 film",
+          "official trailer",
+          "trailer",
+          "Paul Feig",
+          "Sydney Sweeney",
+          "Amanda Seyfried",
+          "psychological thriller",
+          "Freida McFadden",
+          "book adaptation",
+          "suspense movie",
+          "mystery film",
+          "movie trailer",
+          "upcoming film",
+          "movie release",
+          "thriller movie",
+          "Lionsgate",
+          "film based on novel",
+          "adaptation",
+          "sydney sweeney movie",
+          "new movie"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "The Housemaid (2025) Official Trailer 2 - Sydney Sweeney, Amanda Seyfried, Brandon Sklenar",
+          "description": "THE HOUSEMAID – in theaters December 19, 2025. Starring Sydney Sweeney, Amanda Seyfried, Brandon Sklenar, Michele Morrone, and Elizabeth Perkins.\n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\nhttps://www.instagram.com/housemaidmovie\nhttps://www.facebook.com/HousemaidMovie\nhttps://x.com/HousemaidMovie\nhttps://www.tiktok.com/@housemaidmovie   \nhttps://www.threads.com/@housemaidmovie\n\n#TheHousemaidMovie\n\nTHE HOUSEMAID is a wildly entertaining thriller starring Sydney Sweeney and Amanda Seyfried, based on the best-selling book. From director Paul Feig, the film plunges audiences into a twisted world where perfection is an illusion, and nothing is as it seems. Trying to escape her past, Millie (Sweeney) accepts a job as a live-in housemaid for the wealthy Nina (Seyfried) and Andrew Winchester (Brandon Sklenar). But what begins as a dream job quickly unravels into something far more dangerous — a sexy, seductive game of secrets, scandal, and power. Behind the Winchesters’ closed doors lies a world of shocking twists that will leave you guessing until the very end."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "72249",
+        "likeCount": "1769",
+        "favoriteCount": "0",
+        "commentCount": "176"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "fsqprEARWqaDQNAlQGfDQ3MHIRk",
+      "id": "xnzhnB9u6jw",
+      "snippet": {
+        "publishedAt": "2025-11-12T20:27:22Z",
+        "channelId": "UCkAKWwzuUnmzo1de5j-qiAQ",
+        "title": "Dispatch Episode 7 & 8 Full Playthrough (Uncensored, Invisigal, Sonar & Phenomenon Route)",
+        "description": "00:00 Episode 7\n45:21 Episode 8\n\nBecome a Member: https://www.youtube.com/channel/UCkAKWwzuUnmzo1de5j-qiAQ/join\n\nFollow me on Twitter: https://twitter.com/CGInfernoBlast\nFollow me on Twitch: https://www.twitch.tv/CGInferno",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xnzhnB9u6jw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xnzhnB9u6jw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xnzhnB9u6jw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xnzhnB9u6jw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xnzhnB9u6jw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CGInferno",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Dispatch Episode 7 & 8 Full Playthrough (Uncensored, Invisigal, Sonar & Phenomenon Route)",
+          "description": "00:00 Episode 7\n45:21 Episode 8\n\nBecome a Member: https://www.youtube.com/channel/UCkAKWwzuUnmzo1de5j-qiAQ/join\n\nFollow me on Twitter: https://twitter.com/CGInfernoBlast\nFollow me on Twitch: https://www.twitch.tv/CGInferno"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2H13M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "226820",
+        "likeCount": "7673",
+        "favoriteCount": "0",
+        "commentCount": "600"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Mehi63TVQf3_hykpL4Ou7DOZSk4",
+      "id": "JOw3y4CNeRs",
+      "snippet": {
+        "publishedAt": "2025-11-12T14:08:59Z",
+        "channelId": "UCNqFDjYTexJDET3rPDrmJKg",
+        "title": "Scorpions - Still Loving You (Lyrics)",
+        "description": "🎵 Follow the official 7clouds playlist on Spotify : http://spoti.fi/2SJsUcZ\n​🎧 Scorpions - Still Loving You (Lyrics)\n⏬ Download / Stream: https://scorpions.lnk.to/FromTheFirstSting\n🔔 Turn on notifications to stay updated with new uploads!\n\n❤️ Follow our Spotify playlists: http://bit.ly/7cloudsSpotify\n💪 Workout Music: http://workout.7clouds.link\n🎮 Gaming Music: http://gaming.7clouds.link\n🌍 Best Pop Music: http://pop.7clouds.link\n🤬 Hardstyle Music: http://hardstyle.7clouds.link\n🥁 Drum & Bass: http://dnb.7clouds.link\n🔊 Hypertechno: http://techno.7clouds.link\n😡 Phonk Music: http://phonk.7clouds.link\n☁️ 7clouds Releases: http://release.7clouds.link\n\n👉 Scorpions\nhttps://www.instagram.com/Scorpions/\nhttps://www.facebook.com/Scorpions\nhttps://www.facebook.com/Scorpions\nhttps://x.com/Scorpions\n\n☁️ 7clouds:\nhttps://open.spotify.com/user/7cloudsmusic\nhttps://soundcloud.com/7cloudsmusic\nhttps://audiomack.com/7cloudsmusic\nhttps://facebook.com/7cloudsofficial\nhttps://discord.com/invite/d5Arh8Y\nhttps://twitter.com/7cloudsmusic\nhttps://instagram.com/7clouds\nhttps://tiktok.com/@7clouds\nhttps://7clouds.org\n\n.........\n🎤 Lyrics: Scorpions - Still Loving You\n\n[Verse 1]\nTime, it needs time\nTo win back your love again\nI will be there, I will be there\nLove, only love\nCan bring back your love someday\nI will be there, I will be there\n\n[Instrumental Break]\n\n[Verse 2]\nFight, babe, I'll fight\nTo win back your love again\nI will be there, I will be there\nLove, only love\nCan break down the wall someday\nI will be there, I will be there\n\n[Chorus]\nIf we'd go again\nAll the way from the start\nI would try to change\nThe things that killed our love\nYour pride has built a wall so strong\nThat I can't get through\nIs there really no chance\nTo start once again?\nI'm loving you\n\n[Instrumental Break]\n\n[Verse 3]\nTry, baby, try\nTo trust in my love again\nI will be there, I will be there\nLove, our love\nJust shouldn't be thrown away\nI will be there, I will be there\n\n[Chorus]\nIf we'd go again\nAll the way from the start\nI would try to change\nThe things that killed our love\nYour pride has built a wall so strong\nThat I can't get through\nIs there really no chance\nTo start once again?\n\n[Chorus / Guitar Solo]\nIf we'd go again\nAll the way from the start\nI would try to change\nThe things that killed our love\nYes, I've hurt your pride and I know\nWhat you've been through\nYou should give me a chance\nThis can't be the end\nI'm still loving you\nI’m still loving you\nI'm still loving you\nI need your love\nI'm still loving you\nStill loving you, baby, woo!\nI'm still loving you\nI need your love\nI'm still loving you\nI need your love, woo!\nI'm still loving you\nI need your love, woo!\nI need your love\nI need your love\n\n.........\n📧 Contact / Demo Submissions: contact@7clouds.org\n.........\n💌 Demos / Music Submissions: https://7clouds.portal.district.biz\n.........\n\n #scoprions #stilllovingyou #lyrics #7clouds",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JOw3y4CNeRs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JOw3y4CNeRs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JOw3y4CNeRs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JOw3y4CNeRs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JOw3y4CNeRs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "7clouds",
+        "tags": [
+          "still loving you",
+          "still loving you lyrics",
+          "lyrics still loving you",
+          "scorpions",
+          "lyrics",
+          "scorpions still loving you",
+          "still loving you scorpions",
+          "scorpions still loving you lyrics",
+          "lyrics scorpions still loving you",
+          "scorpions lyrics still loving you",
+          "still loving you lyrics scorpions",
+          "lyrics still loving you scorpions",
+          "still loving you scorpions lyrics",
+          "If we'd go again",
+          "All the way from the start",
+          "I would try to change",
+          "The things that killed our love",
+          "I'm still loving you",
+          "rock"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Scorpions - Still Loving You (Lyrics)",
+          "description": "🎵 Follow the official 7clouds playlist on Spotify : http://spoti.fi/2SJsUcZ\n​🎧 Scorpions - Still Loving You (Lyrics)\n⏬ Download / Stream: https://scorpions.lnk.to/FromTheFirstSting\n🔔 Turn on notifications to stay updated with new uploads!\n\n❤️ Follow our Spotify playlists: http://bit.ly/7cloudsSpotify\n💪 Workout Music: http://workout.7clouds.link\n🎮 Gaming Music: http://gaming.7clouds.link\n🌍 Best Pop Music: http://pop.7clouds.link\n🤬 Hardstyle Music: http://hardstyle.7clouds.link\n🥁 Drum & Bass: http://dnb.7clouds.link\n🔊 Hypertechno: http://techno.7clouds.link\n😡 Phonk Music: http://phonk.7clouds.link\n☁️ 7clouds Releases: http://release.7clouds.link\n\n👉 Scorpions\nhttps://www.instagram.com/Scorpions/\nhttps://www.facebook.com/Scorpions\nhttps://www.facebook.com/Scorpions\nhttps://x.com/Scorpions\n\n☁️ 7clouds:\nhttps://open.spotify.com/user/7cloudsmusic\nhttps://soundcloud.com/7cloudsmusic\nhttps://audiomack.com/7cloudsmusic\nhttps://facebook.com/7cloudsofficial\nhttps://discord.com/invite/d5Arh8Y\nhttps://twitter.com/7cloudsmusic\nhttps://instagram.com/7clouds\nhttps://tiktok.com/@7clouds\nhttps://7clouds.org\n\n.........\n🎤 Lyrics: Scorpions - Still Loving You\n\n[Verse 1]\nTime, it needs time\nTo win back your love again\nI will be there, I will be there\nLove, only love\nCan bring back your love someday\nI will be there, I will be there\n\n[Instrumental Break]\n\n[Verse 2]\nFight, babe, I'll fight\nTo win back your love again\nI will be there, I will be there\nLove, only love\nCan break down the wall someday\nI will be there, I will be there\n\n[Chorus]\nIf we'd go again\nAll the way from the start\nI would try to change\nThe things that killed our love\nYour pride has built a wall so strong\nThat I can't get through\nIs there really no chance\nTo start once again?\nI'm loving you\n\n[Instrumental Break]\n\n[Verse 3]\nTry, baby, try\nTo trust in my love again\nI will be there, I will be there\nLove, our love\nJust shouldn't be thrown away\nI will be there, I will be there\n\n[Chorus]\nIf we'd go again\nAll the way from the start\nI would try to change\nThe things that killed our love\nYour pride has built a wall so strong\nThat I can't get through\nIs there really no chance\nTo start once again?\n\n[Chorus / Guitar Solo]\nIf we'd go again\nAll the way from the start\nI would try to change\nThe things that killed our love\nYes, I've hurt your pride and I know\nWhat you've been through\nYou should give me a chance\nThis can't be the end\nI'm still loving you\nI’m still loving you\nI'm still loving you\nI need your love\nI'm still loving you\nStill loving you, baby, woo!\nI'm still loving you\nI need your love\nI'm still loving you\nI need your love, woo!\nI'm still loving you\nI need your love, woo!\nI need your love\nI need your love\n\n.........\n📧 Contact / Demo Submissions: contact@7clouds.org\n.........\n💌 Demos / Music Submissions: https://7clouds.portal.district.biz\n.........\n\n #scoprions #stilllovingyou #lyrics #7clouds"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT6M42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "252605",
+        "likeCount": "1402",
+        "favoriteCount": "0",
+        "commentCount": "121"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "WfQZEbVbfKJ_MNM0CRGoj9dql4U",
+      "id": "jxl1LAtuqmk",
+      "snippet": {
+        "publishedAt": "2025-11-12T17:31:54Z",
+        "channelId": "UC-YzOyNh3lucFu_mfLyNwFg",
+        "title": "Everything You MISSED In The Super Mario Galaxy Movie TRAILER!",
+        "description": "The first trailer for the Super Mario Galaxy Movie is HERE and today, I dissect the entire trailer to show you all of the big and small details it has to offer! There's more than you think! \n\nIf you enjoyed the video, make sure to subscribe, leave a like and hit the bell to stay up to date on all things Nintendo, it helps more than you think!\n\nIntro By Paulygon:\nhttps://www.youtube.com/watch?v=nDBUfySOapM\n\nOutro: Qumu Pikmin \"Today's Results\" Remix-\nhttps://www.youtube.com/watch?v=OHN7GhNuZ0E\n\nFollow me on social media for more content and updates!\nTwitter:\nhttps://twitter.com/nin10doland\n-----------------------------------------------------------------------------------\nOfficial Nin10doland Discord:\nhttps://discord.gg/49hv292\n-------------------------------------------------------------------------------------\nInstagram:\nNin10doland: https://www.instagram.com/nin10doland/\nPersonal: https://www.instagram.com/lstrouse7/\n------------------------------------------------------------------------------------\nNin10doland Members:\nClick \"Memberships\" beside the subscribe button to get some awesome in chat perks, play with me on livestreams, and also have some sweet loyalty badges all for a super low price!\n-------------------------------------------------------------------------------------",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jxl1LAtuqmk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jxl1LAtuqmk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jxl1LAtuqmk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jxl1LAtuqmk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jxl1LAtuqmk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nin10doland",
+        "tags": [
+          "Mario galaxy movie",
+          "Mario movie",
+          "Mario galaxy movie trailer",
+          "trailer",
+          "Mario galaxy movie reaction",
+          "reaction",
+          "live",
+          "mario",
+          "nintendo direct",
+          "direct",
+          "nintendo",
+          "Mario galaxy movie direct",
+          "switch 2",
+          "upcoming switch 2 games",
+          "3d mario",
+          "holiday switch 2 games",
+          "things you missed",
+          "details you missed"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Everything You MISSED In The Super Mario Galaxy Movie TRAILER!",
+          "description": "The first trailer for the Super Mario Galaxy Movie is HERE and today, I dissect the entire trailer to show you all of the big and small details it has to offer! There's more than you think! \n\nIf you enjoyed the video, make sure to subscribe, leave a like and hit the bell to stay up to date on all things Nintendo, it helps more than you think!\n\nIntro By Paulygon:\nhttps://www.youtube.com/watch?v=nDBUfySOapM\n\nOutro: Qumu Pikmin \"Today's Results\" Remix-\nhttps://www.youtube.com/watch?v=OHN7GhNuZ0E\n\nFollow me on social media for more content and updates!\nTwitter:\nhttps://twitter.com/nin10doland\n-----------------------------------------------------------------------------------\nOfficial Nin10doland Discord:\nhttps://discord.gg/49hv292\n-------------------------------------------------------------------------------------\nInstagram:\nNin10doland: https://www.instagram.com/nin10doland/\nPersonal: https://www.instagram.com/lstrouse7/\n------------------------------------------------------------------------------------\nNin10doland Members:\nClick \"Memberships\" beside the subscribe button to get some awesome in chat perks, play with me on livestreams, and also have some sweet loyalty badges all for a super low price!\n-------------------------------------------------------------------------------------"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT13M18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "52844",
+        "likeCount": "2524",
+        "favoriteCount": "0",
+        "commentCount": "358"
+      }
+    }
+  ]
+}

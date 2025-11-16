@@ -1,11 +1,35 @@
 // /src/3_services/stt.service.js
-import fs from 'fs';
 import path from 'path';
-// import ytdl from 'ytdl-core'; // 유튜브 다운로드 라이브러리
 import ytDlpExec from 'yt-dlp-exec';
+import { pipeline, read_audio } from '@xenova/transformers';
+import fs from 'fs/promises';
+import { fileURLToPath } from 'url';
 
-// [신규] Transformers.js 라이브러리 임포트
-import { pipeline } from '@xenova/transformers';
+// __dirname 설정
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+// /data/scripts/ 폴더에 저장
+const SCRIPT_DATA_DIR = path.join(__dirname, '../../data/scripts');
+
+/**
+ * [Spec 5.4 - 신규] 요구사항 4: 고유한 타임스탬프 폴더 생성
+ * @param {string} query - 검색어 (폴더명에 사용)
+ * @returns {Promise<string>} 생성된 폴더의 전체 경로
+ */
+export async function createTimestampedDir(query) {
+  const now = new Date();
+  const yyyymmdd = now.toISOString().slice(0, 10).replace(/-/g, '');
+  const hhmmss = now.toTimeString().slice(0, 8).replace(/:/g, '');
+  const safeQuery = query.replace(/[^a-zA-Z0-9ㄱ-ㅎㅏ-ㅣ가-힣]/g, '').slice(0, 15);
+
+  // 예: /data/scripts/20251110_153000_AI반도체
+  const dirName = `${yyyymmdd}_${hhmmss}_${safeQuery}`;
+  const fullPath = path.join(SCRIPT_DATA_DIR, dirName);
+
+
+  await fs.mkdir(fullPath, { recursive: true });
+  return fullPath;
+}
 
 // --- (Singleton 패턴) ---
 // STT 파이프라인(모델)은 무겁기 때문에, 서버가 시작될 때 한 번만 로드합니다.
@@ -36,7 +60,7 @@ console.log('[STT Service] Whisper (JS) 모델 로드 완료.');
  * @param {string} fileName - 저장할 파일명 (예: video1.m4a)
  * @returns {Promise<string>} 저장된 오디오 파일의 전체 경로
  */
-async function downloadAudio(videoId, saveDir, fileName) {
+export async function downloadAudio(videoId, saveDir, fileName) {
   const url = `https://www.youtube.com/watch?v=${videoId}`;
   const filePath = path.join(saveDir, fileName);
 
@@ -49,8 +73,6 @@ async function downloadAudio(videoId, saveDir, fileName) {
 
     // 다운로드가 성공적으로 완료됨
     console.log(`[STT Service] 다운로드 완료: ${filePath}`);
-
-    // 성공 시 파일 경로를 반환 (이 함수를 호출한 곳에서 await로 받음)
     return filePath;
 
   } catch (err) {
@@ -66,61 +88,33 @@ async function downloadAudio(videoId, saveDir, fileName) {
 /**
  * [Spec 5.4] (Python -> JS 교체)
  * 비디오 ID 배열을 받아, 오디오 다운로드 및 전사를 수행하고 텍스트를 반환합니다.
- * @param {string[]} videoIds - 비디오 ID 배열 (e.g., ['id1', 'id2', 'id3', 'id4'])
- * @param {string} saveDir - 오디오와 TXT를 저장할 고유 폴더 경로
- * @returns {Promise<string[]>} 전사 텍스트 4개가 담긴 배열
+ * 오디오 파일을 읽어 STT(전사)를 수행합니다.
+ * @param {string} filePath - 다운로드된 오디오 파일의 경로 (예: .../j1-Ua9Zv6qs.m4a)
  */
-export async function downloadAndTranscribe(videoIds, saveDir) {
+export async function TranscribeAudio(filePath) {
+  try {
+    console.log(`[STT Service] 전사 시작 (ffmpeg 사용): ${filePath}`);
 
-  // 1. 오디오 다운로드 (병렬 실행)
-  const audioFileNames = videoIds.map(id => `${id}.m4a`);
-  const downloadPromises = videoIds.map((id, index) =>
-    downloadAudio(id, saveDir, audioFileNames[index])
-  );
-  await Promise.all(downloadPromises);
+    //    '파일 경로(string)'를 그대로 전달합니다.
+    //    라이브러리가 설치된 ffmpeg를 감지하고 파일을 알아서 디코딩합니다.
+    const audio = await read_audio(filePath, 16000);
 
-  // 2. JS Whisper 실행 (직렬 또는 병렬)
-  // (참고: 여러 파일을 동시에 처리하면 메모리 사용량이 많을 수 있어, 여기서는 순차(직렬) 처리)
-  console.log('[STT Service] JS Whisper 전사 작업 시작...');
-  const sttTexts = [];
+    console.log(`[STT Service] 오디오 디코딩 완료 (Float32Array). 전사 시작...`);
 
-  for (let i = 0; i < videoIds.length; i++) {
-    const videoId = videoIds[i];
-    const audioPath = path.join(saveDir, audioFileNames[i]);
-    const txtPath = path.join(saveDir, `${videoId}.txt`);
+    // 2. (수정) 파이프라인에 파일 경로가 아닌,
+    //    디코딩된 오디오 파형(audio)을 전달합니다.
+    const output = await transcriber(audio, {
+      chunk_length_s: 30,
+      stride_length_s: 5,
+      language: 'korean',
+      task: 'transcribe',
+    });
 
-    try {
-      console.log(`[STT Service] 오디오 디코딩 시작: ${audioPath}`);
+    console.log(`[STT Service] 전사 완료: ${filePath}`);
+    return output; // ⭐️ 전사 결과 객체({ text: "..." }) 반환
 
-      // 1. ffmpeg를 사용하여 오디오 파일 읽기
-      const audioBuffer = fs.readFileSync(filePath);
-
-      console.log(`[STT Service] 오디오 디코딩 완료. 전사 시작...`);
-      // [핵심] Transformers.js를 사용하여 전사 실행
-      const result = await transcriber(audioBuffer, {
-            // Whisper 모델(STT)은 16kHz 모노 오디오에서 가장 잘 작동합니다.
-            // 라이브러리가 ffmpeg를 통해 자동으로 처리하도록 옵션을 주는 것이 좋습니다.
-            sampling_rate: 16000,
-            mono: true,
-
-            // 긴 오디오를 위한 청크 설정
-            chunk_length_s: 30,
-            stride_length_s: 5,
-        });
-
-      const full_text = result.text;
-      sttTexts.push(full_text);
-
-      // [신규] 전사 결과를 TXT 파일로 즉시 저장 (요구사항 3)
-      await fs.promises.writeFile(txtPath, full_text, 'utf-8');
-      console.log(`[STT Service] > 전사 완료 및 저장: ${txtPath}`);
-
-    } catch (err) {
-      console.error(`[STT Service] 전사 실패: ${audioPath}`, err);
-      sttTexts.push(`(전사 실패: ${videoId})`);
-    }
+  } catch (err) {
+    console.error(`[STT Service] 전사 실패: ${filePath}`, err);
+    throw err;
   }
-
-  console.log('[STT Service] 모든 전사 작업 완료.');
-  return sttTexts;
 }

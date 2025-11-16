@@ -49,7 +49,7 @@ function normalizeToVPIBase(v) {
   const duration = v?.contentDetails?.duration ?? v?.duration;
   const subscriberCount = v.subscriberCount
   // const categoryId = v.categoryId 배치에는 문제 없었음.
-  const categoryId = v.snippet?.categoryId //배치에는 문제 없었음.
+  const categoryId = v.snippet?.categoryId ?? v.categoryId;
 
   if (!id || !title || !publishedAt || !channelId) return null;
 
@@ -142,7 +142,7 @@ export async function fetchVPIs(videos) {
   let payload;
 
   const normalized_v = videos.map(normalizeToVPIBase)
-  // console.log("===========fetchVPIS==============")
+  console.log("===========fetchVPIS==============")
   // console.log(videos)
   // console.log(normalized_v)
 

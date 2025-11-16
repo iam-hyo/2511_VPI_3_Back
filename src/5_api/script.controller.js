@@ -1,39 +1,13 @@
 // /src/5_api/script.controller.js
-import { downloadAndTranscribe } from '../3_services/stt.service.js';
+import { TranscribeAudio, createTimestampedDir, downloadAudio } from '../3_services/stt.service.js';
 import { fetchGeneratedScript } from '../3_services/gemini.service.js';
 import { saveGeneratedScript } from '../6_repository/file.repository.js';
-import fs from 'fs/promises';
-import { fileURLToPath } from 'url';
 import path from 'path';
 
-// __dirname 설정
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-// /data/scripts/ 폴더에 저장
-const SCRIPT_DATA_DIR = path.join(__dirname, '../../data/scripts'); 
+
 
 /**
- * [Spec 5.4 - 신규] 요구사항 4: 고유한 타임스탬프 폴더 생성
- * @param {string} query - 검색어 (폴더명에 사용)
- * @returns {Promise<string>} 생성된 폴더의 전체 경로
- */
-async function createTimestampedDir(query) {
-  const now = new Date();
-  const yyyymmdd = now.toISOString().slice(0, 10).replace(/-/g, '');
-  const hhmmss = now.toTimeString().slice(0, 8).replace(/:/g, '');
-  const safeQuery = query.replace(/[^a-zA-Z0-9ㄱ-ㅎㅏ-ㅣ가-힣]/g, '').slice(0, 15);
-
-  // 예: /data/scripts/20251110_153000_AI반도체
-  const dirName = `${yyyymmdd}_${hhmmss}_${safeQuery}`;
-  const fullPath = path.join(SCRIPT_DATA_DIR, dirName);
-  
-
-  await fs.mkdir(fullPath, { recursive: true });
-  return fullPath;
-}
-
-/**
- * [Spec 5.4] (로직 변경) POST /api/generate-script
+ * [Spec 5.4] POST /api/generate-script
  * 요구사항 2, 3, 4 (선택, 다운로드, 전사, 폴더 저장)를 반영합니다.
  * @param {import('express').Request} req
  * @param {import('express').Response} res
@@ -51,9 +25,26 @@ export async function handlePostScript(req, res) {
     // 요구사항 4: 고유 폴더 생성
     const saveDir = await createTimestampedDir(query[0]);
     console.log(`[Script Controller] 고유 폴더 생성: ${saveDir}`);
+    
+    const sttTexts = [];
 
-    // 요구사항 3 (1단계): 오디오 다운로드 및 Python Whisper 전사 실행
-    const sttTexts = await downloadAndTranscribe(videoIds, saveDir);
+    // 2. videoIds 배열을 순회 (loop)
+    for (const videoId of videoIds) {
+      console.log(`[Script Controller] 처리 시작: ${videoId}`);
+
+      // 3. (1단계) 오디오 다운로드 (yt-dlp-exec)
+      //    파일 이름을 videoId.m4a 등으로 고정하는 것이 좋습니다.
+      const fileName = `${videoId}.m4a`;
+      const filePath = await downloadAudio(videoId, saveDir, fileName);
+
+      // 4. (2단계) 다운로드된 '파일 경로'로 전사 (transformers.js)
+      const transcriptionResult = await TranscribeAudio(filePath);
+
+      // 5. 결과 배열에 전사된 텍스트(.text) 추가
+      //    (Gemini가 원문 텍스트를 원하므로 .text를 푸시)
+      sttTexts.push(transcriptionResult.text);
+    }
+    console.log("[Script Controller] 모든 전사 완료.");
 
     // 요구사항 3 (2단계): 4개의 TXT로 Gemini 스크립트 생성
     const script = await fetchGeneratedScript(sttTexts, query);

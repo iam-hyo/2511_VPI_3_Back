@@ -19,7 +19,7 @@ async function runDailyCollection() {
     try {
       console.log(`[${region}] 인기 동영상 수집 중...`);
       // 1. YouTube API로부터 영상 50개 수집
-      const videos = await fetchPopularVideos(region, 20);
+      const videos = await fetchPopularVideos(region, 30);
       
       // 2. 원본 JSON 파일로 저장
       const rawFileName = await saveRawVideos(region, collectedAt, videos);

@@ -17,7 +17,7 @@ export async function handleGetRelated(req, res) {
     }
 
     // 1. YouTube 검색 API 호출 (50개 videoId 획득)
-    const searchResults = await fetchSearchList(keyword, 20); //test용 3개
+    const searchResults = await fetchSearchList(keyword, 20); //test용 개수조절
     const videoIds = searchResults.map(item => item.id.videoId);
     if (videoIds.length === 0) {
       return res.status(200).json([]); // 검색 결과 없으면 빈 배열 반환
