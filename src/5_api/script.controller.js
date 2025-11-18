@@ -34,7 +34,7 @@ export async function handlePostScript(req, res) {
 
       // 3. (1단계) 오디오 다운로드 (yt-dlp-exec)
       //    파일 이름을 videoId.m4a 등으로 고정하는 것이 좋습니다.
-      const fileName = `${videoId}.m4a`;
+      const fileName = `${videoId}.wav`
       const filePath = await downloadAudio(videoId, saveDir, fileName);
 
       // 4. (2단계) 다운로드된 '파일 경로'로 전사 (transformers.js)
