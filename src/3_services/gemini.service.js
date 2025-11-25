@@ -28,7 +28,14 @@ async function generateContent(model, prompt, isJson = false) {
     body: JSON.stringify(body),
   });
 
-  if (!res.ok) throw new Error(`Gemini API 오류: ${res.statusText}`);
+  if (!res.ok) {
+    const errorDetail = await res.json().catch(() => ({})); // JSON 파싱 시도
+    console.error("❌ Gemini API 상세 에러:", JSON.stringify(errorDetail, null, 2));
+    
+    // 에러 메시지에 상세 내용을 포함시킵니다.
+    throw new Error(`Gemini API 오류(${res.status}): ${errorDetail.error?.message || res.statusText}`);
+  }
+  
   const data = await res.json();
   return data?.candidates?.[0]?.content?.parts?.[0]?.text || '';
 }

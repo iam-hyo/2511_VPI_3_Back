@@ -15,10 +15,12 @@ import path from 'path';
 export async function handlePostScript(req, res) {
   try {
     // 요구사항 2: 프론트에서 선택된 videoId 배열과 원본 쿼리 수신
-    const { videoIds, query } = req.body;
+    const { videos, query } = req.body;
+    const videoIds = videos ? videos.map(v => v.id) : [];
     // console.log("[HandelPostScript 디버깅]")
     // console.log(req.body)
     if (!Array.isArray(videoIds) || videoIds.length === 0 || !query) {
+      console.log(req.body)
       return res.status(400).json({ error: 'videoIds 배열(선택된)과 query가 필요합니다.' });
     }
 
