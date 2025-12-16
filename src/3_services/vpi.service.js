@@ -69,7 +69,7 @@ function normalizeToVPIBase(v) {
  * @param {string} duration - ISO 8601 형식의 기간 문자열
  * @returns {number} 총 초(seconds)
  */
-function parseISODuration(duration) {
+export function parseISODuration(duration) {
   if (typeof duration !== 'string') return 0;
   
   const matches = duration.match(/PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?/);

@@ -1,0 +1,18 @@
+{
+  "runId": "2025-12-16_KR",
+  "date": "2025-12-16",
+  "region": "KR",
+  "status": "ERROR",
+  "createdAt": "2025-12-16T02:42:21.528Z",
+  "updatedAt": "2025-12-16T02:42:21.533Z",
+  "artifacts": {
+    "rawFileName": "20251216_1141_KR_raw.json",
+    "processedFileName": "20251216_1141_KR_analyzed.json"
+  },
+  "meta": {},
+  "error": {
+    "step": "PIPELINE",
+    "message": "ENOENT: no such file or directory, open 'C:\\Users\\전효준\\Desktop\\Workspace\\2511_VPI_Back\\data\\processed\\20251216_1141_KR_analyzed.json'",
+    "at": "2025-12-16T02:42:21.532Z"
+  }
+}

@@ -2,4 +2,5 @@
 00_TEST/venv
 node_modules
 __pycache__
-data/scripts
+data/99_scripts
+data/videos

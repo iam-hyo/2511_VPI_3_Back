@@ -7,6 +7,8 @@ import { fileURLToPath } from "url";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const DATA_DIR = path.join(__dirname, '../../data'); // 루트의 /data 폴더
+const analyzedPath = '02_processed_data'
+const rawPath = '01_raw_data'
 
 // 폴더가 없으면 생성
 await fs.mkdir(DATA_DIR, { recursive: true });
@@ -42,7 +44,7 @@ function getFileName(region, date, type) {
  */
 export async function saveRawVideos(region, collectedAt, videos) {
   const fileName = getFileName(region, collectedAt, 'raw');
-  const filePath = path.join(DATA_DIR, fileName);
+  const filePath = path.join(DATA_DIR, rawPath, fileName);
   
   const data = {
     collectedAt: collectedAt.toISOString(),
@@ -59,7 +61,7 @@ export async function saveRawVideos(region, collectedAt, videos) {
  */
 export async function saveAnalyzedVideos(region, collectedAt, analyzedVideos) {
   const fileName = getFileName(region, collectedAt, 'analyzed');
-  const filePath = path.join(DATA_DIR, fileName);
+  const filePath = path.join(DATA_DIR, analyzedPath, fileName);
   await fs.writeFile(filePath, JSON.stringify(analyzedVideos, null, 2));
   return fileName;
 }
@@ -156,4 +158,14 @@ export async function listAnalyzedFiles() {
   analyzedFiles.sort((a, b) => b.id.localeCompare(a.id));
   
   return analyzedFiles;
+}
+
+// processed 파일이 data/processed/ 밑에 저장된다는 가정
+/*⚠️ 여기서 processed 파일 구조가
+{ videos: [...] } 인지, 그냥 [...] 인지에 따라 마지막 반환부를 너 구조에 맞게 조정해야 해. */
+export async function loadProcessedVideosByFileName(fileName) {
+  const full = path.resolve(process.cwd(), 'data', '02_processed_data', fileName);
+  const raw = await fs.readFile(full, 'utf-8');
+  const json = JSON.parse(raw);
+  return json.videos || json || [];
 }

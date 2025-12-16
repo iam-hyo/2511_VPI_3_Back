@@ -11,10 +11,15 @@ const EMBEDDING_MODEL = process.env.GEMINI_EMBED_MODEL;
 /**
  * Gemini API 범용 호출 함수
  */
-async function generateContent(model, prompt, isJson = false) {
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${API_KEY}`;
+export async function generateContent(model, prompt, isJson = false) {
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`;
+  const safePrompt =
+    typeof prompt === 'string'
+      ? prompt
+      : JSON.stringify(prompt, null, 2)
+
   const body = {
-    contents: [{ parts: [{ text: prompt }] }],
+    contents: [{ parts: [{ text: safePrompt }] }],
     generationConfig: {
       temperature: 0.2,
       maxOutputTokens: 8192,
@@ -24,18 +29,18 @@ async function generateContent(model, prompt, isJson = false) {
 
   const res = await fetch(url, {
     method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
+    headers: { 'Content-Type': 'application/json', 'x-goog-api-key': API_KEY, },
     body: JSON.stringify(body),
   });
 
   if (!res.ok) {
     const errorDetail = await res.json().catch(() => ({})); // JSON 파싱 시도
     console.error("❌ Gemini API 상세 에러:", JSON.stringify(errorDetail, null, 2));
-    
+
     // 에러 메시지에 상세 내용을 포함시킵니다.
     throw new Error(`Gemini API 오류(${res.status}): ${errorDetail.error?.message || res.statusText}`);
   }
-  
+
   const data = await res.json();
   return data?.candidates?.[0]?.content?.parts?.[0]?.text || '';
 }
@@ -51,12 +56,43 @@ export function buildKeywordPrompt({ count, language = 'ko' }) {
 
 규칙:
 - 키워드는 간결한 명사/구 형태 (띄어쓰기 O)
-- 고유명사/주제어 위주, 중복/동의어 회피
+- 제목, 채널명, 카테고리, 설명에 등장하는 고유명사와 주제어를 우선 사용
+- 음악/노래 카테고리(예: "음악")의 영상인 경우, 가능한 한 "아티스트명 곡명" 형태의 키워드를 우선 포함
+ - 예: "폴킴 Beyond the sunset", "뉴진스 Ditto"
+ - 너무 일반적인 단어를 단독으로 사용하지 마세요:
+  - 금지 예시: "영상", "클립", "사람", "이야기", "노래", "음악", "게임", "방송", "하이라이트" 등
+  - 이런 단어는 반드시 구체적인 이름과 사용하거나, 둘 이상을 조합하세요. (예: "LOL 멸망전 하이라이트")
+- 서로 의미가 거의 같은 키워드를 중복해서 만들지 마세요.
 - 해시태그/문장/이모지/마크다운 금지, 키워드만
-- 출력은 오직 하나의 JSON 객체만. 다른 설명/마크다운/코드펜스 금지.
+- 한국어 영상이라도, 제목이나 채널명이 영어/일본어 등으로 되어 있다면 **원래 표기를 그대로 사용**해도 됩니다.
+- 출력은 오직 하나의 JSON 객체만. 다른 설명/마크다운/코드펜스 금지.(중요)
 
 형식: { "<videoId>": ["키워드1", ... (총 ${count}개) ...], ... }
 `.trim();
+}
+
+// 유튜브 categoryId → 한글 라벨 매핑
+export const YT_CATEGORY_DECODER = {
+  '1': '영화/애니메이션',
+  '2': '자동차/차량',
+  '10': '음악',
+  '15': '애완동물/동물',
+  '17': '스포츠',
+  '19': '여행/이벤트',
+  '20': '게임',
+  '22': '인물/블로그',
+  '23': '코미디',
+  '24': '엔터테인먼트',
+  '25': '뉴스/정치',
+  '26': '노하우/스타일',
+  '27': '교육',
+  '28': '과학기술',
+  '29': '비영리/사회운동',
+};
+
+function decodeYoutubeCategory(categoryId) {
+  const key = String(categoryId);
+  return YT_CATEGORY_DECODER[key] ?? `기타(${key})`;
 }
 
 /**
@@ -66,6 +102,7 @@ export function buildKeywordPrompt({ count, language = 'ko' }) {
  * @returns {Promise<Object>} { "videoId_1": "키워드1", ... } 객체
  */
 export async function fetchKeywordsBatch(videos, opts = {}) {
+  // console.log("[fetch Keywoard 자료구조 확인]", videos) //// 디버깅 후 삭제 요망
   const count = Number(opts.count ?? 4);
   const maxDesc = Number(opts.maxDesc ?? 300);
   const language = opts.language || 'ko';
@@ -79,7 +116,9 @@ export async function fetchKeywordsBatch(videos, opts = {}) {
       return `#${i + 1}
 videoId: ${v.videoId}
 제목: ${v.title}
-설명: ${desc}`;
+설명: ${desc}
+채널명: ${v.channelTitle}
+카테고리: ${decodeYoutubeCategory(v.categoryId)}`;
     })
     .join('\n\n');
 
@@ -123,26 +162,29 @@ export async function fetchKeywordEmbedding(keyword) {
   // :generateContent가 아닌 :embedContent API를 사용합니다.
   const url = `https://generativelanguage.googleapis.com/v1beta/models/${EMBEDDING_MODEL}:embedContent?key=${API_KEY}`;
 
-  const body = {
-    content: {
-      parts: [{ text: keyword }]
+  const body = { content: { parts: [{ text: keyword }] } };
+
+  try {
+    const res = await fetch(url, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(body),
+    });
+
+    if (!res.ok) {
+      console.warn("[Embed][ERR]", keyword, res.status, res.statusText)
+      // 오류 발생 시 임시로 빈 벡터 반환 (오류 처리는 정책에 맞게 수정)
+      return [];
     }
-  };
 
-  const res = await fetch(url, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify(body),
-  });
+    const data = await res.json();
+    // console.log("[Embed][RES]", keyword, data.embedding.values.slice(0, 5));
 
-  if (!res.ok) {
-    console.error(`Gemini Embedding API 오류: ${res.statusText}`);
-    // 오류 발생 시 임시로 빈 벡터 반환 (오류 처리는 정책에 맞게 수정)
+    return data?.embedding?.values || [];
+  } catch (err) {
+    console.error("[Embed][ERR_EXCEPTION]", keyword, err.message);
     return [];
   }
-
-  const data = await res.json();
-  return data?.embedding?.values || [];
 }
 
 /** 
@@ -279,6 +321,15 @@ export async function fetchGeneratedScript(sttTexts, query) {
   const fullPrompt = generatePromptHeader(sttTexts, query)
   // const sttInputs = sttTexts.map((text, i) => `[영상 ${i + 1} 전사]\n${text || '(전사 실패)'}`).join('\n\n');
   // const fullPrompt = `${promptHeader}\n${sttInputs}\n\n# ▼ [출력 스크립트] ▼`;
+  if (typeof fullPrompt !== 'string') {
+    console.error('fullPrompt 타입 이상:', fullPrompt);
+    throw new Error('fullPrompt가 문자열이 아닙니다.');
+  }
+
+  // 길이 체크 (예: 0이거나, 말도 안 되게 길 때)
+  if (!fullPrompt.trim()) {
+    throw new Error('fullPrompt가 비어 있습니다.');
+  }
 
   return await generateContent(SCRIPT_MODEL, fullPrompt, false);
 }

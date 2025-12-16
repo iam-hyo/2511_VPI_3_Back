@@ -46,6 +46,7 @@ export async function processCollectedFile(rawFileName, region, collectedAt, vid
     categoryId: v.snippet.categoryId, // snippet에서 categoryId
     duration: v.contentDetails.duration, // contentDetails에서 duration (ISO 8601 형식)
     channelId: v.snippet.channelId ?? null,
+    channelTitle: v.snippet.channelTitle ?? '',
     thumbnails: v.snippet.thumbnails,
     // (분석 데이터는 나중에 채워짐)
     vpiScore: 0,
@@ -66,7 +67,7 @@ export async function processCollectedFile(rawFileName, region, collectedAt, vid
     });
 
     // 3. [Spec 4.1] VPI 예측
-    const vpiResultsMap = await fetchVPIs(analyzedVideos); ////// 오류 발생!!!!!!!!!!!!!!! 
+    const vpiResultsMap = await fetchVPIs(analyzedVideos); 
     
     analyzedVideos.forEach(v => {
       // [수정] Map에서 videoId로 VPI 점수를 찾습니다.
@@ -79,8 +80,8 @@ export async function processCollectedFile(rawFileName, region, collectedAt, vid
       count: 1
     });
 
-    console.log(`[Keyword Debug] Gemini 키워드 생성 API가 반환한 원본 객체:`);
-    console.log(JSON.stringify(keywordsObject, null, 2)); // JSON을 예쁘게 출력
+    // console.log(`[Keyword Debug] Gemini 키워드 생성 API가 반환한 원본 객체:`);
+    // console.log(JSON.stringify(keywordsObject, null, 2)); // JSON을 예쁘게 출력
 
     analyzedVideos.forEach(v => {
       v.keyword = keywordsObject[v.videoId] || '키워드 없음';
@@ -124,7 +125,9 @@ export async function processCollectedFile(rawFileName, region, collectedAt, vid
     console.log(`[${region}] 트렌드 점수 계산 중...`);
     calculateTrendScores(analyzedVideos);
     // [Spec] 최종 분석 파일 저장
-    await saveAnalyzedVideos(region, collectedAt, analyzedVideos);
+    const processedFileName = await saveAnalyzedVideos(region, collectedAt, analyzedVideos);
+
+    return processedFileName
 
   } catch (err) {
     console.error(`[${region}] 파이프라인 처리 중 오류:`, err.message);
