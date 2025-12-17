@@ -42,21 +42,3 @@ dailyVideoGenerate()
     process.exit(1);
   });
 
-
-// async function dailyVideoGenerate() {
-//     console.log('🚀 dailyVideoGenerate start');
-//     const collectResults = await runDailyCollection(); // 1,2,3 번 로직 할당, 결과파일 저장 data/`${timeStr}_${region}_${type}.json`;
-    
-//     //국가별 루프 시작 for....
-//     for (const result of collectResults) {
-//         const { region, rawFileName, processedFileName, error } = result;
-//         //함수 GetMostTrendyVideo() -> 생성된 파일에서 VPI Score Top1 반환, Tie발생시 VPI스코어 높은 Vid, 재타이시 조회수 순, 제약: 길이 6분 이내./ 4.1, 4.2, 4.3 할당
-//         //함수 DownloadVideo() -> 앞서 선정된 4개의 영상을 다운로드 4.4
-//         //함수 mergeHighlight() -> 하이라이트를 탐지해서 하나의 비디오로 병합. 현재는 마지막 5초를 하이라이트로 간주. 4.5
-//         //함수 generateVideoDetail() -> generateContent()함수 활용. 4.6
-//     }
-//     //종료
-// }
-
-
-// dailyVideoGenerate()
