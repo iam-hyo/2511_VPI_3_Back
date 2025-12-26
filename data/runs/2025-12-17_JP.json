@@ -1,0 +1,18 @@
+{
+  "runId": "2025-12-17_JP",
+  "date": "2025-12-17",
+  "region": "JP",
+  "status": "ERROR",
+  "createdAt": "2025-12-17T05:11:52.329Z",
+  "updatedAt": "2025-12-17T05:11:52.335Z",
+  "artifacts": {
+    "rawFileName": null,
+    "processedFileName": null
+  },
+  "meta": {},
+  "error": {
+    "step": "COLLECTION",
+    "message": "Gemini가 반환한 키워드 JSON 파싱에 실패했습니다.",
+    "at": "2025-12-17T05:11:52.333Z"
+  }
+}

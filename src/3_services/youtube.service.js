@@ -29,7 +29,7 @@ export async function fetchPopularVideos(regionCode, maxResults = 50) {
  * @returns {Promise<Array<Object>>} 검색 결과 비디오 리소스 배열
  */
 export async function fetchSearchList(keyword, maxResults=50) {
-  const fiveDaysAgo = new Date(Date.now() - 5 * 24 * 60 * 60 * 1000).toISOString();
+  const fiveDaysAgo = new Date(Date.now() - 180 * 24 * 60 * 60 * 1000).toISOString(); //180일
   const url = `${BASE_URL}/search?part=snippet&q=${encodeURIComponent(keyword)}&maxResults=${maxResults}&order=date&publishedAfter=${fiveDaysAgo}&type=video&key=${API_KEY}`;
   
   const res = await fetch(url);

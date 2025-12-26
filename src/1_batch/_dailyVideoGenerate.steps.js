@@ -21,13 +21,15 @@ import { parseISODuration } from '../3_services/vpi.service.js';
 import { runDailyCollection, collectOneRegion } from './runDailyCollection.js';
 import { getRelatedVideosByKeyword } from '../3_services/related.service.js';
 import { getMostTrendyVideo } from '../3_services/trend.service.js';
-import { downloadVideoIfNeeded, cutLastSecondsIfNeeded, concatVideosIfNeeded, ensureDir } from '../3_services/videoEdit.service.js';
+import { downloadVideoIfNeeded, cutLastSecondsIfNeeded, mergeTitleAndHighlightsWithFade, ensureDir, createTitleCardIfNeeded } from '../3_services/videoEdit.service.js';
 import { generateVideoDetail } from '../3_services/videoMeta.service.js';
+import { generateClipCaptions } from '../3_services/videoCaption.service.js';
 
 // ---------- Repository Layer ----------
 import { createRun, getRun, updateRun, markRunError, makeRunId, RUN_STATUS } from '../6_repository/run.repository.js';
 import { loadProcessedVideosByFileName } from '../6_repository/file.repository.js';
 
+highlightSec = 10;
 
 /**
  * KST 기준 YYYY-MM-DD 문자열 반환
@@ -80,8 +82,8 @@ export async function isTodayCollectionAlreadyDone(run) {
  */
 export async function step0_collectAndInitRuns() {
   const today = todayStrKST();
-  // const regions = ['KR']; // 여기서 제어 (env로 빼도 됨)
-  const regions = ['KR', 'US', 'JP', 'IN', 'VN'];
+  const regions = ['US', 'JP']; // 여기서 제어 (env로 빼도 됨)
+  // const regions = ['KR', 'US', 'JP', 'IN', 'VN'];
 
 
   const runs = [];
@@ -108,7 +110,7 @@ export async function step0_collectAndInitRuns() {
 
     // 🔻 여기서 runDailyCollection()을 통째로 호출하면 다시 여러 국가 수집이 되므로 비추천
     // ✅ 권장: "region 1개만 수집"하는 함수로 분리해서 호출
-    const r = await collectOneRegion(region); // 아래에서 설명(신규 함수)
+    const r = await collectOneRegion(region);
 
     // run이 없다면 새로 생성
     if (!run) {
@@ -162,7 +164,7 @@ export async function step1_selectMostTrendyVideo(run) {
 
   const processedFileName = run.artifacts?.processedFileName;
   if (!processedFileName) {
-    throw new Error('processedFileName not found in run.artifacts');
+    throw new Error('[step1 Error] processedFileName not found in run.artifacts');
   }
 
   const videos = await loadProcessedVideosByFileName(processedFileName);
@@ -238,8 +240,8 @@ export async function step3_downloadAndMakeHighlights(run) {
     throw new Error('[step3 Error] relatedVideos가 없습니다.');
   }
 
-  // ✅ 6분(360초) 이내 영상만 후보로 사용
-  const maxSeconds = 300;
+  // ✅ 하이라이트 선정 규칙 지정
+  const maxSeconds = 80;
   const filtered = related.filter(v => {
     const sec = parseISODuration(v.contentDetails?.duration);
     return sec > 0 && sec <= maxSeconds;
@@ -274,7 +276,7 @@ export async function step3_downloadAndMakeHighlights(run) {
     await cutLastSecondsIfNeeded({ //하이라이트 추출 메소드 초안
       inputPath: mp4Path,
       outputPath: highlightPath,
-      seconds: 5,
+      seconds: highlightSec,
     });
 
     highlightPaths.push(highlightPath);
@@ -298,7 +300,7 @@ export async function step3_downloadAndMakeHighlights(run) {
 
 /* ============================================================
  * Step 4
- *  - 하이라이트 영상들을 하나의 mp4로 병합
+ *  - 하이라이트 영상들과 제목들을 하나의 mp4로 병합
  *  - 파일명: {time}_{region}_{query}.mp4
  * ============================================================
  */
@@ -309,19 +311,57 @@ export async function step4_mergeHighlights(run) {
   }
 
   const highlightPaths = run.artifacts?.highlightPaths || [];
+  const top4Videos = run.meta?.top4Videos || [];
   if (!highlightPaths.length) {
     throw new Error('[step4 Error] highlightPaths가 존재하지 않습니다.');
   }
+
+  // 1) LLM으로 캡션 생성 (1~4개)
+  //    - 이미 만들어 둔 경우(meta에 저장되어 있으면) 재실행 때 스킵 가능
+  let captions = run.meta?.clipCaptions;
+  if (!Array.isArray(captions)) {
+    captions = await generateClipCaptions({ query: run.meta?.query || '', top4Videos, });
+
+    run = await updateRun(run.runId, {
+      meta: { ...run.meta, clipCaptions: captions },
+    });
+  } else {
+    console.log('[step4] skip: captions이 이미 존재합니다.');
+  }
+
+  // 2) 타이틀 카드 생성(1.2 초)
+  const durationSec = 1.2;
+  const outDir = dataVideoDir(run.runId);
+  await ensureDir(outDir);
+
+  const titleCardPaths = [];
+  for (let i = 0; i < captions.length; i++) {
+    const titleCard = await createTitleCardIfNeeded({
+      outDir,
+      index: i + 1,
+      caption: captions[i],
+      durationSec: durationSec,
+    });
+
+    titleCardPaths.push(titleCard)
+  }
+  //
 
   const timeStr = new Date().toISOString().replace(/[:.]/g, '').slice(0, 15);
   const query = (run.meta?.query || 'query')
     .replace(/[^a-zA-Z0-9ㄱ-ㅎㅏ-ㅣ가-힣]/g, '')
     .slice(0, 20);
 
-  const outDir = dataVideoDir(run.runId);
   const mergedVideoPath = path.join(outDir, `${timeStr}_${run.region}_${query}.mp4`);
 
-  await concatVideosIfNeeded({ inputPaths: highlightPaths, outputPath: mergedVideoPath });
+  await mergeTitleAndHighlightsWithFade({
+    titleCardPaths,
+    highlightPaths,
+    outputPath: mergedVideoPath,
+    durationSec: durationSec,
+    highlightSec: highlightSec,
+    fadeSec: 0.15,
+  });
 
   return updateRun(run.runId, {
     status: RUN_STATUS.MERGED,

@@ -20,7 +20,7 @@ export async function dailyVideoGenerate() {
   console.log('🚀 dailyVideoGenerate start');
 
   // 1) 수집 + run init
-  const runs = await step0_collectAndInitRuns();
+  const runs = await step0_collectAndInitRuns(); //run 들을 담은 배열
 
   // 2) 국가별 루프
   for (const run of runs) {

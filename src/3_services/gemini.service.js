@@ -21,7 +21,7 @@ export async function generateContent(model, prompt, isJson = false) {
   const body = {
     contents: [{ parts: [{ text: safePrompt }] }],
     generationConfig: {
-      temperature: 0.2,
+      temperature: 0.13,
       maxOutputTokens: 8192,
       ...(isJson && { responseMimeType: 'application/json' }),
     },
@@ -42,6 +42,18 @@ export async function generateContent(model, prompt, isJson = false) {
   }
 
   const data = await res.json();
+  const candidate = data?.candidates?.[0];
+  if (candidate) {
+    console.log(`📌 Finish Reason: ${candidate.finishReason}`);
+    
+    // 만약 중단 이유가 토큰 부족이라면 경고 출력
+    if (candidate.finishReason === 'MAX_TOKENS') {
+      console.warn("⚠️ 경고: 출력 토큰 제한에 도달하여 JSON이 잘렸습니다.");
+    } else if (candidate.finishReason === 'SAFETY') {
+      console.warn("⚠️ 경고: 안전 정책(필터링)으로 인해 응답이 차단되었습니다.");
+    }
+  }
+
   return data?.candidates?.[0]?.content?.parts?.[0]?.text || '';
 }
 
@@ -102,7 +114,7 @@ function decodeYoutubeCategory(categoryId) {
  * @returns {Promise<Object>} { "videoId_1": "키워드1", ... } 객체
  */
 export async function fetchKeywordsBatch(videos, opts = {}) {
-  // console.log("[fetch Keywoard 자료구조 확인]", videos) //// 디버깅 후 삭제 요망
+  // console.log("[fetch Keyword 자료구조 확인]", videos) //// 디버깅 후 삭제 요망
   const count = Number(opts.count ?? 4);
   const maxDesc = Number(opts.maxDesc ?? 300);
   const language = opts.language || 'ko';
