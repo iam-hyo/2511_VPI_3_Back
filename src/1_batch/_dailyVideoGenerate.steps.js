@@ -200,14 +200,15 @@ export async function step2_fetchRelated(run) {
     console.log('[step2] skip: relatedVideos already exist');
     return run;
   }
-
+  
+  const region = run.region;
   const keyword = run.meta?.query;
   if (!keyword) {
     throw new Error('[step2] keyword가 존재하지 않습니다.');
   }
 
   console.log(`[step2] keyword="${keyword}" 관련 동영상 생성 중`);
-  const relatedAll = await getRelatedVideosByKeyword(keyword, 50);
+  const relatedAll = await getRelatedVideosByKeyword(keyword, region, 50);
 
   const next = await updateRun(run.runId, {
     status: RUN_STATUS.RELATED_FETCHED,

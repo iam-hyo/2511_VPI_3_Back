@@ -98,53 +98,58 @@ export async function cutLastSecondsIfNeeded({ inputPath, outputPath, seconds = 
  */
 export async function createTitleCardIfNeeded({
   outDir,
-  index,        // 1~4
-  caption,      // 
+  index,
+  caption,
   durationSec = 1.2,
   width = 1080,
   height = 1920,
   fps = 30,
-  fontPath = process.env.FFMPEG_FONT_PATH || '', // 선택: 폰트 경로
+  fontPath = process.env.FFMPEG_FONT_PATH || '',
 }) {
   await ensureDir(outDir);
 
-  const safeCaption = String(caption || '').replace(/:/g, '\\:'); // drawtext에서 :는 escape 필요
   const outPath = path.join(outDir, `title_${index}.mp4`);
-
   if (await exists(outPath)) {
     console.log(`[videoEdit] title card skip (exists): ${outPath}`);
     return outPath;
   }
 
-  // drawtext 텍스트 구성: "1. caption"
-  const text = `${index}. ${safeCaption}`.replace(/'/g, "\\'");
+  // 1. FFmpeg drawtext 필터용 특수문자 탈출 (순서가 중요합니다)
+  let processedText = `${index}. ${caption || ''}`;
+  
+  processedText = processedText
+    .replace(/\\/g, "\\\\")   // 1) 백슬래시 탈출
+    .replace(/'/g, "'\\''")   // 2) 싱글 쿼트 탈출 (가장 중요: ' -> '\'' )
+    .replace(/:/g, "\\:");     // 3) 콜론 탈출
 
-  // 폰트 옵션 (fontfile이 비어있으면 시스템 기본 폰트로 시도)
-  const fontOpt = fontPath ? `:fontfile='${fontPath.replace(/\\/g, '\\\\')}'` : '';
+  // 2. 폰트 경로 처리 (Windows 경로 호환성)
+  const fontOpt = fontPath 
+    ? `:fontfile='${fontPath.replace(/\\/g, '/')}'` // 백슬래시를 슬래시로 바꾸는게 가장 안전합니다
+    : '';
 
-  /**
-   * ffmpeg 명령 설명:
-   * -f lavfi -i color=black:s=1080x1920:r=30
-   *   : 검은 배경 영상을 생성
-   * -t 1.2 : 길이 0.5초
-   * drawtext : 가운데 정렬로 텍스트 출력
-   */
   const cmd = `
 ffmpeg -y \
 -f lavfi -i "color=c=black:s=${width}x${height}:r=${fps}" \
 -f lavfi -i "anullsrc=channel_layout=stereo:sample_rate=44100" \
 -t ${durationSec} \
--vf "drawtext=text='${text}'${fontOpt}:fontcolor=white:fontsize=64:x=(w-text_w)/2:y=(h-text_h)/2" \
+-vf "drawtext=text='${processedText}'${fontOpt}:fontcolor=white:fontsize=64:x=(w-text_w)/2:y=(h-text_h)/2" \
 -shortest \
 -c:v libx264 -pix_fmt yuv420p \
 -c:a aac -ar 44100 -ac 2 \
 "${outPath}"
 `.trim().replace(/\s+/g, ' ');
 
-  console.log(`[videoEdit] create title card: ${path.basename(outPath)} -> "${index}. ${caption}"`);
-  await exec(cmd);
-
-  return outPath;
+  console.log(`[videoEdit] create title card: ${path.basename(outPath)}`);
+  
+  try {
+    await exec(cmd);
+    return outPath;
+  } catch (err) {
+    console.error(`\n❌ 타이틀 카드 생성 실패!`);
+    console.error(`텍스트: ${caption}`);
+    if (err.stderr) console.error(err.stderr);
+    throw err;
+  }
 }
 
 /**
@@ -206,7 +211,7 @@ export async function mergeTitleAndHighlightsWithFade({
       `fade=t=in:st=0:d=${fadeSec},` +
       `fade=t=out:st=${fadeOutStart}:d=${fadeSec}[v${i}]`
     );
-    
+
     // 오디오: 포맷 통일 + 페이드
     // 중요: 하이라이트 영상 중 하나라도 소리가 없으면 여기서 터집니다.
     filters.push(

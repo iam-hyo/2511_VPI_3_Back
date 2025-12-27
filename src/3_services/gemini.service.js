@@ -61,25 +61,30 @@ export async function generateContent(model, prompt, isJson = false) {
 /*
 * [키워드 프롬프트 생성] 
 */
-export function buildKeywordPrompt({ count, language = 'ko' }) {
+export function buildKeywordPrompt({ count }) {
   return `
-당신은 유튜브 메타데이터 분석가입니다.
-각 영상의 제목과 설명을 바탕으로 영상의 핵심 주제를 담은 ${language === 'ko' ? '한글' : language} 키워드 ${count}개를 생성하세요.
+당신은 유튜브 메타데이터(제목/설명/채널명/카테고리)로부터 “검색 쿼리용 키워드”를 추출하는 전문가입니다. 각 영상이 뜨고 있는 이유를 담은 키워드를 ${count}개를 생성하세요.
 
-규칙:
-- 키워드는 간결한 명사/구 형태 (띄어쓰기 O)
-- 제목, 채널명, 카테고리, 설명에 등장하는 고유명사와 주제어를 우선 사용
-- 음악/노래 카테고리(예: "음악")의 영상인 경우, 가능한 한 "아티스트명 곡명" 형태의 키워드를 우선 포함
- - 예: "폴킴 Beyond the sunset", "뉴진스 Ditto"
- - 너무 일반적인 단어를 단독으로 사용하지 마세요:
-  - 금지 예시: "영상", "클립", "사람", "이야기", "노래", "음악", "게임", "방송", "하이라이트" 등
-  - 이런 단어는 반드시 구체적인 이름과 사용하거나, 둘 이상을 조합하세요. (예: "LOL 멸망전 하이라이트")
-- 서로 의미가 거의 같은 키워드를 중복해서 만들지 마세요.
-- 해시태그/문장/이모지/마크다운 금지, 키워드만
+[키워드 언어]
+- 키워드는 반드시 “해당 영상 메타데이터의 지배적 언어(제목+설명 기준)”로 작성하세요.
+- 예: 일본어 메타데이터면 일본어, 영어면 영어, 한국어면 한국어.
+- 혼합 언어인 경우:
+  1) 고유명사(작품명/인물명/브랜드/게임명)는 원문 표기를 그대로 유지
+  2) 나머지 일반 키워드는 지배적 언어로 통일
 - 한국어 영상이라도, 제목이나 채널명이 영어/일본어 등으로 되어 있다면 **원래 표기를 그대로 사용**해도 됩니다.
-- 출력은 오직 하나의 JSON 객체만. 다른 설명/마크다운/코드펜스 금지.(중요)
 
-형식: { "<videoId>": ["키워드1", ... (총 ${count}개) ...], ... }
+[키워드 규칙]
+- 간결한 명사/구(띄어쓰기 O), 해시태그/문장/이모지/마크다운 금지
+- 제목/채널명/카테고리/설명에 등장하는 고유명사와 핵심 주제어 우선
+- 너무 일반적인 단어 단독 금지 (video, clip, 人, 話, music, 방송, 게임 등). 반드시 고유명사/세부 주제와 결합
+- 의미가 거의 같은 키워드 중복 금지
+- 음악/노래 카테고리면 가능한 “아티스트명 곡명” 형태를 우선 포함
+ - 예: "폴킴 Beyond the sunset", "뉴진스 Ditto"
+- 게임 카테고리의 경우 게임 이름, 플레이어, 대회명 등을 활용하여 해당 영상이 다른 게임 영상들과 차별점에 집중
+
+[출력]
+- 오직 JSON 객체 1개만 출력 (설명/코드펜스 금지)
+- 형식: { "<videoId>": ["키워드1", ... (총 {count}개)], ... }
 `.trim();
 }
 
@@ -136,9 +141,8 @@ export async function fetchKeywordsBatch(videos, opts = {}) {
 async function processSingleBatch(batch, opts) {
   const count = Number(opts.count ?? 4);
   const maxDesc = Number(opts.maxDesc ?? 300);
-  const language = opts.language || 'ko';
 
-  const promptHeader = buildKeywordPrompt({ count, language });
+  const promptHeader = buildKeywordPrompt({ count });
 
   // 데이터 가공 로직
   const listText = batch

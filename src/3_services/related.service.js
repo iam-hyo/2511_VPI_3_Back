@@ -23,13 +23,13 @@ import { fetchVPIs } from './vpi.service.js';
  * @returns {Promise<Array>} - 상세 정보와 VPI 점수가 포함된 영상 객체 배열
  */
 
-export async function getRelatedVideosByKeyword(keyword, maxResults = 50) {
+export async function getRelatedVideosByKeyword(keyword, region, maxResults = 50) {
   // 0. 예외 처리: 키워드가 없으면 빈 배열 반환
   if (!keyword) return [];
 
   // 1. [검색] 유튜브 Search API 호출
   // - 결과: 영상 ID와 기본적인 정보(제목, 썸네일 등)만 있음
-  const searchResults = await fetchSearchList(keyword, maxResults);
+  const searchResults = await fetchSearchList(keyword, maxResults, region);
   const videoIds = searchResults.map(item => item.id.videoId).filter(Boolean);
   
   // 검색 결과가 없으면 바로 종료
