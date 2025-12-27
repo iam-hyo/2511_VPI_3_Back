@@ -29,7 +29,7 @@ import { generateClipCaptions } from '../3_services/videoCaption.service.js';
 import { createRun, getRun, updateRun, markRunError, makeRunId, RUN_STATUS } from '../6_repository/run.repository.js';
 import { loadProcessedVideosByFileName } from '../6_repository/file.repository.js';
 
-highlightSec = 10;
+const highlightSec = 10;
 
 /**
  * KST 기준 YYYY-MM-DD 문자열 반환
