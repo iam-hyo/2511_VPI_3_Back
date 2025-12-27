@@ -18,7 +18,7 @@ import fs from 'fs/promises';
 
 // ---------- Batch / Service Layer ----------
 import { parseISODuration } from '../3_services/vpi.service.js';
-import { runDailyCollection, collectOneRegion } from './runDailyCollection.js';
+import { collectOneRegion } from './runDailyCollection.js';
 import { getRelatedVideosByKeyword } from '../3_services/related.service.js';
 import { getMostTrendyVideo } from '../3_services/trend.service.js';
 import { downloadVideoIfNeeded, cutLastSecondsIfNeeded, mergeTitleAndHighlightsWithFade, ensureDir, createTitleCardIfNeeded } from '../3_services/videoEdit.service.js';
@@ -82,7 +82,7 @@ export async function isTodayCollectionAlreadyDone(run) {
  */
 export async function step0_collectAndInitRuns() {
   const today = todayStrKST();
-  const regions = ['US', 'JP']; // 여기서 제어 (env로 빼도 됨)
+  const regions = ['KR', 'US', 'JP']; // 여기서 제어 (env로 빼도 됨)
   // const regions = ['KR', 'US', 'JP', 'IN', 'VN'];
 
 

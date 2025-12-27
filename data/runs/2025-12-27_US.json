@@ -1,0 +1,17 @@
+{
+  "runId": "2025-12-27_US",
+  "date": "2025-12-27",
+  "region": "US",
+  "status": "ERROR",
+  "createdAt": "2025-12-27T10:45:34.997Z",
+  "updatedAt": "2025-12-27T11:29:11.345Z",
+  "artifacts": {
+    "rawFileName": "20251227_1944_US_raw.json",
+    "processedFileName": "20251227_1944_US_analyzed.json"
+  },
+  "error": {
+    "step": "PIPELINE",
+    "message": "VPI API 오류 (500): {\"detail\":\"float division by zero\"}",
+    "at": "2025-12-27T11:29:11.342Z"
+  }
+}

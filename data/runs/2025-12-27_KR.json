@@ -1,0 +1,13 @@
+{
+  "runId": "2025-12-27_KR",
+  "date": "2025-12-27",
+  "region": "KR",
+  "status": "DONE",
+  "createdAt": "2025-12-27T11:04:34.212Z",
+  "updatedAt": "2025-12-27T11:29:09.566Z",
+  "artifacts": {
+    "rawFileName": "20251227_2003_KR_raw.json",
+    "processedFileName": "20251227_2003_KR_analyzed.json"
+  },
+  "error": null
+}

@@ -108,21 +108,40 @@ function decodeYoutubeCategory(categoryId) {
 }
 
 /**
- * [Spec 5.1 / 4.2] 여러 비디오의 키워드를 일괄 추출 (JSON)
- * @param {Array<{videoId:string,title:string,description?:string}>} videos  // 입력
- * @param {Array<Object>} videos - { videoId, title, description } 객체 배열
- * @returns {Promise<Object>} { "videoId_1": "키워드1", ... } 객체
+ * [Spec 5.1 / 4.2] 여러 비디오의 키워드를 일괄 추출 (25개 단위 배칭 처리)
  */
 export async function fetchKeywordsBatch(videos, opts = {}) {
-  // console.log("[fetch Keyword 자료구조 확인]", videos) //// 디버깅 후 삭제 요망
+  const BATCH_SIZE = 25; // 50개를 한 번에 보낼 시 출력 토큰 제한에 걸리므로 25개로 분할
+  const count = Number(opts.count ?? 4);
+  
+  // 1. 영상을 BATCH_SIZE 단위로 나눕니다.
+  const videoBatches = [];
+  for (let i = 0; i < videos.length; i += BATCH_SIZE) {
+    videoBatches.push(videos.slice(i, i + BATCH_SIZE));
+  }
+
+  // 2. 각 배치를 병렬(Promise.all) 또는 순차적으로 실행합니다.
+  // 가정: API의 RPM(분당 요청 제한)에 여유가 있다면 Promise.all이 속도면에서 유리합니다.
+  const results = await Promise.all(
+    videoBatches.map(batch => processSingleBatch(batch, opts))
+  );
+
+  // 3. 분산된 결과 객체들을 하나로 합칩니다 (Object.assign)
+  return Object.assign({}, ...results);
+}
+
+/**
+ * 실제로 Gemini API와 통신하여 단일 배치의 키워드를 가져오는 내부 함수
+ */
+async function processSingleBatch(batch, opts) {
   const count = Number(opts.count ?? 4);
   const maxDesc = Number(opts.maxDesc ?? 300);
   const language = opts.language || 'ko';
 
-  // [Spec 7.1] 프롬프트
   const promptHeader = buildKeywordPrompt({ count, language });
 
-  const listText = videos
+  // 데이터 가공 로직
+  const listText = batch
     .map((v, i) => {
       const desc = (v.description || '').slice(0, maxDesc).replace(/\s+/g, ' ').trim();
       return `#${i + 1}
@@ -136,28 +155,27 @@ videoId: ${v.videoId}
 
   const fullPrompt = `${promptHeader}\n\n[입력]\n${listText}`;
 
-  // generateContent(model, prompt, wantJson=true) 가 JSON 문자열을 반환한다고 가정
+  // 가정: generateContent 함수는 외부에서 정의된 API 호출 헬퍼이며 JSON 스트링을 반환함
   const jsonString = await generateContent(KEYWORD_MODEL, fullPrompt, true);
 
-  // 파싱 및 방어적 정리
   let parsed;
   try {
-    parsed = JSON.parse(jsonString); // 기대형태: { "<videoId>": ["키워드1",...], ... }
+    parsed = JSON.parse(jsonString);
   } catch (e) {
     console.error('Gemini JSON 파싱 실패:', jsonString);
-    throw new Error('Gemini가 반환한 키워드 JSON 파싱에 실패했습니다.');
+    // 한 배치가 실패하더라도 전체가 죽지 않도록 빈 객체 반환 혹은 에러 핸들링
+    return {}; 
   }
 
-  // 스키마 방어: count 개수로 보정
   const out = {};
-  for (const v of videos) {
+  for (const v of batch) {
     const arr = Array.isArray(parsed?.[v.videoId]) ? parsed[v.videoId] : [];
     out[v.videoId] = arr
       .map(s => String(s || '').trim())
       .filter(Boolean)
       .slice(0, count);
 
-    // 만약 모델이 개수를 덜 준 경우, 빈 슬롯 채우기(선택)
+    // 최소 개수 보장 로직
     while (out[v.videoId].length < count) out[v.videoId].push('');
   }
 
