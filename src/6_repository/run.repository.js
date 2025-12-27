@@ -90,11 +90,25 @@ export async function createRun({ runId, date, region, artifacts = {}, meta = {}
 }
 
 /**
+ * 부모 runId로부터 자식 runId를 만든다.
+ * - 예: 2025-12-27_US + 1 => 2025-12-27_US__01
+ *
+ * @param {string} parentRunId - 부모 runId
+ * @param {number} index1Based - 1부터 시작하는 rank
+ * @returns {string} 자식 runId
+ */
+export function makeChildRunId(parentRunId, index1Based) {
+  const suffix = String(index1Based).padStart(2, 'T');
+  return `${parentRunId}__${suffix}`;
+}
+
+/**
  * [수정] 기존 Run 데이터에 변경 사항(patch)을 병합하여 업데이트
  * - artifacts(산출물)와 meta 객체는 덮어쓰지 않고 기존 값과 병합(Merge)함
  * - updatedAt 시간을 자동으로 갱신
  */
 export async function updateRun(runId, patch) {
+  console.log(`[run.repository] updateRun: ${runId} -> ${next.status} (patch keys: ${Object.keys(patch).join(',')})`);
   const prev = await getRun(runId);
   if (!prev) throw new Error(`[run.repository] updateRun failed: run not found: ${runId}`);
 

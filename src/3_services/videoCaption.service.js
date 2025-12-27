@@ -13,6 +13,51 @@
  */
 
 import { generateContent } from './gemini.service.js';
+import { getVideoId } from '../utils/videoKey.js';
+import { geminiGenerateJson } from './gemini.service.js'; // TODO: 너 프로젝트의 실제 호출 함수명으로 연결
+
+/**
+ * TopK 비디오 각각에 대한 clip captions(1~4개)를 1회 LLM 호출로 생성한다.
+ *
+ * @param {object} params
+ * @param {string} params.query - 기준 query
+ * @param {Array<object>} params.topKVideos - bestVideo 배열(각 요소는 videoId/title/channelTitle 등 포함)
+ * @returns {Promise<Record<string, string[]>>} { [videoId]: captions[] }
+ */
+export async function generateClipCaptionsForTopK({ query, topKVideos }) {
+  const items = (Array.isArray(topKVideos) ? topKVideos : [])
+    .map(v => ({
+      videoId: getVideoId(v),
+      title: v?.title || '',
+      channelTitle: v?.channelTitle || '',
+    }))
+    .filter(x => x.videoId);
+
+  if (items.length === 0) return {};
+
+  // ✅ 프롬프트는 "각 videoId별로 captions 배열을 만들어라"로 강제
+  const prompt = {
+    task: 'Generate short clip captions for each video',
+    query,
+    items,
+    output_format: {
+      type: 'object',
+      keys: 'videoId',
+      value: 'array of 1~4 short captions (strings)',
+    },
+  };
+
+  // 반환 예: { "pZL2yxhxHu4": ["...", "..."], "xxxx": ["..."] }
+  const parsed = await generateContent(prompt);
+
+  // 방어: 결과 정규화
+  const map = {};
+  for (const it of items) {
+    const arr = parsed?.[it.videoId];
+    map[it.videoId] = Array.isArray(arr) ? arr.map(String) : [];
+  }
+  return map;
+}
 
 const MODEL = process.env.GEMINI_MODEL;
 

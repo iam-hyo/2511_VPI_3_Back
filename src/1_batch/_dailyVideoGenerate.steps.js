@@ -20,13 +20,13 @@ import fs from 'fs/promises';
 import { parseISODuration } from '../3_services/vpi.service.js';
 import { collectOneRegion } from './runDailyCollection.js';
 import { getRelatedVideosByKeyword } from '../3_services/related.service.js';
-import { getMostTrendyVideo } from '../3_services/trend.service.js';
+import { getMostTrendyVideos } from '../3_services/trend.service.js';
 import { downloadVideoIfNeeded, cutLastSecondsIfNeeded, mergeTitleAndHighlightsWithFade, ensureDir, createTitleCardIfNeeded } from '../3_services/videoEdit.service.js';
 import { generateVideoDetail } from '../3_services/videoMeta.service.js';
 import { generateClipCaptions } from '../3_services/videoCaption.service.js';
 
 // ---------- Repository Layer ----------
-import { createRun, getRun, updateRun, markRunError, makeRunId, RUN_STATUS } from '../6_repository/run.repository.js';
+import { makeChildRunId, createRun, getRun, updateRun, markRunError, makeRunId, RUN_STATUS } from '../6_repository/run.repository.js';
 import { loadProcessedVideosByFileName } from '../6_repository/file.repository.js';
 
 const highlightSec = 10;
@@ -168,7 +168,7 @@ export async function step1_selectMostTrendyVideo(run) {
   }
 
   const videos = await loadProcessedVideosByFileName(processedFileName);
-  const best = getMostTrendyVideo(videos);
+  const best = getMostTrendyVideos(videos, 3);
 
   if (!best) {
     throw new Error('[step1 Error] No best video found (all videos filtered out)');
@@ -186,6 +186,125 @@ export async function step1_selectMostTrendyVideo(run) {
 
   console.log(`[step1] selected bestVideoId=${best.id}`);
   return next;
+}
+
+/**
+ * 부모 run의 processed 파일을 읽어 트렌드 TopK 비디오를 선정한다.
+ *
+ * @param {object} parentRun - 부모 run 객체(artifacts.processedFileName 필요)
+ * @param {number} topK - 선정할 개수
+ * @returns {Promise<Array<any>>} 선정된 비디오 배열(중복 id 제거, 없으면 [])
+ */
+export async function selectTopKVideos(parentRun, topK = 3) {
+  const processedFileName = parentRun.artifacts?.processedFileName;
+  if (!processedFileName) {
+    throw new Error('[step1 Error] processedFileName not found in parentRun.artifacts');
+  }
+
+  const videos = await loadProcessedVideosByFileName(processedFileName);
+  const bests = getMostTrendyVideos(videos, topK);
+
+  // 중복 id 방지(데이터 이상 대비)
+  const uniq = [];
+  const seen = new Set();
+  for (const v of bests) {
+    if (!v?.id) continue;
+    if (seen.has(v.id)) continue;
+    seen.add(v.id);
+    uniq.push(v);
+  }
+
+  return uniq;
+}
+
+/**
+ * TopK 선정 결과를 바탕으로 부모 run meta를 갱신하고, 자식 run들을 생성/갱신한다.
+ * - 멱등성 보장: 동일 날짜/국가로 재실행해도 같은 child runId로 갱신한다.
+ *
+ * @param {object} parentRun - 부모 run 객체
+ * @param {Array<any>} topKVideos - step1_selectTopKVideos 결과(비디오 배열)
+ * @returns {Promise<{ parentRun: object, childRunIds: string[] }>} 갱신된 부모 run과 자식 runId 목록
+ */
+export async function ensureChildRuns(parentRun, topKVideos) {
+  if (!Array.isArray(topKVideos) || topKVideos.length === 0) {
+    throw new Error('[step1.2 Error] topKVideos empty');
+  }
+
+  const childRunIds = topKVideos.map((_, i) => makeChildRunId(parentRun.runId, i + 1));
+  const topVideoIds = topKVideos.map(v => v.id);
+
+  // ✅ 부모 meta 갱신(덮어쓰기 방지 위해 최신 run을 읽고 merge)
+  const freshParent = await getRun(parentRun.runId);
+  const nextParentMeta = {
+    ...(freshParent?.meta || {}),
+    topK: topKVideos.length,
+    topVideoIds,
+    childRunIds,
+    query: topKVideos[0]?.keyword?.[0] || topKVideos[0]?.title || '',
+  };
+
+  const updatedParent = await updateRun(parentRun.runId, {
+    status: RUN_STATUS.BEST_SELECTED,
+    meta: nextParentMeta,
+  });
+
+  // ✅ 자식 run 생성/갱신(각각 비디오 1개 파이프라인 담당)
+  for (let i = 0; i < topKVideos.length; i++) {
+    const v = topKVideos[i];
+    const childRunId = childRunIds[i];
+    const query = v.keyword?.[0] || v.title || '';
+
+    const baseMeta = {
+      parentRunId: updatedParent.runId,
+      rank: i + 1,
+      bestVideoId: v.id,
+      bestVideoTitle: v.title || '',
+      query,
+    };
+
+    const existingChild = await getRun(childRunId);
+
+    if (!existingChild) {
+      await createRun({
+        runId: childRunId,
+        date: updatedParent.date,
+        region: updatedParent.region,
+        status: RUN_STATUS.COLLECTED,
+        artifacts: { ...updatedParent.artifacts },
+        meta: baseMeta,
+      });
+      continue;
+    }
+
+    // 기존 meta 유지 + 최소 필드 갱신(덮어쓰기 방지)
+    const nextChildMeta = {
+      ...(existingChild.meta || {}),
+      ...baseMeta,
+    };
+
+    await updateRun(childRunId, {
+      artifacts: { ...updatedParent.artifacts },
+      meta: nextChildMeta,
+    });
+  }
+
+  return { parentRun: updatedParent, childRunIds };
+}
+
+/**
+ * step1: TopK 선정 + 자식 run 생성/갱신을 한 번에 수행하는 얇은 오케스트레이터.
+ * - 내부 로직은 분리된 함수로 위임하여 SRP를 지킨다.
+ *
+ * @param {object} parentRun - 부모 run 객체
+ * @param {number} topK - 생성할 자식 run 개수
+ * @returns {Promise<{ parentRun: object, childRunIds: string[] }>} 갱신된 부모 run과 자식 runId 목록
+ */
+export async function step1_selectTopK_and_spawnChildren(parentRun, topK = 3) {
+  const selected = await selectTopKVideos(parentRun, topK);
+  if (selected.length === 0) {
+    throw new Error('[step1 Error] No best videos found');
+  }
+  return ensureChildRuns(parentRun, selected);
 }
 
 

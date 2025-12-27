@@ -19,10 +19,11 @@
  * @param {Array<any>} videos - 분석이 완료된 영상 목록 (VPI 점수 포함)
  * @returns {Object|null} - 선정된 최적의 영상 객체 1개 (조건에 맞는 게 없으면 null)
  */
-export function getMostTrendyVideo(videos) {
+export function getMostTrendyVideos(videos, topK = 1) {
   const safe = Array.isArray(videos) ? videos : [];
   if (safe.length === 0) return null;
 
+  const k = Math.max(0, Math.min(Number(topK) || 0, safe.length));
   const sorted = safe.slice().sort((a, b) => {
     // const at = Number(a.vpiTrendScore ?? 0);
     // const bt = Number(b.vpiTrendScore ?? 0);
@@ -39,5 +40,15 @@ export function getMostTrendyVideo(videos) {
     return bview - aview;
   });
 
-  return sorted[0];
+  return sorted.slice(0, k);
+}
+
+/**
+ * Top1 트렌드 비디오를 반환한다(하위호환용).
+ *
+ * @param {Array<any>} videos - 비디오 배열
+ * @returns {any|null} Top1 비디오 또는 null
+ */
+export function getMostTrendyVideo(videos) {
+  return getMostTrendyVideos(videos, 1)[0] ?? null;
 }
