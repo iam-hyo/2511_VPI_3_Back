@@ -18,7 +18,7 @@ import fs from 'fs/promises';
 
 // ---------- Batch / Service Layer ----------
 import { parseISODuration } from '../3_services/vpi.service.js';
-import { runDailyCollection, collectOneRegion } from './runDailyCollection.js';
+import { collectOneRegion } from './runDailyCollection.js';
 import { getRelatedVideosByKeyword } from '../3_services/related.service.js';
 import { getMostTrendyVideo } from '../3_services/trend.service.js';
 import { downloadVideoIfNeeded, cutLastSecondsIfNeeded, mergeTitleAndHighlightsWithFade, ensureDir, createTitleCardIfNeeded } from '../3_services/videoEdit.service.js';
@@ -82,7 +82,7 @@ export async function isTodayCollectionAlreadyDone(run) {
  */
 export async function step0_collectAndInitRuns() {
   const today = todayStrKST();
-  const regions = ['US', 'JP']; // 여기서 제어 (env로 빼도 됨)
+  const regions = ['KR', 'US', 'JP']; // 여기서 제어 (env로 빼도 됨)
   // const regions = ['KR', 'US', 'JP', 'IN', 'VN'];
 
 
@@ -200,14 +200,15 @@ export async function step2_fetchRelated(run) {
     console.log('[step2] skip: relatedVideos already exist');
     return run;
   }
-
+  
+  const region = run.region;
   const keyword = run.meta?.query;
   if (!keyword) {
     throw new Error('[step2] keyword가 존재하지 않습니다.');
   }
 
   console.log(`[step2] keyword="${keyword}" 관련 동영상 생성 중`);
-  const relatedAll = await getRelatedVideosByKeyword(keyword, 50);
+  const relatedAll = await getRelatedVideosByKeyword(keyword, region, 50);
 
   const next = await updateRun(run.runId, {
     status: RUN_STATUS.RELATED_FETCHED,

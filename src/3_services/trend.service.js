@@ -24,8 +24,10 @@ export function getMostTrendyVideo(videos) {
   if (safe.length === 0) return null;
 
   const sorted = safe.slice().sort((a, b) => {
-    const at = Number(a.vpiTrendScore ?? 0);
-    const bt = Number(b.vpiTrendScore ?? 0);
+    // const at = Number(a.vpiTrendScore ?? 0);
+    // const bt = Number(b.vpiTrendScore ?? 0);
+    const at = Number(a.trendScore_View ?? 0);
+    const bt = Number(b.trendScore_View ?? 0);
     if (bt !== at) return bt - at;
 
     const av = Number(a.vpiScore ?? 0);
