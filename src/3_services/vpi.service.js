@@ -43,9 +43,9 @@ function normalizeToVPIBase(v) {
   const publishedAt = v?.snippet?.publishedAt ?? v?.publishedAt ?? '';
   const channelId = v?.snippet?.channelId ?? v?.channelId ?? '';
   const thumbnails = v?.snippet?.thumbnails ?? v?.thumbnails;
-
+  const commentCount = v?.statistics?.commentCount ?? v.commentCount ?? 0;
   const viewCount = v?.statistics?.viewCount ?? v?.viewCount;
-  const likeCount = v?.statistics?.likeCount ?? v?.likeCount;
+  const likeCount = v?.statistics?.likeCount ?? v?.likeCount ?? 0;
   const duration = v?.contentDetails?.duration ?? v?.duration;
   const subscriberCount = v.subscriberCount
   // const categoryId = v.categoryId 배치에는 문제 없었음.
@@ -53,12 +53,13 @@ function normalizeToVPIBase(v) {
 
   if (!id || !title || !publishedAt || !channelId) return null;
 
+  console.log(`[normalizeToVPIBase] commentCount점검 ${commentCount} `)
   return {
     id,
     subscriberCount,
     categoryId,
     snippet: { title, publishedAt, channelId, thumbnails },
-    statistics: { viewCount, likeCount },
+    statistics: { viewCount, likeCount, commentCount },
     contentDetails: { duration },
   };
 }
@@ -71,14 +72,14 @@ function normalizeToVPIBase(v) {
  */
 export function parseISODuration(duration) {
   if (typeof duration !== 'string') return 0;
-  
+
   const matches = duration.match(/PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?/);
   if (!matches) return 0;
-  
+
   const hours = parseInt(matches[1] || 0);
   const minutes = parseInt(matches[2] || 0);
   const seconds = parseInt(matches[3] || 0);
-  
+
   return (hours * 3600) + (minutes * 60) + seconds;
 }
 
@@ -118,19 +119,22 @@ function formatVideoForVPI(video) {
 
   const obj = {
     id: v.videoId || v.id,
-    actual_views: toNum(v.statistics.viewCount),
     subscriber_count: toNum(v.subscriberCount),
-    upload_date: v.publishedAt, // 스키마가 string을 요구
-    like_count: toNum(v.statistics.likeCount),
-    duration_sec: durationSec,
-    category_id: categoryIdNum,
     upload_date: v.snippet.publishedAt,
-    
-    is_short: durationSec <= 140, // 140초 이하를 쇼츠로 간주
-    hours_since_upload: Math.round(hoursSinceUpload),
+    video_length: durationSec,
+    view_count: toNum(v.statistics.viewCount),
+    like_count: toNum(v.statistics.likeCount),
+    comment_count: toNum(v.statistics.commentCount),
+    category_id: categoryIdNum,
+
+    is_short: durationSec <= 120, // 120초 이하를 쇼츠로 간주
+    // hours_since_upload: Math.round(hoursSinceUpload),
     category_group: categoryGroup
   };
-  
+
+
+  // console.log(`[formatVideoForVPI] comment_count 점검 ${obj.comment_count}`)
+
   // VPI API가 null이나 undefined 값을 싫어할 수 있으므로, 해당 키를 제거
   return obj
 }
@@ -141,17 +145,17 @@ function formatVideoForVPI(video) {
 export async function fetchVPIs(videos) {
   let payload;
 
-  const normalized_v = videos.map(normalizeToVPIBase)
+  const normalized_v = videos.map(normalizeToVPIBase) //v.statistics.commentCount
   console.log("===========fetchVPIS==============")
   // console.log(videos)
   // console.log(normalized_v)
 
-try {
-  payload = normalized_v.map(formatVideoForVPI);
-} catch (validationError) {
-  console.error('[VPI] PI 페이로드 생성 중 치명적 오류:', validationError.message);
-  throw validationError;
-}
+  try {
+    payload = normalized_v.map(formatVideoForVPI);
+  } catch (validationError) {
+    console.error('[VPI] PI 페이로드 생성 중 치명적 오류:', validationError.message);
+    throw validationError;
+  }
 
   // (디버깅) VPI로 전송되는 페이로드 샘플을 콘솔에 1개만 출력
   if (payload.length > 0) {
@@ -168,17 +172,17 @@ try {
     const text = await res.text();
     throw new Error(`VPI API 오류 (${res.status}): ${text.slice(0, 160)}`);
   }
-  
+
   // VPI API는 { "id": "string", "vpi": 0, "pred": 0 } 배열을 반환
-  const data = await res.json(); 
-  
+  const data = await res.json();
+
   // VPI 응답(배열)을 쉽게 찾을 수 있도록 Map으로 변환
   const vpiMap = new Map();
   if (Array.isArray(data)) {
     data.forEach(item => {
       vpiMap.set(item.id, {
-        vpiScore: item.vpi || 0,
-        predViews: item.pred || 0 // 예측 조회수 (필요시 사용)
+        FI: item.FI || 0,
+        predicted_7day_views: item.predicted_7day_views || 0 // 예측 조회수 (필요시 사용)
       });
     });
   }

@@ -1,0 +1,4099 @@
+{
+  "collectedAt": "2025-12-31T15:16:50.407Z",
+  "regionCode": "KR",
+  "videos": [
+    {
+      "kind": "youtube#video",
+      "etag": "6UVSAWIwSrdxvnWVGKxhVTboIdo",
+      "id": "Uux5TXOV3CU",
+      "snippet": {
+        "publishedAt": "2025-12-30T11:29:34Z",
+        "channelId": "UCInYIznyqojL4rJc83pSJQA",
+        "title": "[박서진 공식] 첫눈에 반해 버린 사람아",
+        "description": "상기 영상은 AI도구를 통해 제작되었습니다",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Uux5TXOV3CU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Uux5TXOV3CU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Uux5TXOV3CU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Uux5TXOV3CU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Uux5TXOV3CU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "박서진",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[박서진 공식] 첫눈에 반해 버린 사람아",
+          "description": "상기 영상은 AI도구를 통해 제작되었습니다"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "80663",
+        "likeCount": "6158",
+        "favoriteCount": "0",
+        "commentCount": "1333"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GDw824mrYKNbB2Y2Fj7KOvUKiwc",
+      "id": "3F4p3KOH8y0",
+      "snippet": {
+        "publishedAt": "2025-12-30T14:29:09Z",
+        "channelId": "UCSB5FOwUVnAhGo_o99IhxYA",
+        "title": "[어벤져스: 둠스데이] '토르' 예고편 최초 공개",
+        "description": "토르는 [어벤져스: 둠스데이]로 돌아온다.\n\n[어벤져스: 둠스데이] 2026년 12월 극장 대개봉\n\n#어벤져스_둠스데이 #AvergersDoomsday #토르\n#어벤져스 #둠스데이 #Avengers #마블 #Marvel #2026년12월극장대개봉\n\n■ 마블 코리아 구독하기\nhttps://www.youtube.com/user/MarvelKorea\n\n* 페이스북 : https://www.facebook.com/marvel.kr\n* 인스타그램 : https://www.instagram.com/marvelkorea (@marvelkorea)\n* 홈페이지 : http://www.disney.co.kr",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3F4p3KOH8y0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3F4p3KOH8y0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3F4p3KOH8y0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3F4p3KOH8y0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3F4p3KOH8y0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MarvelKorea",
+        "tags": [
+          "마블",
+          "marvel",
+          "marvelkorea",
+          "마블 영화",
+          "마블 예고편",
+          "예고편",
+          "trailer",
+          "마블 ost",
+          "마블 히어로",
+          "마블 명장면",
+          "마블 만화",
+          "마블총정리",
+          "아이언맨",
+          "캡틴아메리카",
+          "엔드게임",
+          "닥터스트레인지",
+          "앤트맨",
+          "블랙위도우",
+          "어벤져스",
+          "marvel studio"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[어벤져스: 둠스데이] '토르' 예고편 최초 공개",
+          "description": "토르는 [어벤져스: 둠스데이]로 돌아온다.\n\n[어벤져스: 둠스데이] 2026년 12월 극장 대개봉\n\n#어벤져스_둠스데이 #AvergersDoomsday #토르\n#어벤져스 #둠스데이 #Avengers #마블 #Marvel #2026년12월극장대개봉\n\n■ 마블 코리아 구독하기\nhttps://www.youtube.com/user/MarvelKorea\n\n* 페이스북 : https://www.facebook.com/marvel.kr\n* 인스타그램 : https://www.instagram.com/marvelkorea (@marvelkorea)\n* 홈페이지 : http://www.disney.co.kr"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "559696",
+        "likeCount": "10368",
+        "favoriteCount": "0",
+        "commentCount": "1776"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-bIppp9gKhzxgnNGvy9O-7yu5N0",
+      "id": "iXULPjcq00A",
+      "snippet": {
+        "publishedAt": "2025-12-31T01:02:50Z",
+        "channelId": "UCcgkgKhXT6QwdGj9Nr8PBcg",
+        "title": "피넛 최초 합방..! 레전드 정글러를 눈앞에서 ㄷㄷ;",
+        "description": "★ 봉준 공식 네이버 카페 https://cafe.naver.com/moomoo\n★ 봉준 보라채널 https://www.youtube.com/channel/UC69uMhRJcUnvMnMxKT2SS0w\n★ 봉준 풀영상 https://youtube.com/channel/UCP-KRZsIkIqww2jIdrciu2g?si=oKh-wGtboekJt9ok\n* 와꾸대장봉준의 게임 채널입니다!\n* 구독, 좋아요, 댓글 한 번씩 부탁드립니다!\n\n출처는 브금대통령 | BGM President |\n#롤 #리그오브레전드 #LOL#프레이#피넛",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iXULPjcq00A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iXULPjcq00A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iXULPjcq00A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iXULPjcq00A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iXULPjcq00A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "게임대장봉준",
+        "tags": [
+          "봉준",
+          "김봉준",
+          "와꾸대장봉준",
+          "게임",
+          "리그 오브 레전드",
+          "LOL",
+          "League of Legends"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "피넛 최초 합방..! 레전드 정글러를 눈앞에서 ㄷㄷ;",
+          "description": "★ 봉준 공식 네이버 카페 https://cafe.naver.com/moomoo\n★ 봉준 보라채널 https://www.youtube.com/channel/UC69uMhRJcUnvMnMxKT2SS0w\n★ 봉준 풀영상 https://youtube.com/channel/UCP-KRZsIkIqww2jIdrciu2g?si=oKh-wGtboekJt9ok\n* 와꾸대장봉준의 게임 채널입니다!\n* 구독, 좋아요, 댓글 한 번씩 부탁드립니다!\n\n출처는 브금대통령 | BGM President |\n#롤 #리그오브레전드 #LOL#프레이#피넛"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT32M57S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "152006",
+        "likeCount": "1117",
+        "favoriteCount": "0",
+        "commentCount": "96"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1mqUbgYJfJE6wOWphuecWJpZIHg",
+      "id": "XoSoSmthMb4",
+      "snippet": {
+        "publishedAt": "2025-12-30T20:00:34Z",
+        "channelId": "UCy-gOpJFjjNHXP9lQIVM1Xw",
+        "title": "girl, get up.",
+        "description": "Provided to YouTube by Universal Music Group\n\ngirl, get up. · Doechii · SZA\n\ngirl, get up.\n\n℗ 2025 Top Dawg Entertainment, LLC, under exclusive license to UMG Recordings, Inc.\n\nReleased on: 2025-12-30\n\nProducer: Jay Versace\nMixing Engineer, Recording Engineer: Jayda Love\nRecording Engineer: Michael Deano\nMastering Engineer: Nicolas de Porcel\nAdditional Engineer: Demitrius Lewis II\nVocalist: Doechii\nVocalist: SZA\nA& R: Chris Turner\nAand Radministrator: Liz Isik\nComposer Lyricist: Jaylah Hickmon\nComposer Lyricist: Solána Rowe\nComposer Lyricist: Jahlil Gunter\nComposer Lyricist: Darius Scott\nComposer Lyricist: Charles Hugo\nComposer Lyricist: Gene Thornton\nComposer Lyricist: Terrence Thornton\nComposer Lyricist: Bryan Williams\nComposer Lyricist: Pharrell Williams\n\nAuto-generated by YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XoSoSmthMb4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XoSoSmthMb4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XoSoSmthMb4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XoSoSmthMb4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XoSoSmthMb4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Doechii - Topic",
+        "tags": [
+          "Doechii",
+          "ドーチ",
+          "SZA",
+          "シザ",
+          "girl, get up."
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "girl, get up.",
+          "description": "Provided to YouTube by Universal Music Group\n\ngirl, get up. · Doechii · SZA\n\ngirl, get up.\n\n℗ 2025 Top Dawg Entertainment, LLC, under exclusive license to UMG Recordings, Inc.\n\nReleased on: 2025-12-30\n\nProducer: Jay Versace\nMixing Engineer, Recording Engineer: Jayda Love\nRecording Engineer: Michael Deano\nMastering Engineer: Nicolas de Porcel\nAdditional Engineer: Demitrius Lewis II\nVocalist: Doechii\nVocalist: SZA\nA& R: Chris Turner\nAand Radministrator: Liz Isik\nComposer Lyricist: Jaylah Hickmon\nComposer Lyricist: Solána Rowe\nComposer Lyricist: Jahlil Gunter\nComposer Lyricist: Darius Scott\nComposer Lyricist: Charles Hugo\nComposer Lyricist: Gene Thornton\nComposer Lyricist: Terrence Thornton\nComposer Lyricist: Bryan Williams\nComposer Lyricist: Pharrell Williams\n\nAuto-generated by YouTube."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3M9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": [
+            "AE",
+            "AR",
+            "AS",
+            "AT",
+            "AU",
+            "AW",
+            "AZ",
+            "BA",
+            "BD",
+            "BE",
+            "BG",
+            "BH",
+            "BM",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GE",
+            "GF",
+            "GH",
+            "GP",
+            "GR",
+            "GT",
+            "GU",
+            "HK",
+            "HN",
+            "HR",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IN",
+            "IQ",
+            "IS",
+            "IT",
+            "JM",
+            "JO",
+            "JP",
+            "KE",
+            "KH",
+            "KR",
+            "KW",
+            "KY",
+            "KZ",
+            "LA",
+            "LB",
+            "LI",
+            "LK",
+            "LT",
+            "LU",
+            "LV",
+            "LY",
+            "MA",
+            "MK",
+            "MP",
+            "MQ",
+            "MT",
+            "MX",
+            "MY",
+            "NC",
+            "NG",
+            "NI",
+            "NL",
+            "NO",
+            "NP",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PF",
+            "PG",
+            "PH",
+            "PK",
+            "PL",
+            "PR",
+            "PT",
+            "PY",
+            "QA",
+            "RE",
+            "RO",
+            "RS",
+            "SA",
+            "SE",
+            "SG",
+            "SI",
+            "SK",
+            "SN",
+            "SV",
+            "TC",
+            "TH",
+            "TN",
+            "TR",
+            "TW",
+            "TZ",
+            "UA",
+            "UG",
+            "US",
+            "UY",
+            "VE",
+            "VI",
+            "VN",
+            "YE",
+            "YT",
+            "ZA",
+            "ZW"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "170308",
+        "likeCount": "8997",
+        "favoriteCount": "0",
+        "commentCount": "252"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "JhEBTHx3Yspt1_M6mGHTyfeoWMs",
+      "id": "9C973g8hrXQ",
+      "snippet": {
+        "publishedAt": "2025-12-30T15:22:26Z",
+        "channelId": "UCKBzr20577Xcn0LJoRVES_A",
+        "title": "와.. 드디어 근본 토르가 돌아왔다.. ≪어벤져스: 둠스데이≫ 2차 토르 예고편 떡밥 총정리",
+        "description": "#어벤져스둠스데이 #둠스데이 #마블\n🎬 와.. 드디어 근본 토르가 돌아왔다.. ≪어벤져스: 둠스데이≫ 2차 토르 예고편 떡밥 총정리\n\n00:00 인트로\n00:38 토르 예고편 분석\n03:23 닥터 둠 VS 토르\n05:42 메인 테마\n07:43 다음 예고편은 뭘까?\n08:05 둠스띵크는 계속 됩니다!\n08:21 아웃트로\n\n✅ 비즈니스 문의\nhongzuna@naver.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9C973g8hrXQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9C973g8hrXQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9C973g8hrXQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9C973g8hrXQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9C973g8hrXQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "무비띵크_Movie Think",
+        "tags": [
+          "영화리뷰",
+          "영화추천",
+          "무비띵크",
+          "마블",
+          "마블영화",
+          "마블유튜브",
+          "마블유튜버",
+          "마블띵크",
+          "디즈니플러스",
+          "MCU",
+          "떴냐",
+          "루머띵크",
+          "디즈니 마블",
+          "마블 디즈니",
+          "어벤져스 둠스데이",
+          "어벤져스5 둠스데이",
+          "어벤져스5",
+          "어벤져스 시크릿 워즈",
+          "어벤져스 둠스데이 닥터둠",
+          "어벤져스 둠스데이 스토리",
+          "어벤져스 둠스데이 요약",
+          "어벤져스 둠스데이 스포",
+          "둠스데이 캐스팅",
+          "둠스데이 배우",
+          "둠스데이 캐스팅 라인업",
+          "어벤져스 둠스데이 배우",
+          "어벤져스 둠스데이 루머",
+          "어벤져스 둠스데이 라인업",
+          "어벤져스 둠스데이 로다주",
+          "어벤져스 둠스데이 빌런",
+          "어벤져스 둠스데이 완다",
+          "어벤져스 둠스데이 팀",
+          "어벤져스 둠스데이 티저",
+          "어벤져스 둠스데이 예고편",
+          "어벤져스 둠스데이 티저예고편",
+          "어벤져스 둠스데이 출연료",
+          "어벤져스 둠스데이 스티브 로저스",
+          "둠스데이 스티브 로저스",
+          "스티브 로저스 둠스데이",
+          "어벤져스 둠스데이 2차 예고편",
+          "어벤져스 둠스데이 토르"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "와.. 드디어 근본 토르가 돌아왔다.. ≪어벤져스: 둠스데이≫ 2차 토르 예고편 떡밥 총정리",
+          "description": "#어벤져스둠스데이 #둠스데이 #마블\n🎬 와.. 드디어 근본 토르가 돌아왔다.. ≪어벤져스: 둠스데이≫ 2차 토르 예고편 떡밥 총정리\n\n00:00 인트로\n00:38 토르 예고편 분석\n03:23 닥터 둠 VS 토르\n05:42 메인 테마\n07:43 다음 예고편은 뭘까?\n08:05 둠스띵크는 계속 됩니다!\n08:21 아웃트로\n\n✅ 비즈니스 문의\nhongzuna@naver.com"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT9M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "302298",
+        "likeCount": "4266",
+        "favoriteCount": "0",
+        "commentCount": "556"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "dwf1o0dwMhrC_35_nM1XFu2dnzQ",
+      "id": "e9bKMJGDrzA",
+      "snippet": {
+        "publishedAt": "2025-12-30T08:30:24Z",
+        "channelId": "UCJpAwvQaZyCI5spAz7tipGA",
+        "title": "지피지기",
+        "description": "파카 생방송 :  https://chzzk.naver.com/42597020c1a79fb151bd9b9beaa9779b\n파카 공식카페 : https://cafe.naver.com/paka94\n파카 이메일 - soninuki@gmail.com\n비즈니스 이메일 - charon@gysent.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e9bKMJGDrzA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e9bKMJGDrzA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e9bKMJGDrzA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e9bKMJGDrzA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e9bKMJGDrzA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "PAKA",
+        "tags": [
+          "파카",
+          "paka",
+          "손인욱",
+          "리그오브레전드"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "지피지기",
+          "description": "파카 생방송 :  https://chzzk.naver.com/42597020c1a79fb151bd9b9beaa9779b\n파카 공식카페 : https://cafe.naver.com/paka94\n파카 이메일 - soninuki@gmail.com\n비즈니스 이메일 - charon@gysent.com"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT26M42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "334381",
+        "likeCount": "2170",
+        "favoriteCount": "0",
+        "commentCount": "256"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "f5k4omccge_v0yqsNEwmJM0kjtE",
+      "id": "mWyStlef0xY",
+      "snippet": {
+        "publishedAt": "2025-12-31T09:01:19Z",
+        "channelId": "UC9dIQRHQwB6cvfymHRvJ7mA",
+        "title": "Sincere Lies (Feat. GARY)",
+        "description": "Provided to YouTube by Kakao Entertainment\n\nSincere Lies (Feat. GARY) · BIG Naughty · GARY · HAH · HOLYGRAIL · flexindoor · BIG Naughty · BIG Naughty · HAH · flexindoor · HOLYGRAIL · BIG Naughty · GARY\n\nSincere Lies\n\n℗ 2025 H1GHR MUSIC RECORDS,under license to Kakao Entertainment\n\nReleased on: 2025-12-31\n\nLyricist: BIG Naughty\nLyricist: GARY\nComposer: BIG Naughty\nComposer: HAH\nComposer: flexindoor\nComposer: HOLYGRAIL\nArranger: HAH\nArranger: HOLYGRAIL\nArranger: flexindoor\nArranger: BIG Naughty\n\nAuto-generated by YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mWyStlef0xY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mWyStlef0xY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mWyStlef0xY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mWyStlef0xY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mWyStlef0xY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BIG Naughty - Topic",
+        "tags": [
+          "BIG Naughty",
+          "BIG Naughty (서동현)",
+          "GARY",
+          "개리",
+          "HAH",
+          "HOLYGRAIL",
+          "flexindoor",
+          "Sincere Lies",
+          "무리했었던 약속들",
+          "Sincere Lies (Feat. GARY)",
+          "무리했었던 약속들 (Feat. 개리)"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Sincere Lies (Feat. GARY)",
+          "description": "Provided to YouTube by Kakao Entertainment\n\nSincere Lies (Feat. GARY) · BIG Naughty · GARY · HAH · HOLYGRAIL · flexindoor · BIG Naughty · BIG Naughty · HAH · flexindoor · HOLYGRAIL · BIG Naughty · GARY\n\nSincere Lies\n\n℗ 2025 H1GHR MUSIC RECORDS,under license to Kakao Entertainment\n\nReleased on: 2025-12-31\n\nLyricist: BIG Naughty\nLyricist: GARY\nComposer: BIG Naughty\nComposer: HAH\nComposer: flexindoor\nComposer: HOLYGRAIL\nArranger: HAH\nArranger: HOLYGRAIL\nArranger: flexindoor\nArranger: BIG Naughty\n\nAuto-generated by YouTube."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "16142",
+        "likeCount": "933",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Oase6WEhvjKcpM6cWFTMs22Qm44",
+      "id": "9FdiLntO6sE",
+      "snippet": {
+        "publishedAt": "2025-12-22T23:00:21Z",
+        "channelId": "UCRV0Gb4i99Aj9UiqCE8xlvw",
+        "title": "[신비아파트 10주년 극장판: 한 번 더, 소환] 2차 예고편",
+        "description": "대학생 하리와 월드 스타 신비, 그리고 세계 도깨비들까지?\n부활한 지하국대적에 맞서 변치 않는 팀 신비아파트 한 번 더, 소환!\n\n#신비아파트 10주년극장판 #신비아파트_한번더소환\n#1월14일극장대개봉 #신비 #하리 #두리 #강림",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9FdiLntO6sE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9FdiLntO6sE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9FdiLntO6sE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9FdiLntO6sE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9FdiLntO6sE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CJ ENM Movie",
+        "tags": [
+          "CJ엔터테인먼트",
+          "CJ Entertainment",
+          "영화예고",
+          "예고편",
+          "trailer",
+          "CJ ENM_Movie",
+          "한국영화",
+          "국내영화",
+          "한국영화추천",
+          "영화추천",
+          "인생영화",
+          "영화 비하인드",
+          "영화 리뷰",
+          "영화 후기",
+          "넷플릭스",
+          "movie",
+          "movie recommendation",
+          "Korean movie",
+          "CJ ENM",
+          "ENM movie"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[신비아파트 10주년 극장판: 한 번 더, 소환] 2차 예고편",
+          "description": "대학생 하리와 월드 스타 신비, 그리고 세계 도깨비들까지?\n부활한 지하국대적에 맞서 변치 않는 팀 신비아파트 한 번 더, 소환!\n\n#신비아파트 10주년극장판 #신비아파트_한번더소환\n#1월14일극장대개봉 #신비 #하리 #두리 #강림"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "310818",
+        "likeCount": "1188",
+        "favoriteCount": "0",
+        "commentCount": "210"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "36EP6qBQTJERCEwGly-r9R4yyfY",
+      "id": "hmL5R-zZtBE",
+      "snippet": {
+        "publishedAt": "2025-12-31T09:01:16Z",
+        "channelId": "UCUR5w0E-jQTOO8Q0FZ4ilYQ",
+        "title": "메이플키우기 : 이렇게 운이 없을 수가 있나요? [팡이요,  메이플스토리]",
+        "description": "▶풀버전은 아프리카TV 팡이요 방송국 VOD에 자동 업로드가 됩니다.\n    방송국에서 확인 해 주시기 바랍니다.^^\n    http://www.afreeca.com/sccha21\n\n▶팡이요의 유튜브채널 구독하기 http://goo.gl/Q07ep4\n팡이요유튜브에 여러분의 구독&좋아요&댓글은 큰 힘됩이 니다\n\n▶팡이요 유튜브 여러 재생목록 바로가기 클릭\n팡이의 사생활 : https://goo.gl/pu74vW\n팡이의 다양한 게임 플레이 : https://goo.gl/QQ9yDN\n팡이의 다양한 게임 하이라이트 : https://goo.gl/VFlFtv\n\n▶팡이요 관련 링크 바로가기 링크클릭\n아프리카TV 방송국 : http://www.afreeca.com/sccha21\n팡이요 유튜브 : http://www.youtube.com/bjpange\n팡이요 페이스북 : http://www.facebook.com/pang2yo\n팡이요 인스타그램 : https://www.instagram.com/pang2yo/\n팡이요 공식팬카페 : https://cafe.naver.com/pang2yo\n\n\n▶팡이요의 생방송은 아프리카TV에서 보실 수 있습니다\n▶팡이요의 풀버전 영상은 짧은 시일내에 아프리카TV 팡이요 방송국 VOD에서 보실 수 있습니다 :  http://www.afreeca.com/sccha21\n\n#팡이요, #메이플키우기, #메이플스토리,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hmL5R-zZtBE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hmL5R-zZtBE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hmL5R-zZtBE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hmL5R-zZtBE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hmL5R-zZtBE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "팡이요",
+        "tags": [
+          "메이플스토리",
+          "메이플",
+          "메이플1",
+          "팡이요",
+          "팡이",
+          "BJ팡이",
+          "BJ팡이요",
+          "maple",
+          "강화",
+          "스타포스",
+          "스타포스강화",
+          "히어로",
+          "로얄스타일",
+          "레드큐브",
+          "블랙큐브",
+          "레큐",
+          "블큐",
+          "maplestory",
+          "maple story",
+          "아프리카TV",
+          "육성",
+          "아델",
+          "메이플키우기"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "메이플키우기 : 이렇게 운이 없을 수가 있나요? [팡이요,  메이플스토리]",
+          "description": "▶풀버전은 아프리카TV 팡이요 방송국 VOD에 자동 업로드가 됩니다.\n    방송국에서 확인 해 주시기 바랍니다.^^\n    http://www.afreeca.com/sccha21\n\n▶팡이요의 유튜브채널 구독하기 http://goo.gl/Q07ep4\n팡이요유튜브에 여러분의 구독&좋아요&댓글은 큰 힘됩이 니다\n\n▶팡이요 유튜브 여러 재생목록 바로가기 클릭\n팡이의 사생활 : https://goo.gl/pu74vW\n팡이의 다양한 게임 플레이 : https://goo.gl/QQ9yDN\n팡이의 다양한 게임 하이라이트 : https://goo.gl/VFlFtv\n\n▶팡이요 관련 링크 바로가기 링크클릭\n아프리카TV 방송국 : http://www.afreeca.com/sccha21\n팡이요 유튜브 : http://www.youtube.com/bjpange\n팡이요 페이스북 : http://www.facebook.com/pang2yo\n팡이요 인스타그램 : https://www.instagram.com/pang2yo/\n팡이요 공식팬카페 : https://cafe.naver.com/pang2yo\n\n\n▶팡이요의 생방송은 아프리카TV에서 보실 수 있습니다\n▶팡이요의 풀버전 영상은 짧은 시일내에 아프리카TV 팡이요 방송국 VOD에서 보실 수 있습니다 :  http://www.afreeca.com/sccha21\n\n#팡이요, #메이플키우기, #메이플스토리,"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT17M20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "106240",
+        "likeCount": "844",
+        "favoriteCount": "0",
+        "commentCount": "123"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "lgFnFuvm5HkXqi1oTeyB23CPyeU",
+      "id": "eDlYB_e5k3c",
+      "snippet": {
+        "publishedAt": "2025-12-29T09:04:16Z",
+        "channelId": "UCXbPamSKLbpTQV1kPUsW3KQ",
+        "title": "Borrow your night",
+        "description": "Provided to YouTube by Kakao Entertainment\n\nBorrow your night · PLAVE · PLAVE · 1Hz · GPLP · Yountoven · Sonbaksa · 윤다온 · Yountoven · Sonbaksa · 윤다온\n\nBorrow your night (Original Soundtrack from Even If This Love Disappears Tonight)\n\n℗ 2025 TOON STUDIO,under license to Kakao Entertainment\n\nReleased on: 2025-12-29\n\nLyricist: 윤토벤\nLyricist: 손박사\nLyricist: 윤다온\nComposer: 윤토벤\nComposer: 손박사\nComposer: 윤다온\nArranger: PLAVE\nArranger: 1Hz\nArranger: GPLP\n\nAuto-generated by YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eDlYB_e5k3c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eDlYB_e5k3c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eDlYB_e5k3c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eDlYB_e5k3c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eDlYB_e5k3c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "PLAVE - Topic",
+        "tags": [
+          "PLAVE",
+          "1Hz",
+          "GPLP",
+          "Yountoven",
+          "Sonbaksa",
+          "윤다온",
+          "Borrow your night (Original Soundtrack from Even If This Love Disappears Tonight)",
+          "이 밤을 빌려 말해요 (오늘 밤, 세계에서 이 사랑이 사라진다 해도 X PLAVE)",
+          "Borrow your night",
+          "이 밤을 빌려 말해요"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "Borrow your night",
+          "description": "Provided to YouTube by Kakao Entertainment\n\nBorrow your night · PLAVE · PLAVE · 1Hz · GPLP · Yountoven · Sonbaksa · 윤다온 · Yountoven · Sonbaksa · 윤다온\n\nBorrow your night (Original Soundtrack from Even If This Love Disappears Tonight)\n\n℗ 2025 TOON STUDIO,under license to Kakao Entertainment\n\nReleased on: 2025-12-29\n\nLyricist: 윤토벤\nLyricist: 손박사\nLyricist: 윤다온\nComposer: 윤토벤\nComposer: 손박사\nComposer: 윤다온\nArranger: PLAVE\nArranger: 1Hz\nArranger: GPLP\n\nAuto-generated by YouTube."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "97029",
+        "likeCount": "6573",
+        "favoriteCount": "0",
+        "commentCount": "127"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6v4hRkpqQQKJ9u6E8nq6Gh-ANLA",
+      "id": "oNjFIT-1zpo",
+      "snippet": {
+        "publishedAt": "2025-12-30T14:00:07Z",
+        "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+        "title": "기묘한 이야기 5 | 최종화 예고편 | 넷플릭스",
+        "description": "《기묘한 이야기》, 1월 1일 넷플릭스에서 시청하세요: https://www.netflix.com/title/81297917\n\n마지막 예고편\n\n넷플릭스 채널 구독: https://vo.la/j7zAG\nhttps://www.youtube.com/@NetflixKorea",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oNjFIT-1zpo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oNjFIT-1zpo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oNjFIT-1zpo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oNjFIT-1zpo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oNjFIT-1zpo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Netflix Korea 넷플릭스 코리아",
+        "tags": [
+          "게이튼 마타라조",
+          "기묘한 이야기 5",
+          "나탈리아 다이어",
+          "낸시 윌러",
+          "넷플릭스",
+          "노아 슈냅",
+          "더스틴",
+          "데이비드 하버",
+          "로빈 버클리",
+          "루카스",
+          "마야 호크",
+          "마이크 윌러",
+          "맥스",
+          "밀리 바비 브라운",
+          "세이디 싱크",
+          "스티브 해링턴",
+          "위노나 라이더",
+          "윌 바이어스",
+          "일레븐",
+          "제이미 캠벨 바워",
+          "조 키어리",
+          "조나단 바이어스",
+          "조이스 바이어스",
+          "찰리 히튼",
+          "케일럽 맥러플린",
+          "핀 울프하드",
+          "호퍼 서장"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "기묘한 이야기 5 | 최종화 예고편 | 넷플릭스",
+          "description": "《기묘한 이야기》, 1월 1일 넷플릭스에서 시청하세요: https://www.netflix.com/title/81297917\n\n마지막 예고편\n\n넷플릭스 채널 구독: https://vo.la/j7zAG\nhttps://www.youtube.com/@NetflixKorea"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1M39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "72265",
+        "likeCount": "1621",
+        "favoriteCount": "0",
+        "commentCount": "366"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "iB8lMhH-RWy2iFllX0IjDQIrMjo",
+      "id": "sG3GbFOGbbI",
+      "snippet": {
+        "publishedAt": "2025-12-31T08:45:06Z",
+        "channelId": "UCpnnUKmAQKgVinEV-lV-N2g",
+        "title": "마인크래프트에 신규 바이옴 직접 추가하기",
+        "description": "**토템 신청 방법: 댓글 앞에 (토템)을 적으시면 됩니다\n\n비즈니스 관련 문의)\nproteincap99@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sG3GbFOGbbI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sG3GbFOGbbI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sG3GbFOGbbI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sG3GbFOGbbI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sG3GbFOGbbI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "프뚜",
+        "tags": [
+          "마인크래프트",
+          "하드코어",
+          "생존",
+          "마크",
+          "minecraft",
+          "야생",
+          "마크 야생",
+          "마크 생존",
+          "마크 하드코어"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "마인크래프트에 신규 바이옴 직접 추가하기",
+          "description": "**토템 신청 방법: 댓글 앞에 (토템)을 적으시면 됩니다\n\n비즈니스 관련 문의)\nproteincap99@gmail.com"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT25M31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "85576",
+        "likeCount": "2927",
+        "favoriteCount": "0",
+        "commentCount": "606"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2ltNKQDyvOYoKoUrz_796aLU-_k",
+      "id": "zftroR3vhf0",
+      "snippet": {
+        "publishedAt": "2025-12-30T12:07:07Z",
+        "channelId": "UCp-pqXsizklX3ZHvLxXyhxw",
+        "title": "[LIVE] WARNING!+Sweet Chaos｜DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞",
+        "description": "[LIVE] WARNING!+Sweet Chaos｜DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞\n\nListen to DAY6 \"Lovin' the Christmas\"\nhttps://day6.lnk.to/LovintheChristmas\n\nDAY6 Official YouTube: http://www.youtube.com/c/DAY6Official\nDAY6 Official Facebook: http://www.facebook.com/DAY6Official\nDAY6 Official Twitter: http://www.twitter.com/DAY6Official\nDAY6 FANS App Store : http://bit.ly/48OILIW\nDAY6 FANS Google Play : http://bit.ly/48tBxKE\nDAY6 Official Homepage: http://DAY6.jype.com\n\nCopyrights 2025 ⓒ JYP Entertainment. All Rights Reserved.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zftroR3vhf0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zftroR3vhf0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zftroR3vhf0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zftroR3vhf0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zftroR3vhf0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DAY6",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "[LIVE] WARNING!+Sweet Chaos｜DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞",
+          "description": "[LIVE] WARNING!+Sweet Chaos｜DAY6(데이식스) 10th Anniversary Tour ＜The DECADE＞\n\nListen to DAY6 \"Lovin' the Christmas\"\nhttps://day6.lnk.to/LovintheChristmas\n\nDAY6 Official YouTube: http://www.youtube.com/c/DAY6Official\nDAY6 Official Facebook: http://www.facebook.com/DAY6Official\nDAY6 Official Twitter: http://www.twitter.com/DAY6Official\nDAY6 FANS App Store : http://bit.ly/48OILIW\nDAY6 FANS Google Play : http://bit.ly/48tBxKE\nDAY6 Official Homepage: http://DAY6.jype.com\n\nCopyrights 2025 ⓒ JYP Entertainment. All Rights Reserved."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT7M14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "42952",
+        "likeCount": "3852",
+        "favoriteCount": "0",
+        "commentCount": "273"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "JKD1qYqDBcLGwrv5ciE1rJSS1mo",
+      "id": "V7qLyzS7XvY",
+      "snippet": {
+        "publishedAt": "2025-12-30T22:30:09Z",
+        "channelId": "UC2-VHbcGqGxNRUv0YIekMkA",
+        "title": "[휴민트 HUMINT] 1차 예고편",
+        "description": "서로 다른 목적,\n블라디보스토크에서 격돌한다!\n\n[휴민트] 2월 11일 극장 대개봉\n\n#휴민트 #Humint\n#조인성 #박정민 #박해준 #신세경\n#2월11일극장대개봉",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V7qLyzS7XvY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V7qLyzS7XvY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V7qLyzS7XvY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V7qLyzS7XvY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V7qLyzS7XvY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "잇츠뉴 It'sNEW",
+        "tags": [
+          "movie",
+          "film",
+          "trailer",
+          "korean",
+          "new",
+          "itsnewkorea",
+          "next",
+          "world",
+          "entertainment",
+          "영화",
+          "예고편",
+          "넥스트엔터테인먼트",
+          "무비앤뉴",
+          "한국영화"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[휴민트 HUMINT] 1차 예고편",
+          "description": "서로 다른 목적,\n블라디보스토크에서 격돌한다!\n\n[휴민트] 2월 11일 극장 대개봉\n\n#휴민트 #Humint\n#조인성 #박정민 #박해준 #신세경\n#2월11일극장대개봉"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "43108",
+        "likeCount": "552",
+        "favoriteCount": "0",
+        "commentCount": "156"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "fINAiH8HQNdMw_8R06wLbaH6EiI",
+      "id": "4UIDxMyAQ8s",
+      "snippet": {
+        "publishedAt": "2025-12-31T06:00:05Z",
+        "channelId": "UCjZ21l-eakU4iGEfwZilRfQ",
+        "title": "10,000일 동안 세상에서 제일 안전한 최강 무적 기지를 만들어 생존하겠습니다 [로블록스 99나이트인더포레스트]",
+        "description": "10,000일 동안 세상에서 제일 안전한 최강 무적 기지를 만들어 생존할 수 있을까요?\n\n#로블록스 #99나이트인더포레스트 #10000일",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4UIDxMyAQ8s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4UIDxMyAQ8s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4UIDxMyAQ8s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4UIDxMyAQ8s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4UIDxMyAQ8s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "로블록스 달이",
+        "tags": [
+          "로블록스",
+          "99나이트인더포레스트",
+          "10000일"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "10,000일 동안 세상에서 제일 안전한 최강 무적 기지를 만들어 생존하겠습니다 [로블록스 99나이트인더포레스트]",
+          "description": "10,000일 동안 세상에서 제일 안전한 최강 무적 기지를 만들어 생존할 수 있을까요?\n\n#로블록스 #99나이트인더포레스트 #10000일"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT17M51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "66134",
+        "likeCount": "1706",
+        "favoriteCount": "0",
+        "commentCount": "183"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0HFdu9wVoiOX6gYrbmzK8MCeoF0",
+      "id": "_75EsTjN8LY",
+      "snippet": {
+        "publishedAt": "2025-12-29T10:00:06Z",
+        "channelId": "UCrmsG-9nm7wHufb6aoM0f1A",
+        "title": "오빠가 돌아왔다 MV with 파라다이스",
+        "description": "#오빠가돌아왔다 #황영웅 #파라다이스 #뮤직비디오 #뮤비 #파라다이스와함께만든뮤비",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_75EsTjN8LY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_75EsTjN8LY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_75EsTjN8LY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_75EsTjN8LY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_75EsTjN8LY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "황영웅 Tv",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "오빠가 돌아왔다 MV with 파라다이스",
+          "description": "#오빠가돌아왔다 #황영웅 #파라다이스 #뮤직비디오 #뮤비 #파라다이스와함께만든뮤비"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "56865",
+        "likeCount": "5637",
+        "favoriteCount": "0",
+        "commentCount": "1228"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "nJaW7daCweCPpkM47CuRL4x0TWk",
+      "id": "rAjvLssfmPU",
+      "snippet": {
+        "publishedAt": "2025-12-28T20:15:03Z",
+        "channelId": "UCSfoU2V_ECZEqnuNjSZwkTw",
+        "title": "Avengers: Doomsday – \"The X-Men Will Return\" Trailer (Timeory Concept Version)",
+        "description": "This is a fan-made AI concept created by me, inspired by Avengers: Doomsday. It is a fictional interpretation and not an official trailer/scene/clip.\n\n👉 Steve Rogers Teaser: https://youtu.be/-pqDaCYmAVo \n👉 Thor begs Odin: https://youtu.be/J3yXj8-CDrI \n\nIf you use any part of this video in your edits, please credit my channel.\nPlease note that reuploads of this video without permission are not allowed.\n\nThe X-Men stand on the brink of extinction. Magneto and Professor X both feel it, the end is coming.\n\nBut the real question isn’t how it ends… It’s what comes after.\n\nFrom the pages of the comics, the Sentinels rise once more, not as weapons of control, but as instruments of erasure. A future designed to leave nothing behind.\n\nAnd beyond the machines, another shadow grows. While the world watches the Sentinels, Doctor Doom prepares his own endgame.\n\nExtinction was never the final threat. What follows it might be worse.\n\n#AvengersDoomsday #XMen #Magneto #Cyclops #ProfessorX #DoomsdayTrailer #Marvel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rAjvLssfmPU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rAjvLssfmPU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rAjvLssfmPU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rAjvLssfmPU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rAjvLssfmPU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "timeory",
+        "tags": [
+          "x-men",
+          "x-men doomsday",
+          "marvel cinematic universe",
+          "marvel multiverse saga",
+          "professor x",
+          "professor x doomsday",
+          "magneto",
+          "magneto doomsday",
+          "cyclops",
+          "cyclops x-men",
+          "jean grey",
+          "storm",
+          "wolverine",
+          "sentinels",
+          "x-men sentinels",
+          "doctor doom",
+          "dr doom",
+          "doom vs x-men",
+          "x-men vs doom",
+          "patrick stewart professor x",
+          "ian mckellen magneto",
+          "james marsden cyclops",
+          "hugh jackman wolverine",
+          "x-men will return",
+          "x-men is back",
+          "secret",
+          "doomsday trailer",
+          "x men doomsday"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Avengers: Doomsday – \"The X-Men Will Return\" Trailer (Timeory Concept Version)",
+          "description": "This is a fan-made AI concept created by me, inspired by Avengers: Doomsday. It is a fictional interpretation and not an official trailer/scene/clip.\n\n👉 Steve Rogers Teaser: https://youtu.be/-pqDaCYmAVo \n👉 Thor begs Odin: https://youtu.be/J3yXj8-CDrI \n\nIf you use any part of this video in your edits, please credit my channel.\nPlease note that reuploads of this video without permission are not allowed.\n\nThe X-Men stand on the brink of extinction. Magneto and Professor X both feel it, the end is coming.\n\nBut the real question isn’t how it ends… It’s what comes after.\n\nFrom the pages of the comics, the Sentinels rise once more, not as weapons of control, but as instruments of erasure. A future designed to leave nothing behind.\n\nAnd beyond the machines, another shadow grows. While the world watches the Sentinels, Doctor Doom prepares his own endgame.\n\nExtinction was never the final threat. What follows it might be worse.\n\n#AvengersDoomsday #XMen #Magneto #Cyclops #ProfessorX #DoomsdayTrailer #Marvel"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1233462",
+        "likeCount": "17309",
+        "favoriteCount": "0",
+        "commentCount": "807"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ddo8bqQfLd85lZwjmlOQW7rrIyE",
+      "id": "u4CPtzmeAFc",
+      "snippet": {
+        "publishedAt": "2025-12-30T11:01:41Z",
+        "channelId": "UCgT-gb3favw2jQgwxbbwwaA",
+        "title": "??? : 에라 모르겠다 억빠해주세요 승천 슛! 으앜아키앜ㅌ이;ㅏㅋㅌ;임ㄴㅇ",
+        "description": "네이버팬카페 / https://cafe.naver.com/winupsing\n비즈니스문의 / mg.winupsing@gmail.com  \n치지직 / https://chzzk.naver.com/0d07b24955a31b1aad207a9d696e7619\n승상싱 / https://www.youtube.com/@%EC%8A%B9%EC%83%81%EC%8B%B1\n인스타 / https://www.instagram.com/winup_sing\n\n*25년 12월 25일 방송본입니다. \n\n편집 : 루넹님",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u4CPtzmeAFc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u4CPtzmeAFc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u4CPtzmeAFc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u4CPtzmeAFc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/u4CPtzmeAFc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "잡상싱",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "??? : 에라 모르겠다 억빠해주세요 승천 슛! 으앜아키앜ㅌ이;ㅏㅋㅌ;임ㄴㅇ",
+          "description": "네이버팬카페 / https://cafe.naver.com/winupsing\n비즈니스문의 / mg.winupsing@gmail.com  \n치지직 / https://chzzk.naver.com/0d07b24955a31b1aad207a9d696e7619\n승상싱 / https://www.youtube.com/@%EC%8A%B9%EC%83%81%EC%8B%B1\n인스타 / https://www.instagram.com/winup_sing\n\n*25년 12월 25일 방송본입니다. \n\n편집 : 루넹님"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT15M29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "163721",
+        "likeCount": "1309",
+        "favoriteCount": "0",
+        "commentCount": "106"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QSHVgD3K42ajYTFXklO1SPOqQk4",
+      "id": "DXGkV8CwY1M",
+      "snippet": {
+        "publishedAt": "2025-12-31T09:03:41Z",
+        "channelId": "UCO_7jktqnplxKMLaB9uiMHQ",
+        "title": "Close to you",
+        "description": "Provided to YouTube by YG PLUS\n\nClose to you · SOLE · THAMA\n\nClose to you\n\n℗ EMA Recordings\n\nReleased on: 2025-12-31\n\nLyricist: Hal David\nLyricist: Burt Bacharach\nComposer: Hal David\nComposer: Burt Bacharach\nArranger: SOLE\nArranger: THAMA\nGraphic Design: SOLE\nProducer: SOLE\nProducer: THAMA\n\nAuto-generated by YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DXGkV8CwY1M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DXGkV8CwY1M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DXGkV8CwY1M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DXGkV8CwY1M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DXGkV8CwY1M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SOLE - Topic",
+        "tags": [
+          "SOLE",
+          "SOLE(쏠)",
+          "THAMA",
+          "Close to you"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Close to you",
+          "description": "Provided to YouTube by YG PLUS\n\nClose to you · SOLE · THAMA\n\nClose to you\n\n℗ EMA Recordings\n\nReleased on: 2025-12-31\n\nLyricist: Hal David\nLyricist: Burt Bacharach\nComposer: Hal David\nComposer: Burt Bacharach\nArranger: SOLE\nArranger: THAMA\nGraphic Design: SOLE\nProducer: SOLE\nProducer: THAMA\n\nAuto-generated by YouTube."
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "8620",
+        "likeCount": "1114",
+        "favoriteCount": "0",
+        "commentCount": "40"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Ua6a1dB62K4nNt-yV6tNNNFqFyM",
+      "id": "C_ZxUI8V8oc",
+      "snippet": {
+        "publishedAt": "2025-12-30T08:07:43Z",
+        "channelId": "UCg7rkxrTnIhiHEpXY1ec9NA",
+        "title": "영화보다 소름돋는 초고퀄 마인크래프트 *기차 마피아*",
+        "description": "끝없는 설원을 달리는 기차, 하피 익스프레스. 승객 중에서 머더가 있다..\n\n모드 제작자 : @doctor4t‬\n모드 페이지 : https://modrinth.com/modpack/harpy-express\nhttps://youtu.be/jOjo3WRIMe8?si=70qaprbF_epu7NzM\n\n▶구독하기❤& 좋아요👍버튼을 눌러주세요! 큰 힘이 됩니다 :D\n----------------------------------------­----------\n▷잠뜰 TV 간편 무료 구독하기 ! : http://goo.gl/FnZZQO\n🐳비하인드를 보고싶다면 여기에요 여기 ! :https://www.youtube.com/channel/UCg7rkxrTnIhiHEpXY1ec9NA/join\n----------------------------------------­----------\n\n#잠뜰 #마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C_ZxUI8V8oc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C_ZxUI8V8oc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C_ZxUI8V8oc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C_ZxUI8V8oc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C_ZxUI8V8oc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "잠뜰 TV",
+        "tags": [
+          "마인크래프트",
+          "Minecraft",
+          "잠뜰",
+          "Sleepground",
+          "수현",
+          "칠각별",
+          "각별",
+          "라더",
+          "마인크래프트 잠뜰",
+          "마크 미니게임",
+          "잠뜰 미니게임",
+          "공룡",
+          "마인크래프트 공룡",
+          "잠뜰 공룡",
+          "덕개",
+          "마인크래프트 유튜버",
+          "잠뜰 추리",
+          "잠뜰 협동",
+          "잠뜰 베드워즈",
+          "잠뜰 스토리",
+          "잠뜰 마피아",
+          "마피아",
+          "머더",
+          "잠뜰 머더",
+          "하피 익스프레스",
+          "잠뜰 하피"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "영화보다 소름돋는 초고퀄 마인크래프트 *기차 마피아*",
+          "description": "끝없는 설원을 달리는 기차, 하피 익스프레스. 승객 중에서 머더가 있다..\n\n모드 제작자 : @doctor4t‬\n모드 페이지 : https://modrinth.com/modpack/harpy-express\nhttps://youtu.be/jOjo3WRIMe8?si=70qaprbF_epu7NzM\n\n▶구독하기❤& 좋아요👍버튼을 눌러주세요! 큰 힘이 됩니다 :D\n----------------------------------------­----------\n▷잠뜰 TV 간편 무료 구독하기 ! : http://goo.gl/FnZZQO\n🐳비하인드를 보고싶다면 여기에요 여기 ! :https://www.youtube.com/channel/UCg7rkxrTnIhiHEpXY1ec9NA/join\n----------------------------------------­----------\n\n#잠뜰 #마인크래프트"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT37M27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "219642",
+        "likeCount": "11845",
+        "favoriteCount": "0",
+        "commentCount": "902"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "l3zkn3DbizFJwRY-OXsNOpiMujE",
+      "id": "DwAv826t1DY",
+      "snippet": {
+        "publishedAt": "2025-12-30T09:02:41Z",
+        "channelId": "UC1F5A4ouxO9uO2mzPV1SVCA",
+        "title": "Farewell for myself (Veiled Musician X HuhGak with Madu-dong Samdaejang) (날 위한 이별...",
+        "description": "Provided to YouTube by MUSIC&NEW\n\nFarewell for myself (Veiled Musician X HuhGak with Madu-dong Samdaejang) (날 위한 이별 (베일드뮤지션 X 허각 with 마두동 삼대장)) · HuhGak\n\nFarewell for myself (Veiled Musician X HuhGak with Madu-dong Samdaejang)\n\n℗ MUSIC&NEW\n\nReleased on: 2025-12-30\n\nLyricist: Park Ju-Yeon\nComposer: Kim Hyung Suk\nArranger: Noi\n\nAuto-generated by YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DwAv826t1DY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DwAv826t1DY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DwAv826t1DY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DwAv826t1DY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DwAv826t1DY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Release - Topic",
+        "tags": [
+          "HuhGak",
+          "허각",
+          "Farewell for myself (Veiled Musician X HuhGak with Madu-dong Samdaejang)",
+          "날 위한 이별 (베일드뮤지션 X 허각 with 마두동 삼대장)"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "Farewell for myself (Veiled Musician X HuhGak with Madu-dong Samdaejang) (날 위한 이별...",
+          "description": "Provided to YouTube by MUSIC&NEW\n\nFarewell for myself (Veiled Musician X HuhGak with Madu-dong Samdaejang) (날 위한 이별 (베일드뮤지션 X 허각 with 마두동 삼대장)) · HuhGak\n\nFarewell for myself (Veiled Musician X HuhGak with Madu-dong Samdaejang)\n\n℗ MUSIC&NEW\n\nReleased on: 2025-12-30\n\nLyricist: Park Ju-Yeon\nComposer: Kim Hyung Suk\nArranger: Noi\n\nAuto-generated by YouTube."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "11271",
+        "likeCount": "383",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "9s5ONLZvVC3MilJlN7ABlkybR1k",
+      "id": "I6GlFiwRTwY",
+      "snippet": {
+        "publishedAt": "2025-12-30T11:00:35Z",
+        "channelId": "UC-S8JFhLkQ5enhB70c2CYIw",
+        "title": "돌아온 경찰과 도둑",
+        "description": "편집 : 그냥케익님\n썸네일 :  프루님\n생방송 : https://chzzk.naver.com/912b559dcdd9c9ea1fe97864925738bf\n다시보기 : https://www.youtube.com/왈도쿤다시보기\n비즈니스 : Dokun@sandbox.co.kr\n\n◈썸네일과 영상 내 이미지 소스는 허가 없이 재가공 및 배포를 금지합니다\n#경찰과도둑 #마크 #경도",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I6GlFiwRTwY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I6GlFiwRTwY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I6GlFiwRTwY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I6GlFiwRTwY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I6GlFiwRTwY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "왈도쿤",
+        "tags": [
+          "왈도쿤",
+          "게임",
+          "치지직",
+          "스트리머",
+          "마인크래프트",
+          "경찰과 도둑",
+          "왈도쿤 마크",
+          "마크",
+          "마크 경찰과 도둑",
+          "경찰",
+          "도둑",
+          "능력",
+          "감옥",
+          "탈출",
+          "마크 감옥 탈출"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "돌아온 경찰과 도둑",
+          "description": "편집 : 그냥케익님\n썸네일 :  프루님\n생방송 : https://chzzk.naver.com/912b559dcdd9c9ea1fe97864925738bf\n다시보기 : https://www.youtube.com/왈도쿤다시보기\n비즈니스 : Dokun@sandbox.co.kr\n\n◈썸네일과 영상 내 이미지 소스는 허가 없이 재가공 및 배포를 금지합니다\n#경찰과도둑 #마크 #경도"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT29M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "132126",
+        "likeCount": "3307",
+        "favoriteCount": "0",
+        "commentCount": "217"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rJBZmHNse4wJfCFNO7zP89-A6UA",
+      "id": "T-76o4XpGh8",
+      "snippet": {
+        "publishedAt": "2025-12-31T09:00:01Z",
+        "channelId": "UCZMYvSPulDSUdx7bdtTFdrg",
+        "title": "CORTIS (코르티스) 'MIC Drop' Live Practice | 원곡 : BTS (방탄소년단)",
+        "description": "Connect with CORTIS:\nhttps://www.tiktok.com/@cortis_bighit\nhttps://instagram.com/cortis\nhttps://weverse.io/cortis\nhttps://x.com/cortis_bighit\nhttps://x.com/cortis_jp\nhttps://www.facebook.com/cortis.bighit/\nhttps://weibo.com/cortisbighit\nhttps://ibighit.com/cor/\nhttps://digital.umusic.com/cortis-newsletter \n\n#CORTIS #코르티스",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T-76o4XpGh8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T-76o4XpGh8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T-76o4XpGh8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/T-76o4XpGh8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/T-76o4XpGh8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CORTIS",
+        "tags": [
+          "CORTIS",
+          "코르티스",
+          "BIGHIT MUSIC",
+          "빅히트뮤직",
+          "#MARTIN",
+          "#마틴",
+          "#JAMES",
+          "#제임스",
+          "#JUHOON",
+          "#주훈",
+          "#SEONGHYEON",
+          "#성현",
+          "#KEONHO",
+          "#건호"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "CORTIS (코르티스) 'MIC Drop' Live Practice | 원곡 : BTS (방탄소년단)",
+          "description": "Connect with CORTIS:\nhttps://www.tiktok.com/@cortis_bighit\nhttps://instagram.com/cortis\nhttps://weverse.io/cortis\nhttps://x.com/cortis_bighit\nhttps://x.com/cortis_jp\nhttps://www.facebook.com/cortis.bighit/\nhttps://weibo.com/cortisbighit\nhttps://ibighit.com/cor/\nhttps://digital.umusic.com/cortis-newsletter \n\n#CORTIS #코르티스"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "208350",
+        "likeCount": "53295",
+        "favoriteCount": "0",
+        "commentCount": "2889"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Qb1r2BOdlc09LM44UOUAGUgwWto",
+      "id": "QsPRWyTSHqc",
+      "snippet": {
+        "publishedAt": "2025-12-30T09:01:07Z",
+        "channelId": "UCBTsPtRCh6ln3IRQFjhjh1A",
+        "title": "메소도 녹고 나도 녹았다",
+        "description": "구독, 댓글, 좋아요는 항상 큰 힘이 됩니다❤️\n오늘도 시청해주셔서 감사합니다:D\n\n- 2025. 12. 25. 방송입니다.\n──────────────────────\n[유튜브] https://www.youtube.com/@Tayo_ty\n[풀영상] https://www.youtube.com/@Tayo_full\n[생방송] https://ch.sooplive.co.kr/b13246\n[팬카페] https://cafe.naver.com/b13246\n[광고/문의] creators@iambrand.co.kr\n──────────────────────\n#메이플 #타요 #타튜브",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QsPRWyTSHqc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QsPRWyTSHqc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QsPRWyTSHqc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QsPRWyTSHqc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QsPRWyTSHqc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "타튜브 TATUBE",
+        "tags": [
+          "타요",
+          "BJ타요",
+          "켠왕",
+          "종합게임",
+          "게임",
+          "BJ",
+          "아프리카",
+          "일상",
+          "공포게임",
+          "종겜",
+          "TFT",
+          "롤토체스",
+          "롤체",
+          "전략적팀전투",
+          "마인크래프트",
+          "마크",
+          "덕몽어스",
+          "구스구스덕",
+          "덕몽",
+          "구구덕",
+          "메이플",
+          "메이플스토리",
+          "키네시스"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "메소도 녹고 나도 녹았다",
+          "description": "구독, 댓글, 좋아요는 항상 큰 힘이 됩니다❤️\n오늘도 시청해주셔서 감사합니다:D\n\n- 2025. 12. 25. 방송입니다.\n──────────────────────\n[유튜브] https://www.youtube.com/@Tayo_ty\n[풀영상] https://www.youtube.com/@Tayo_full\n[생방송] https://ch.sooplive.co.kr/b13246\n[팬카페] https://cafe.naver.com/b13246\n[광고/문의] creators@iambrand.co.kr\n──────────────────────\n#메이플 #타요 #타튜브"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT16M30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "188069",
+        "likeCount": "1311",
+        "favoriteCount": "0",
+        "commentCount": "114"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-XA3etKsCUI783fdjNyb_kGM4i4",
+      "id": "UShV3NXq00U",
+      "snippet": {
+        "publishedAt": "2025-12-30T10:00:06Z",
+        "channelId": "UCmj0YkPwo47bPoBt9ma-bxg",
+        "title": "【初音ミク】　ファシネイター　【オリジナル】",
+        "description": "instrumental : https://x.gd/K2aqy\n↑予備：https://xgf.nu/jn9Re",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UShV3NXq00U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UShV3NXq00U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UShV3NXq00U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UShV3NXq00U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "MARETU",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "【初音ミク】　ファシネイター　【オリジナル】",
+          "description": "instrumental : https://x.gd/K2aqy\n↑予備：https://xgf.nu/jn9Re"
+        },
+        "defaultAudioLanguage": "zh-Hant"
+      },
+      "contentDetails": {
+        "duration": "PT3M19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "590188",
+        "likeCount": "78913",
+        "favoriteCount": "0",
+        "commentCount": "7959"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ajpQA1079EffXfS8c8GHAHP6Qtg",
+      "id": "JpUt0J7sZbg",
+      "snippet": {
+        "publishedAt": "2025-12-30T14:34:55Z",
+        "channelId": "UC1q4Ihlv_YhLELw-ijE0Diw",
+        "title": "좀비가 뭔가 이상한 걸 들고오는 맵 ㅋㅋㅋㅋㅋㅋ(마인크래프트)",
+        "description": "✅ 단편 영상입니다!\n\n좀 많이 진보된 좀비인가 보다...\n\n풀버전 다시보기\nhttps://www.youtube.com/live/akW1ijfO8I0?si=FZoXbMtFEVsnYLwz\n\n맵\nhttps://cafe.naver.com/marplecafe/41665\n\n메일\nedward2065@naver.com\n\n개인블로그\n--\n\n컨텐츠용 카페\nhttps://cafe.naver.com/marplecafe\n\n[hisaweb]\nhttps://www.youtube.com/user/hisaweb\nhttps://gumroad.com/a_hisa\n\n[H/MIX GALLERY]\nhttp://www.hmix.net/\n\nMusicⓒ Smiley",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JpUt0J7sZbg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JpUt0J7sZbg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JpUt0J7sZbg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JpUt0J7sZbg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JpUt0J7sZbg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "마플 마인크래프트 채널",
+        "tags": [
+          "마인크래프트 커맨드",
+          "커맨드",
+          "마플",
+          "마인애플",
+          "마인크래프트 마플",
+          "마인크래프트 마인애플",
+          "탈출맵",
+          "마인크래프트 탈출맵"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "좀비가 뭔가 이상한 걸 들고오는 맵 ㅋㅋㅋㅋㅋㅋ(마인크래프트)",
+          "description": "✅ 단편 영상입니다!\n\n좀 많이 진보된 좀비인가 보다...\n\n풀버전 다시보기\nhttps://www.youtube.com/live/akW1ijfO8I0?si=FZoXbMtFEVsnYLwz\n\n맵\nhttps://cafe.naver.com/marplecafe/41665\n\n메일\nedward2065@naver.com\n\n개인블로그\n--\n\n컨텐츠용 카페\nhttps://cafe.naver.com/marplecafe\n\n[hisaweb]\nhttps://www.youtube.com/user/hisaweb\nhttps://gumroad.com/a_hisa\n\n[H/MIX GALLERY]\nhttp://www.hmix.net/\n\nMusicⓒ Smiley"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT18M48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "139032",
+        "likeCount": "3276",
+        "favoriteCount": "0",
+        "commentCount": "196"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Jh-wmIvcCRgWBmsNPBxvKvHQb_c",
+      "id": "MrfKWj7dupE",
+      "snippet": {
+        "publishedAt": "2025-12-31T09:00:38Z",
+        "channelId": "UCmTdAlgitpNLCFwxynjmjpw",
+        "title": "Even if",
+        "description": "Provided to YouTube by Kakao Entertainment\n\nEven if · Heize\n\nEven if\n\n℗ 2025 P NATION,under license to Kakao Entertainment\n\nReleased on: 2025-12-31\n\nLyricist: 헤이즈(Heize)\nComposer: 헤이즈(Heize)\nComposer: davii\nArranger: davii\nArranger: 구름\n\nAuto-generated by YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MrfKWj7dupE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MrfKWj7dupE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MrfKWj7dupE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MrfKWj7dupE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MrfKWj7dupE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Heize - Topic",
+        "tags": [
+          "Heize",
+          "헤이즈(Heize)",
+          "Even if"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Even if",
+          "description": "Provided to YouTube by Kakao Entertainment\n\nEven if · Heize\n\nEven if\n\n℗ 2025 P NATION,under license to Kakao Entertainment\n\nReleased on: 2025-12-31\n\nLyricist: 헤이즈(Heize)\nComposer: 헤이즈(Heize)\nComposer: davii\nArranger: davii\nArranger: 구름\n\nAuto-generated by YouTube."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "8045",
+        "likeCount": "471",
+        "favoriteCount": "0",
+        "commentCount": "23"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "tfYfMj5lnDI13xU2Dui83nhI5Ks",
+      "id": "cBBAvqY6ObA",
+      "snippet": {
+        "publishedAt": "2025-12-30T12:15:09Z",
+        "channelId": "UCD8r5Jgns2V64-NcUmXclpg",
+        "title": "시작한지 단 1분만에 타곤 신의 점지를 받은 사람",
+        "description": "※좋아요와 구독은 영상을 만드는데에 큰 도움이 됩니다! (_ _)\n인스타: https://www.instagram.com/junsstee/\n\n롤토체스 롤체 전략적팀전투 tft 모바일 롤토체스강의 롤토체스공략\n\n쉽고 빠르게 실전 플레이 영상으로 알아보는 롤토체스 신규 추가 시즌16 Set16 신화와 전설 Lore & Legends 마법공학 증강체 조우자\n\n16.1 패치 이후 최신 메타 역대급 레전드 최강 최강자 종결자 끝판왕 천상계 최상위 랭커 1티어 꿀덱 1티어덱 사기 조합 빌드업 운영법 완벽 분석 기초 기본 정리 공략 강의 초보자 뉴비 가이드\n\n5타곤 1별의창조자 1시간의수호자 2기원자 3프렐요드 타곤 별의창조자 시간의수호자 기원자 프렐요드 아우솔 질리언 다이애나 브라움 타릭 리산드라 타곤덱 아우솔덱\n\n워모그타릭 정령의형상타릭 스테락타릭 정령의형상레오나 도장다이애나 구인수리산드라 레드리산드라 2쇼진조이 쇼진조이 거학조이 2쇼진아우솔 쇼진아우솔 구인수아우솔\n\n3성 3성조이 / 워모그 스테락 정령의형상 타릭 / 정령의형상 레오나 / 도장 다이애나 / 구인수 레드 리산드라 / 2쇼진 쇼진 거학 조이 / 2쇼진 쇼진 구인수 아우솔\n\n랭킹전 점수 쉽게 올리고싶은 롤토체스 초보 시청 필수\n\nRush 8 러쉬8 러쉬 8 Rush8 러쉬에잇 패스트8렙 패스트 레벨업 Rush 9 러쉬9 러쉬 9 Rush9 러쉬나인 패스트9렙 슬로우리롤 리롤덱\n\n#롤토체스 #롤체 #TFT #1티어 #메타덱 #가이드 #공략 #강의 #조합 #추천 #사기 #시너지 #1등 #우승",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cBBAvqY6ObA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cBBAvqY6ObA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cBBAvqY6ObA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cBBAvqY6ObA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cBBAvqY6ObA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "전쓰트의 게임 채널 Junsst",
+        "tags": [
+          "리그 오브 레전드",
+          "lol",
+          "league of legends",
+          "롤토체스",
+          "TFT",
+          "전략적팀전투",
+          "TeamfightTactics",
+          "1등",
+          "우승",
+          "추천",
+          "전쓰트"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "시작한지 단 1분만에 타곤 신의 점지를 받은 사람",
+          "description": "※좋아요와 구독은 영상을 만드는데에 큰 도움이 됩니다! (_ _)\n인스타: https://www.instagram.com/junsstee/\n\n롤토체스 롤체 전략적팀전투 tft 모바일 롤토체스강의 롤토체스공략\n\n쉽고 빠르게 실전 플레이 영상으로 알아보는 롤토체스 신규 추가 시즌16 Set16 신화와 전설 Lore & Legends 마법공학 증강체 조우자\n\n16.1 패치 이후 최신 메타 역대급 레전드 최강 최강자 종결자 끝판왕 천상계 최상위 랭커 1티어 꿀덱 1티어덱 사기 조합 빌드업 운영법 완벽 분석 기초 기본 정리 공략 강의 초보자 뉴비 가이드\n\n5타곤 1별의창조자 1시간의수호자 2기원자 3프렐요드 타곤 별의창조자 시간의수호자 기원자 프렐요드 아우솔 질리언 다이애나 브라움 타릭 리산드라 타곤덱 아우솔덱\n\n워모그타릭 정령의형상타릭 스테락타릭 정령의형상레오나 도장다이애나 구인수리산드라 레드리산드라 2쇼진조이 쇼진조이 거학조이 2쇼진아우솔 쇼진아우솔 구인수아우솔\n\n3성 3성조이 / 워모그 스테락 정령의형상 타릭 / 정령의형상 레오나 / 도장 다이애나 / 구인수 레드 리산드라 / 2쇼진 쇼진 거학 조이 / 2쇼진 쇼진 구인수 아우솔\n\n랭킹전 점수 쉽게 올리고싶은 롤토체스 초보 시청 필수\n\nRush 8 러쉬8 러쉬 8 Rush8 러쉬에잇 패스트8렙 패스트 레벨업 Rush 9 러쉬9 러쉬 9 Rush9 러쉬나인 패스트9렙 슬로우리롤 리롤덱\n\n#롤토체스 #롤체 #TFT #1티어 #메타덱 #가이드 #공략 #강의 #조합 #추천 #사기 #시너지 #1등 #우승"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT15M18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "135899",
+        "likeCount": "673",
+        "favoriteCount": "0",
+        "commentCount": "74"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6plYhJe02YkEMEIFJ2Erx7YDUE4",
+      "id": "v6y7Z0F1h5g",
+      "snippet": {
+        "publishedAt": "2025-12-28T10:01:21Z",
+        "channelId": "UC84Rm0a3gimYXPtqp5O_JRw",
+        "title": "Make Me Wonder",
+        "description": "Provided to YouTube by IRORI Records\n\nMake Me Wonder · OFFICIAL HIGE DANDISM\n\nMake Me Wonder\n\n℗ IRORI Records/PONY CANYON INC.\n\nReleased on: 2025-12-29\n\nLyricist: Satoshi Fujihara\nComposer: Satoshi Fujihara\nArranger: OFFICIAL HIGE DANDISM\n\nAuto-generated by YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v6y7Z0F1h5g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v6y7Z0F1h5g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v6y7Z0F1h5g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v6y7Z0F1h5g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v6y7Z0F1h5g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OFFICIAL HIGE DANDISM - Topic",
+        "tags": [
+          "OFFICIAL HIGE DANDISM",
+          "Official髭男dism",
+          "オフィシャルヒゲダンディズム",
+          "Make Me Wonder",
+          "メイクミーワンダー"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Make Me Wonder",
+          "description": "Provided to YouTube by IRORI Records\n\nMake Me Wonder · OFFICIAL HIGE DANDISM\n\nMake Me Wonder\n\n℗ IRORI Records/PONY CANYON INC.\n\nReleased on: 2025-12-29\n\nLyricist: Satoshi Fujihara\nComposer: Satoshi Fujihara\nArranger: OFFICIAL HIGE DANDISM\n\nAuto-generated by YouTube."
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT3M53S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "457729",
+        "likeCount": "15005",
+        "favoriteCount": "0",
+        "commentCount": "1184"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KhgYfDq8NrWnx7C9vGIlwK9c8l4",
+      "id": "uKZYd5POeSU",
+      "snippet": {
+        "publishedAt": "2025-12-31T02:31:03Z",
+        "channelId": "UCOTJtP0Z9DjpPU43B5m1V6A",
+        "title": "자기가 빡겜 하면 알파고는 그냥 장난감이라는 상대ㄷㄷ 그의 실력은 과연..?",
+        "description": "스타크래프트 테란 STX전프로 ★알파고★김성현의 공식채널입니다:D\n📌알튜브 공식 굿즈 샵 : https://altube.shop\n📌알튜브 멤버십 가입 : https://www.youtube.com/channel/UCOTJtP0Z9DjpPU43B5m1V6A/join\n멤버십에 가입하시면 🔥알파고의 스타 강의🔥 회원 전용 동영상🔥을 즐기실 수 있습니다\n------------------------------------\n#알튜브 #알파고 #김성현 #스타 #스타크래프트 #starcraft \n\n* 해당 게임은 25.11.26 생방송에서 진행됐습니다.\n\n* 타임 스탬프\n00:00 오프닝 & 매치 1\n12:04 매치 2\n\n--------------------\n- 오프닝 \nMusic provided by 브금대통령\nTrack : 피리부는 사나이 - https://youtu.be/s84VuYDdPYs\n\n- 매치 1 종료 후\nMusic provided by 브금대통령\nTrack : 뭐라는거야 - https://youtu.be/DAfWMCuPwRs\n\n- 매치 2 종료 후\nMusic provided by 브금대통령\nTrack : Not My Fault - https://youtu.be/kAcZiPFx6us\n\n- 엔딩\nMusic provided by 브금대통령\nTrack : 누구나의 첫 겨울 - https://youtu.be/158NMxASE-0",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uKZYd5POeSU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uKZYd5POeSU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uKZYd5POeSU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uKZYd5POeSU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uKZYd5POeSU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "[ALTUBE] 김성현TV",
+        "tags": [
+          "스타",
+          "스타크래프트",
+          "starcraft",
+          "알파고",
+          "김성현",
+          "zerg",
+          "terran",
+          "protoss",
+          "저그",
+          "테란",
+          "프로토스",
+          "스타크래프트리마스터"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "자기가 빡겜 하면 알파고는 그냥 장난감이라는 상대ㄷㄷ 그의 실력은 과연..?",
+          "description": "스타크래프트 테란 STX전프로 ★알파고★김성현의 공식채널입니다:D\n📌알튜브 공식 굿즈 샵 : https://altube.shop\n📌알튜브 멤버십 가입 : https://www.youtube.com/channel/UCOTJtP0Z9DjpPU43B5m1V6A/join\n멤버십에 가입하시면 🔥알파고의 스타 강의🔥 회원 전용 동영상🔥을 즐기실 수 있습니다\n------------------------------------\n#알튜브 #알파고 #김성현 #스타 #스타크래프트 #starcraft \n\n* 해당 게임은 25.11.26 생방송에서 진행됐습니다.\n\n* 타임 스탬프\n00:00 오프닝 & 매치 1\n12:04 매치 2\n\n--------------------\n- 오프닝 \nMusic provided by 브금대통령\nTrack : 피리부는 사나이 - https://youtu.be/s84VuYDdPYs\n\n- 매치 1 종료 후\nMusic provided by 브금대통령\nTrack : 뭐라는거야 - https://youtu.be/DAfWMCuPwRs\n\n- 매치 2 종료 후\nMusic provided by 브금대통령\nTrack : Not My Fault - https://youtu.be/kAcZiPFx6us\n\n- 엔딩\nMusic provided by 브금대통령\nTrack : 누구나의 첫 겨울 - https://youtu.be/158NMxASE-0"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT28M38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "71716",
+        "likeCount": "947",
+        "favoriteCount": "0",
+        "commentCount": "81"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "mj7s4wgKYoksZJSzPITQ-dwwGnI",
+      "id": "5A9T1vIOKRo",
+      "snippet": {
+        "publishedAt": "2025-12-28T09:00:12Z",
+        "channelId": "UCO4p2LbFEEF1HKm4HnUVjfg",
+        "title": "EVE",
+        "description": "Provided to YouTube by Kakao Entertainment\n\nEVE · YANGHONGWON\n\nSONAGY\n\n℗ 2025 Indigo Music,under license to Kakao Entertainment\n\nReleased on: 2025-12-28\n\nLyricist: 양홍원\nComposer: Eighty 8\nComposer: Lowrenz\nComposer: 양홍원\nArranger: Eighty 8\nArranger: Lowrenz\n\nAuto-generated by YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5A9T1vIOKRo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5A9T1vIOKRo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5A9T1vIOKRo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5A9T1vIOKRo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5A9T1vIOKRo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YANGHONGWON - Topic",
+        "tags": [
+          "YANGHONGWON",
+          "양홍원",
+          "SONAGY",
+          "소나기",
+          "EVE",
+          "이브"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "EVE",
+          "description": "Provided to YouTube by Kakao Entertainment\n\nEVE · YANGHONGWON\n\nSONAGY\n\n℗ 2025 Indigo Music,under license to Kakao Entertainment\n\nReleased on: 2025-12-28\n\nLyricist: 양홍원\nComposer: Eighty 8\nComposer: Lowrenz\nComposer: 양홍원\nArranger: Eighty 8\nArranger: Lowrenz\n\nAuto-generated by YouTube."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "77510",
+        "likeCount": "1492",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "DXFOzFTbpnRpZJI_au9tFQoT2ZA",
+      "id": "xzTkBOYd8f0",
+      "snippet": {
+        "publishedAt": "2025-12-30T15:28:46Z",
+        "channelId": "UCfAUXGg10tCLPxun9VSc72A",
+        "title": "훌라는 폭군 라이브 스트리밍 중",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xzTkBOYd8f0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xzTkBOYd8f0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xzTkBOYd8f0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xzTkBOYd8f0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xzTkBOYd8f0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "훌라는 폭군",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "훌라는 폭군 라이브 스트리밍 중",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4H11M36S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "209763",
+        "likeCount": "415",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0K0hrztqcuNYfi_dOqahxQwOAMM",
+      "id": "MtcSBNdIWXs",
+      "snippet": {
+        "publishedAt": "2025-12-28T22:30:06Z",
+        "channelId": "UCfQ1J6CLkXVvpAgCoWtGvMQ",
+        "title": "[𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭] 연말에 꺼내 듣기 좋은 겨울 분위기 플리 ✨ 국내 노래 🎶",
+        "description": "[𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭] 연말에 꺼내 듣기 좋은 겨울 분위기 플리 ✨ 국내 노래 🎶\n#플레이리스트 #플리 #playlist #팝 #pop\n______________________________\n🎧트랙 목록:\n함께 걸어가자 (Let’s Walk Together)\n사랑의 미소 (Smile of Love)\n기억 속의 우리 (Us in Memory)\n내 마음의 봄 (Spring in My Heart)\n완벽한 그대 (Perfectly You)\n별들 아래 약속해 (Promise Under the Stars)\n사랑을 그린 그림 (A Picture of Love)\n기다림의 끝에서 (At the End of Waiting)\n잊지 마 (Don’t Forget Me)\n사랑의 꿈 (Dream of Love)\n내게 온 사랑 (Love That Came to Me)\n네가 있는 일상 (Days With You)\n너와 함께한 시간 (The Time with You)\n우리의 반짝임 (Our Sparkle)\n너와의 시차 (Time Difference Between Us)\n너와 함께하는 세상 (A World With You)\n밤하늘의 너 (You in the Night Sky)\n사랑은 처음처럼 (Love, Just Like the First Time)\n사랑이 오는 순간 (When Love Comes)\n이젠 끝 (It’s Over Now)\n\n-\n\n-\n\n-\n\n✅ 스포티파이 ⤵️\nHorizonVox: https://open.spotify.com/artist/0xdx6z9Nbevbng0JS5EEOe?si=IojVX0-RToGwQVZ4feecuQ\nJungwoo: https://open.spotify.com/artist/4Mfjg8WM879MojEEM3Q5SS?si=OwPifD_CTtakJIZtMjnzoQ\nRise Group: https://open.spotify.com/artist/6Qh2LK0r4Rc1MiiVCXDmhH?si=qw8dpiXvQYS2UfijTI6v7A\n\n-\n\n-\n\n-\n\n#lovesongs #사랑노래 #lightmusic #gentlemusic #잔잔한노래모음 #잔잔한브금 #잔잔한팝송 #잔잔 #잔잔한비트 #잔잔한수면음악 #chillmusic #popsongs #RNB #ChillMusic #RnBPlaylist #StudyMusic #공부할때듣기좋은노래 #스터디플리 #공부모드 #RelaxingMusic #BackgroundMusic #배경음악 #HappySongs #FocusMusic #공부음악 #집중플레이리스트 #분위기좋은음악\n#차분한음악 #감성 #감성팝송 #감성플레이리스트 #힙합 #알앤비비트 #rnb #hiphop #힙합 #알앤비\n#겨울플레이리스트 #겨울국내노래 #겨울노래모음 #겨울팝 #겨울팝송 #겨울감성 #겨울감성팝 #국내노래 #국내팝 #국내가요 #한국노래 #한국팝 #한국어팝 #koreanpop #팝플레이리스트 #팝플리 #국내팝플리 #국내팝추천 #감성팝 #감성플레이리스트 #감성플리 #감성노래 #잔잔한노래 #힐링음악 #치유음악 #편안한음악 #카페음악 #카페플레이리스트 #겨울카페음악 #겨울카페플리 #작업용음악 #업무용플리 #일할때듣기좋은노래 #공부할때듣기좋은노래 #집중용BGM #배경음악 #브금 #BGM #계절플레이리스트 #계절플리 #겨울브금 #겨울배경음악 #노래추천 #플레이리스트추천 #플리추천 #국내노래추천 #겨울팝추천 #겨울노래추천 #winterplaylist #winterkoreanpop #winterpop #winterbgm",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MtcSBNdIWXs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MtcSBNdIWXs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MtcSBNdIWXs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MtcSBNdIWXs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MtcSBNdIWXs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "잔잔",
+        "tags": [
+          "playlist",
+          "플레이리스트",
+          "플리",
+          "겨울플레이리스트",
+          "겨울노래모음",
+          "겨울팝",
+          "겨울감성",
+          "겨울감성팝",
+          "계절플레이리스트",
+          "국내노래",
+          "국내팝",
+          "국내가요",
+          "한국노래",
+          "한국팝",
+          "한국어팝",
+          "팝플레이리스트",
+          "팝송모음",
+          "감성팝",
+          "감성플리",
+          "감성노래",
+          "겨울카페음악",
+          "카페음악",
+          "카페플리",
+          "작업용음악",
+          "일할때듣기좋은노래",
+          "공부할때듣기좋은노래",
+          "집중용BGM",
+          "배경음악",
+          "힐링음악",
+          "치유음악",
+          "편안한음악",
+          "플레이리스트추천",
+          "노래추천",
+          "국내팝추천",
+          "국내노래추천",
+          "겨울팝플리",
+          "겨울국내노래",
+          "winter playlist",
+          "korean pop",
+          "감정음악",
+          "잔잔 플리",
+          "감성힙합",
+          "느좋",
+          "광고없는 노래모음",
+          "감성힙합 ru0026b",
+          "Playlist l 도입부부터 미친 겨울 감성 힙합 플리❄️☃️ : 나만 알고 싶은 연말 분위기",
+          "연말에 꺼내 듣는 케이팝 플레이리스트",
+          "혼자 듣기 아쉬웠던 보석 같은 트랙들😎💎 | 2025 수록곡 결산 | 처음처럼",
+          "네모의 꿈",
+          "아프다 | 이창섭",
+          "아이유",
+          "우기 (YUQI)",
+          "연말에 꺼내 듣기 좋은 겨울 분위기 플리 ✨ 국내 노래 🎶"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭] 연말에 꺼내 듣기 좋은 겨울 분위기 플리 ✨ 국내 노래 🎶",
+          "description": "[𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭] 연말에 꺼내 듣기 좋은 겨울 분위기 플리 ✨ 국내 노래 🎶\n#플레이리스트 #플리 #playlist #팝 #pop\n______________________________\n🎧트랙 목록:\n함께 걸어가자 (Let’s Walk Together)\n사랑의 미소 (Smile of Love)\n기억 속의 우리 (Us in Memory)\n내 마음의 봄 (Spring in My Heart)\n완벽한 그대 (Perfectly You)\n별들 아래 약속해 (Promise Under the Stars)\n사랑을 그린 그림 (A Picture of Love)\n기다림의 끝에서 (At the End of Waiting)\n잊지 마 (Don’t Forget Me)\n사랑의 꿈 (Dream of Love)\n내게 온 사랑 (Love That Came to Me)\n네가 있는 일상 (Days With You)\n너와 함께한 시간 (The Time with You)\n우리의 반짝임 (Our Sparkle)\n너와의 시차 (Time Difference Between Us)\n너와 함께하는 세상 (A World With You)\n밤하늘의 너 (You in the Night Sky)\n사랑은 처음처럼 (Love, Just Like the First Time)\n사랑이 오는 순간 (When Love Comes)\n이젠 끝 (It’s Over Now)\n\n-\n\n-\n\n-\n\n✅ 스포티파이 ⤵️\nHorizonVox: https://open.spotify.com/artist/0xdx6z9Nbevbng0JS5EEOe?si=IojVX0-RToGwQVZ4feecuQ\nJungwoo: https://open.spotify.com/artist/4Mfjg8WM879MojEEM3Q5SS?si=OwPifD_CTtakJIZtMjnzoQ\nRise Group: https://open.spotify.com/artist/6Qh2LK0r4Rc1MiiVCXDmhH?si=qw8dpiXvQYS2UfijTI6v7A\n\n-\n\n-\n\n-\n\n#lovesongs #사랑노래 #lightmusic #gentlemusic #잔잔한노래모음 #잔잔한브금 #잔잔한팝송 #잔잔 #잔잔한비트 #잔잔한수면음악 #chillmusic #popsongs #RNB #ChillMusic #RnBPlaylist #StudyMusic #공부할때듣기좋은노래 #스터디플리 #공부모드 #RelaxingMusic #BackgroundMusic #배경음악 #HappySongs #FocusMusic #공부음악 #집중플레이리스트 #분위기좋은음악\n#차분한음악 #감성 #감성팝송 #감성플레이리스트 #힙합 #알앤비비트 #rnb #hiphop #힙합 #알앤비\n#겨울플레이리스트 #겨울국내노래 #겨울노래모음 #겨울팝 #겨울팝송 #겨울감성 #겨울감성팝 #국내노래 #국내팝 #국내가요 #한국노래 #한국팝 #한국어팝 #koreanpop #팝플레이리스트 #팝플리 #국내팝플리 #국내팝추천 #감성팝 #감성플레이리스트 #감성플리 #감성노래 #잔잔한노래 #힐링음악 #치유음악 #편안한음악 #카페음악 #카페플레이리스트 #겨울카페음악 #겨울카페플리 #작업용음악 #업무용플리 #일할때듣기좋은노래 #공부할때듣기좋은노래 #집중용BGM #배경음악 #브금 #BGM #계절플레이리스트 #계절플리 #겨울브금 #겨울배경음악 #노래추천 #플레이리스트추천 #플리추천 #국내노래추천 #겨울팝추천 #겨울노래추천 #winterplaylist #winterkoreanpop #winterpop #winterbgm"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3H29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": [
+            "RU",
+            "VN"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "35290",
+        "likeCount": "1904",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_H9SqSOWvQCLt13N9pPPXqC-BVw",
+      "id": "MqGVK0uCW9M",
+      "snippet": {
+        "publishedAt": "2025-12-29T13:00:51Z",
+        "channelId": "UCDBAVzfX3yZ1hah0FHnOoaA",
+        "title": "신화급 듀오",
+        "description": "▷치지직 생방송 - https://naver.me/IFIAjKrC\n▶MONSRAT굿즈 - https://www.charonstore.com/\n▷괴물쥐 공식 카페 - https://cafe.naver.com/tmxk9999",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MqGVK0uCW9M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MqGVK0uCW9M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MqGVK0uCW9M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MqGVK0uCW9M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MqGVK0uCW9M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "괴물쥐 유튜브",
+        "tags": [
+          "#리그오브레전드",
+          "#롤",
+          "#괴물쥐",
+          "#원딜",
+          "#장지환",
+          "전략적팀전투",
+          "tft"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "신화급 듀오",
+          "description": "▷치지직 생방송 - https://naver.me/IFIAjKrC\n▶MONSRAT굿즈 - https://www.charonstore.com/\n▷괴물쥐 공식 카페 - https://cafe.naver.com/tmxk9999"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT27M48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "363258",
+        "likeCount": "2287",
+        "favoriteCount": "0",
+        "commentCount": "559"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "tZMFiRfK3ga5w2VU_sL0zlY66WI",
+      "id": "Y0UNAOGxvnQ",
+      "snippet": {
+        "publishedAt": "2025-12-24T09:01:45Z",
+        "channelId": "UCJPZ_YIv97_6jpyHqgxtUuw",
+        "title": "I Want You (Prod. Kim Do Hun)",
+        "description": "Provided to YouTube by Kakao Entertainment\n\nI Want You (Prod. Kim Do Hun) · Gwyn Dorado · Kim Do Hun · Kim Do Hun(RBW) · Kim Do Hun(RBW) · Kim Do Hun(RBW)\n\nSingAgain4 - Battle of the Unknown, Top 7 (From the JTBC TV Show)\n\n℗ 2025 Music Farm, SLL,under license to Kakao Entertainment\n\nReleased on: 2025-12-24\n\nLyricist: 김도훈(RBW)\nComposer: 김도훈(RBW)\nArranger: 김도훈(RBW)\n\nAuto-generated by YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y0UNAOGxvnQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y0UNAOGxvnQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y0UNAOGxvnQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y0UNAOGxvnQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y0UNAOGxvnQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Release - Topic",
+        "tags": [
+          "Gwyn Dorado",
+          "Kim Do Hun",
+          "김도훈",
+          "Kim Do Hun(RBW)",
+          "SingAgain4 - Battle of the Unknown, Top 7 (From the JTBC TV Show)",
+          "싱어게인4 - 무명가수전 Top 7",
+          "I Want You (Prod. Kim Do Hun)",
+          "I Want You (Prod. 김도훈)"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "I Want You (Prod. Kim Do Hun)",
+          "description": "Provided to YouTube by Kakao Entertainment\n\nI Want You (Prod. Kim Do Hun) · Gwyn Dorado · Kim Do Hun · Kim Do Hun(RBW) · Kim Do Hun(RBW) · Kim Do Hun(RBW)\n\nSingAgain4 - Battle of the Unknown, Top 7 (From the JTBC TV Show)\n\n℗ 2025 Music Farm, SLL,under license to Kakao Entertainment\n\nReleased on: 2025-12-24\n\nLyricist: 김도훈(RBW)\nComposer: 김도훈(RBW)\nArranger: 김도훈(RBW)\n\nAuto-generated by YouTube."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT4M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "62531",
+        "likeCount": "2450",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "TLixiZLlv1shlCT_N6mSkH9mHhs",
+      "id": "TSi2awuXtQM",
+      "snippet": {
+        "publishedAt": "2025-12-31T09:45:07Z",
+        "channelId": "UCJmsB6NAU0sp2htDL4KmX0A",
+        "title": "\"승률 100%\" 평균 11데스로 승리하는 \"탑 살자 코그모 전략\" 🐝🐶",
+        "description": "구독 좋아요 부탁드립니다!\n아웃트로 노래: Monroe\n인트로 노래:\nTrack: springs! - Magnetic [NCS Release]\nMusic provided by NoCopyrightSounds.\nWatch more NCS on YouTube: https://NCS.lnk.to/YouTubeAT\nFree Download / Stream: http://ncs.io/Magnetic\n------------------------------------------------------------------------------------------------------------\n생방송 주소 : https://chzzk.naver.com/af0916cdba10c471897e8ea7bfab61e7",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TSi2awuXtQM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TSi2awuXtQM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TSi2awuXtQM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TSi2awuXtQM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TSi2awuXtQM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "전략적죽음",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "\"승률 100%\" 평균 11데스로 승리하는 \"탑 살자 코그모 전략\" 🐝🐶",
+          "description": "구독 좋아요 부탁드립니다!\n아웃트로 노래: Monroe\n인트로 노래:\nTrack: springs! - Magnetic [NCS Release]\nMusic provided by NoCopyrightSounds.\nWatch more NCS on YouTube: https://NCS.lnk.to/YouTubeAT\nFree Download / Stream: http://ncs.io/Magnetic\n------------------------------------------------------------------------------------------------------------\n생방송 주소 : https://chzzk.naver.com/af0916cdba10c471897e8ea7bfab61e7"
+        },
+        "defaultAudioLanguage": "zxx"
+      },
+      "contentDetails": {
+        "duration": "PT22M49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "44735",
+        "likeCount": "655",
+        "favoriteCount": "0",
+        "commentCount": "187"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "cVM3ebBLBdLdx5cYq0m-hb4eERs",
+      "id": "NB94LKrLEt4",
+      "snippet": {
+        "publishedAt": "2025-12-28T15:00:39Z",
+        "channelId": "UC5DHwv9N4OQ9AWtKr8YSefw",
+        "title": "Odoru Ponpokorin",
+        "description": "Provided to YouTube by Universal Music Group\n\nOdoru Ponpokorin · Ado\n\nOdoru Ponpokorin\n\n℗ 2025 UNIVERSAL MUSIC LLC\n\nReleased on: 2025-12-29\n\nVocalist: Ado\nRecordingarranger: Hyadain\nLyricist: Momoko Sakura\nComposer: Tetsuro Oda\n\nAuto-generated by YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NB94LKrLEt4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NB94LKrLEt4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NB94LKrLEt4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NB94LKrLEt4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NB94LKrLEt4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ado - Topic",
+        "tags": [
+          "Ado",
+          "アド",
+          "Odoru Ponpokorin",
+          "オドルポンポコリン",
+          "おどるポンポコリン"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Odoru Ponpokorin",
+          "description": "Provided to YouTube by Universal Music Group\n\nOdoru Ponpokorin · Ado\n\nOdoru Ponpokorin\n\n℗ 2025 UNIVERSAL MUSIC LLC\n\nReleased on: 2025-12-29\n\nVocalist: Ado\nRecordingarranger: Hyadain\nLyricist: Momoko Sakura\nComposer: Tetsuro Oda\n\nAuto-generated by YouTube."
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT3M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": [
+            "AE",
+            "AR",
+            "AS",
+            "AT",
+            "AU",
+            "AW",
+            "AZ",
+            "BA",
+            "BD",
+            "BE",
+            "BG",
+            "BH",
+            "BM",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GE",
+            "GF",
+            "GH",
+            "GP",
+            "GR",
+            "GT",
+            "GU",
+            "HK",
+            "HN",
+            "HR",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IN",
+            "IQ",
+            "IS",
+            "IT",
+            "JM",
+            "JO",
+            "JP",
+            "KE",
+            "KH",
+            "KR",
+            "KW",
+            "KY",
+            "KZ",
+            "LA",
+            "LB",
+            "LI",
+            "LK",
+            "LT",
+            "LU",
+            "LV",
+            "LY",
+            "MA",
+            "MK",
+            "MP",
+            "MQ",
+            "MT",
+            "MX",
+            "MY",
+            "NC",
+            "NG",
+            "NI",
+            "NL",
+            "NO",
+            "NP",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PF",
+            "PG",
+            "PH",
+            "PK",
+            "PL",
+            "PR",
+            "PT",
+            "PY",
+            "QA",
+            "RE",
+            "RO",
+            "RS",
+            "SA",
+            "SE",
+            "SG",
+            "SI",
+            "SK",
+            "SN",
+            "SV",
+            "TC",
+            "TH",
+            "TN",
+            "TR",
+            "TW",
+            "TZ",
+            "UA",
+            "UG",
+            "US",
+            "UY",
+            "VE",
+            "VI",
+            "VN",
+            "YE",
+            "YT",
+            "ZA",
+            "ZW"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1003535",
+        "likeCount": "69190",
+        "favoriteCount": "0",
+        "commentCount": "2341"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "R6FG-yR8UqgH9FJOD_WFMRMMFhw",
+      "id": "Uz2LmVh-cvg",
+      "snippet": {
+        "publishedAt": "2025-12-31T07:00:30Z",
+        "channelId": "UCa4clnMsHg6uJPpxKbxCEmA",
+        "title": "라이벌에서 1데미지마다 돈을 드립니다!",
+        "description": "#로블록스 #라이벌\n\n마주 디스코드:\nhttps://discord.gg/GY8TtVMR4r\n\n이메일:\nmajumetagame@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Uz2LmVh-cvg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Uz2LmVh-cvg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Uz2LmVh-cvg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Uz2LmVh-cvg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Uz2LmVh-cvg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "마주 - 로블록스",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "라이벌에서 1데미지마다 돈을 드립니다!",
+          "description": "#로블록스 #라이벌\n\n마주 디스코드:\nhttps://discord.gg/GY8TtVMR4r\n\n이메일:\nmajumetagame@gmail.com"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT17M35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "40566",
+        "likeCount": "829",
+        "favoriteCount": "0",
+        "commentCount": "71"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8lPv9hMbR0dczYgv9TFnOeW_bsg",
+      "id": "hd8oTfHG2fg",
+      "snippet": {
+        "publishedAt": "2025-12-26T15:01:24Z",
+        "channelId": "UC_pwIXKXNm5KGhdEVzmY60A",
+        "title": "[응답하라 1988 10주년 OST Part 2] 쌍문동 아이들 - 혜화동 (혹은 쌍문동) (Hyehwadong (or Ssangmundong)) MV",
+        "description": "[응답하라 1988 10주년 OST Part 2] 쌍문동 아이들 (Ssangmundong Children) - 혜화동 (혹은 쌍문동) (Hyehwadong (or Ssangmundong)) MV\n\n응답하라 1988 10주년 OST Part 2는 「응답하라 1988 」의 시그니처 곡들을 재해석한 더블 타이틀곡으로 구성되는 가운데 들개들(이일화, 라미란, 김선영)이 '걱정 말아요 그대'를, 쌍문동 아이들(류혜영, 혜리, 고경표, 류준열, 박보검, 안재홍, 이동휘, 최성원)이 '혜화동'을 가창했다.\n\n첫 번째 타이틀곡 '걱정 말아요 그대'는 전인권의 원곡이 지닌 따뜻한 정서를 유지하면서도 어쿠스틱 나일론 기타 편곡을 더해 한층 포근한 사운드를 완성했다. 곡 전반에 흐르는 세련된 신시사이저와 멜로트론의 질감이 감성을 견고하게 잡아주며 몰입감을 끌어올렸다. 곡 후반부에는 10주년 OST에서만 만날 수 있는 떼창 파트로 새로운 감동을 선사한다. \n\n두 번째 타이틀곡 '혜화동'은 동물원의 원곡을 쌍문동 아이들이 재해석하여 그 의미를 더했다. 각 캐릭터의 매력이 드러나는 파트 구성 속에 자연스럽게 이어지는 화음이 특징이다. 어린 시절을 연상케 하는 리코더 선율로 시작해 어쿠스틱 사운드 안에서 주고받는 멜로디가 이들의 여전한 케미를 보여주며 마지막에 쌍문동 아이들의 뜨거운 떼창으로 감동의 정점을 찍을 전망이다.\n\n[Credit]\n1. 들개들 – 걱정말아요 그대\n\nLyrics, Composed by 전인권\nArranged by Naiv, 송현종\n\nSynth, Bass, Drum Naiv\nGuitar 송현종\nChorus 비올라, 마주희, 김초롱\nMIDI Programming Naiv\n\nVocal Directed by 김기원\nRecorded by 최남진, 장수연, 서강원 @초이사운드랩\nMixed by 홍성준 @개나리싸운드\nMastered by 박준, 도정회 @사운드맥스\n\n\n2. 쌍문동 아이들 – 혜화동 (혹은 쌍문동)\nLyrics, Composed by 김창기\nArranged by 오동준\n\nPiano, Synth, Drum 오동준\nGuitar 박준하\nBass 이재하\nRecorder 마주희\n\nVocal Directed by 김기원\nRecorded by 이경호, 장수연, 서강원 @초이랩사운드\n오동준 @Submarin-o\n박준하 @Joon's Room\nMixed by 홍성준 @개나리싸운드\nMastered by 박준, 도정회 @사운드맥스\n\nOST Producer 마주희 MaOSTro @스튜디오 마음C\nProject Manager 강연희 @스튜디오 마음C\nMarketing 양지현, 김초롱 @스튜디오 마음C\n\n\n#응답하라198810주년 #쌍문동아이들 #SsangmundongChildren #혜화동 #Hyehwadong #쌍문동 #Ssangmundong",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hd8oTfHG2fg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hd8oTfHG2fg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hd8oTfHG2fg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hd8oTfHG2fg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hd8oTfHG2fg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Stone Music Entertainment",
+        "tags": [
+          "K-CULTURE",
+          "korean Music",
+          "MV",
+          "Music Video",
+          "K-Pop",
+          "Kpop",
+          "뮤비",
+          "뮤직비디오",
+          "Stone Music Entertainment",
+          "응답하라 1988 10주년 (Reply 1988 10th Anniversary)",
+          "쌍문동 아이들 (Ssangmundong Children)",
+          "쌍문동 아이들 - 혜화동 (혹은 쌍문동) Hyehwadong (or Ssangmundong)"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[응답하라 1988 10주년 OST Part 2] 쌍문동 아이들 - 혜화동 (혹은 쌍문동) (Hyehwadong (or Ssangmundong)) MV",
+          "description": "[응답하라 1988 10주년 OST Part 2] 쌍문동 아이들 (Ssangmundong Children) - 혜화동 (혹은 쌍문동) (Hyehwadong (or Ssangmundong)) MV\n\n응답하라 1988 10주년 OST Part 2는 「응답하라 1988 」의 시그니처 곡들을 재해석한 더블 타이틀곡으로 구성되는 가운데 들개들(이일화, 라미란, 김선영)이 '걱정 말아요 그대'를, 쌍문동 아이들(류혜영, 혜리, 고경표, 류준열, 박보검, 안재홍, 이동휘, 최성원)이 '혜화동'을 가창했다.\n\n첫 번째 타이틀곡 '걱정 말아요 그대'는 전인권의 원곡이 지닌 따뜻한 정서를 유지하면서도 어쿠스틱 나일론 기타 편곡을 더해 한층 포근한 사운드를 완성했다. 곡 전반에 흐르는 세련된 신시사이저와 멜로트론의 질감이 감성을 견고하게 잡아주며 몰입감을 끌어올렸다. 곡 후반부에는 10주년 OST에서만 만날 수 있는 떼창 파트로 새로운 감동을 선사한다. \n\n두 번째 타이틀곡 '혜화동'은 동물원의 원곡을 쌍문동 아이들이 재해석하여 그 의미를 더했다. 각 캐릭터의 매력이 드러나는 파트 구성 속에 자연스럽게 이어지는 화음이 특징이다. 어린 시절을 연상케 하는 리코더 선율로 시작해 어쿠스틱 사운드 안에서 주고받는 멜로디가 이들의 여전한 케미를 보여주며 마지막에 쌍문동 아이들의 뜨거운 떼창으로 감동의 정점을 찍을 전망이다.\n\n[Credit]\n1. 들개들 – 걱정말아요 그대\n\nLyrics, Composed by 전인권\nArranged by Naiv, 송현종\n\nSynth, Bass, Drum Naiv\nGuitar 송현종\nChorus 비올라, 마주희, 김초롱\nMIDI Programming Naiv\n\nVocal Directed by 김기원\nRecorded by 최남진, 장수연, 서강원 @초이사운드랩\nMixed by 홍성준 @개나리싸운드\nMastered by 박준, 도정회 @사운드맥스\n\n\n2. 쌍문동 아이들 – 혜화동 (혹은 쌍문동)\nLyrics, Composed by 김창기\nArranged by 오동준\n\nPiano, Synth, Drum 오동준\nGuitar 박준하\nBass 이재하\nRecorder 마주희\n\nVocal Directed by 김기원\nRecorded by 이경호, 장수연, 서강원 @초이랩사운드\n오동준 @Submarin-o\n박준하 @Joon's Room\nMixed by 홍성준 @개나리싸운드\nMastered by 박준, 도정회 @사운드맥스\n\nOST Producer 마주희 MaOSTro @스튜디오 마음C\nProject Manager 강연희 @스튜디오 마음C\nMarketing 양지현, 김초롱 @스튜디오 마음C\n\n\n#응답하라198810주년 #쌍문동아이들 #SsangmundongChildren #혜화동 #Hyehwadong #쌍문동 #Ssangmundong"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "730800",
+        "likeCount": "44630",
+        "favoriteCount": "0",
+        "commentCount": "2116"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5atlFqmG79ayChQZw8r1_90Jc08",
+      "id": "_jg3wNlGO0Y",
+      "snippet": {
+        "publishedAt": "2025-12-31T01:00:30Z",
+        "channelId": "UCL3gnarNIeI_M0cFxjNYdAA",
+        "title": "[로스트아크｜OST] Dear Friends - 효린(HYOLYN) / LOST ARK Official Soundtrack",
+        "description": "[로스트아크｜OST] Dear Friends - 효린(HYOLYN) / LOST ARK Official Soundtrack\n\n■ Music Credits\n *작사: 금강선\n *작곡: 백정은\n *보컬: 효린(HYOLYN)\n\n■ Lyrics\n말해줘 나의 삶은 거짓이 아니었다고\n요동치던 바다는 멈추었을까\n\n한 걸음 그 뒤엔\n너는 나를 쫓아\n\n네가 찾은 시작의\n나는 끝을 향해 서있어\n\n울 수 있을까\n울고 있을까\n\n남겨진 눈물이 네게 닿을까\n기억해줘 날\n추억해줘 날 더 더\n\n널 위해\n항상 기도할게\n\n들어줘 내 마음을\n눈물로 자라난 밤을\n\n슬퍼하지 않고\n미워하지 않게\n\n웃고 있을까\n꿈이었을까\n\n내 삶이 어떠한 의미였다면\n빛바래도 난\n잠들어도 난\n이렇게 너를 떠올릴 거야\n\nⓒ Smilegate. All Rights Reserved.\n\n▼ 로스트아크의 더 많은 정보 확인하기! \n - 공식 사이트: http://rb.gy/ti40z\n - 공식 유튜브: https://www.youtube.com/@LOSTARK_KR\n - 공식 페이스북: https://www.facebook.com/LOSTARK.official/\n\n▼ 로스트아크 음원과 멋진 배경화면을 만나보세요!\n - OST 모음: https://www.youtube.com/playlist?list=PLXJUV6UcSL2ypwIwW7aHw3AXyesv7kn0L\n - 배경화면 모음: https://www.youtube.com/playlist?list=PLXJUV6UcSL2yO_D3zysK31ZnpHVJbnOCu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_jg3wNlGO0Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_jg3wNlGO0Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_jg3wNlGO0Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_jg3wNlGO0Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_jg3wNlGO0Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "로스트아크 LOST ARK",
+        "tags": [
+          "로스트아크",
+          "LOST ARK",
+          "MMORPG",
+          "스마일게이트알피지",
+          "SmilegateRPG",
+          "LOSTARK"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[로스트아크｜OST] Dear Friends - 효린(HYOLYN) / LOST ARK Official Soundtrack",
+          "description": "[로스트아크｜OST] Dear Friends - 효린(HYOLYN) / LOST ARK Official Soundtrack\n\n■ Music Credits\n *작사: 금강선\n *작곡: 백정은\n *보컬: 효린(HYOLYN)\n\n■ Lyrics\n말해줘 나의 삶은 거짓이 아니었다고\n요동치던 바다는 멈추었을까\n\n한 걸음 그 뒤엔\n너는 나를 쫓아\n\n네가 찾은 시작의\n나는 끝을 향해 서있어\n\n울 수 있을까\n울고 있을까\n\n남겨진 눈물이 네게 닿을까\n기억해줘 날\n추억해줘 날 더 더\n\n널 위해\n항상 기도할게\n\n들어줘 내 마음을\n눈물로 자라난 밤을\n\n슬퍼하지 않고\n미워하지 않게\n\n웃고 있을까\n꿈이었을까\n\n내 삶이 어떠한 의미였다면\n빛바래도 난\n잠들어도 난\n이렇게 너를 떠올릴 거야\n\nⓒ Smilegate. All Rights Reserved.\n\n▼ 로스트아크의 더 많은 정보 확인하기! \n - 공식 사이트: http://rb.gy/ti40z\n - 공식 유튜브: https://www.youtube.com/@LOSTARK_KR\n - 공식 페이스북: https://www.facebook.com/LOSTARK.official/\n\n▼ 로스트아크 음원과 멋진 배경화면을 만나보세요!\n - OST 모음: https://www.youtube.com/playlist?list=PLXJUV6UcSL2ypwIwW7aHw3AXyesv7kn0L\n - 배경화면 모음: https://www.youtube.com/playlist?list=PLXJUV6UcSL2yO_D3zysK31ZnpHVJbnOCu"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "100980",
+        "likeCount": "4571",
+        "favoriteCount": "0",
+        "commentCount": "902"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ANvo0feFNifUuMRZSDLr7-gR_ZA",
+      "id": "GEpfcoUMses",
+      "snippet": {
+        "publishedAt": "2025-12-25T14:00:23Z",
+        "channelId": "UCnsFijU5x7IxZgIv5_P9JSg",
+        "title": "HUNTR/X (Huntrix) - Golden (Lyrics) from KPop Demon Hunters",
+        "description": "🎵 Follow the official 7clouds playlist on Spotify : http://spoti.fi/2SJsUcZ\n​🎧 HUNTR/X (Huntrix) - Golden (Lyrics) from KPop Demon Hunters\n⏬ Download / Stream: https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS\n🔔 Turn on notifications to stay updated with new uploads!\n\n❤️ Follow our Spotify playlists: http://bit.ly/7cloudsSpotify\n\n👉 HUNTR/X\nhttps://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn\n\n☁️ 7clouds:\nhttps://open.spotify.com/user/7cloudsmusic\nhttps://soundcloud.com/7cloudsmusic\nhttps://audiomack.com/7cloudsmusic\nhttps://facebook.com/7cloudsofficial\nhttps://discord.com/invite/d5Arh8Y\nhttps://twitter.com/7cloudsmusic\nhttps://instagram.com/7clouds\nhttps://tiktok.com/@7clouds\nhttps://7clouds.org\n\n.........\n🎤 Lyrics: HUNTR/X (Huntrix) - Golden (Lyrics) from KPop Demon Hunters\n\nI was a ghost\nI was alone (Hah)\nEo-du-wojin (Hah)\nAp-gil-sok-e (Ah)\nGiven the throne\nI didn't know\nHow to believe\nI was the queen that I'm meant to be\n\nI lived two lives\nTried to play both sides\nBut I couldn't find my own place\n\nCalled a problem child\n‘Cause I got too wild\nBut now that's how I'm getting paid\nKkeut-eop-si\n\nI'm done hiding now I'm shining like I'm born to be\nWe dreamin' hard\nWe came so far\nNow I believe\n\nWe're goin'\nUp, up, up\nIt's our moment\nYou know together we're glowing\nGonna be, gonna be golden\nOhhh, up, up, up\nWith our voices\nYeong-won-h kkae-jil-su-eop-neun\nGonna be, gonna be golden\nOh, I'm done hiding now I'm shining like I'm born to be\nOh, our time, no fear, no lies, that's who we're born to be\n\nWaited so long to break these walls down\nTo wake up and feel like me\nPut these patterns all in the past now\nAnd finally live like the girl they all see\nNo more hiding, I'll be shining\nLike I'm born to be\n‘Cause we are hunters, voices strong\nAnd I know I believe\n\nWe're goin'\nUp, up, up\nIt's our moment\nYou know together we're glowing\nGonna be, gonna be golden\nOhhh, up, up, up\nWith our voices\nYeong-won-h kkae-jil-su-eop-neun\nGonna be, gonna be golden\nOh, I'm done hiding now I'm shining like I'm born to be\nOh, our time, no fears, no lies, that's who we're born to be\n\nYou know we're \nGonna be, gonna be golden\nWe're gonna be, gonna be\nBorn to be, born to be glowin'\nBal-kke bit-na-neuin u-ri\nYou know that it's our time, no fears, no lies, that's who we're born to be\n\n\n\n.........\n📧 Contact / Demo Submissions: contact@7clouds.org\n.........\n💌 Demos / Music Submissions: https://7clouds.edmdistrict.com\n.........\n📝 Licensing / Sync Requests for 7clouds Releases: licensing@7clouds.org\n.........\n\n#golden #kpopdemonhunters #kpopdemonhuntersnetflix #lyrics #7clouds",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GEpfcoUMses/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GEpfcoUMses/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GEpfcoUMses/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GEpfcoUMses/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GEpfcoUMses/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "7clouds Dance",
+        "tags": [
+          "golden",
+          "golden lyrics",
+          "lyrics golden",
+          "huntrix",
+          "lyrics",
+          "huntrix golden",
+          "golden huntrix",
+          "huntrix golden lyrics",
+          "lyrics huntrix golden",
+          "huntrix lyrics",
+          "huntrix lyrics golden",
+          "golden lyrics huntrix",
+          "lyrics golden huntrix",
+          "golden huntrix lyrics",
+          "kpop demon hunters",
+          "kpop demon hunters lyrics",
+          "kpop demon hunters soundtrack",
+          "audrey nuna",
+          "rei ami",
+          "ejae",
+          "huntr/x",
+          "kpop",
+          "We're goin' up up up",
+          "It's our moment",
+          "Gonna be gonna bе golden",
+          "Yeong-wonhi kkaеjil su eobsneun",
+          "kpop demon hunters songs"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "HUNTR/X (Huntrix) - Golden (Lyrics) from KPop Demon Hunters",
+          "description": "🎵 Follow the official 7clouds playlist on Spotify : http://spoti.fi/2SJsUcZ\n​🎧 HUNTR/X (Huntrix) - Golden (Lyrics) from KPop Demon Hunters\n⏬ Download / Stream: https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS\n🔔 Turn on notifications to stay updated with new uploads!\n\n❤️ Follow our Spotify playlists: http://bit.ly/7cloudsSpotify\n\n👉 HUNTR/X\nhttps://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn\n\n☁️ 7clouds:\nhttps://open.spotify.com/user/7cloudsmusic\nhttps://soundcloud.com/7cloudsmusic\nhttps://audiomack.com/7cloudsmusic\nhttps://facebook.com/7cloudsofficial\nhttps://discord.com/invite/d5Arh8Y\nhttps://twitter.com/7cloudsmusic\nhttps://instagram.com/7clouds\nhttps://tiktok.com/@7clouds\nhttps://7clouds.org\n\n.........\n🎤 Lyrics: HUNTR/X (Huntrix) - Golden (Lyrics) from KPop Demon Hunters\n\nI was a ghost\nI was alone (Hah)\nEo-du-wojin (Hah)\nAp-gil-sok-e (Ah)\nGiven the throne\nI didn't know\nHow to believe\nI was the queen that I'm meant to be\n\nI lived two lives\nTried to play both sides\nBut I couldn't find my own place\n\nCalled a problem child\n‘Cause I got too wild\nBut now that's how I'm getting paid\nKkeut-eop-si\n\nI'm done hiding now I'm shining like I'm born to be\nWe dreamin' hard\nWe came so far\nNow I believe\n\nWe're goin'\nUp, up, up\nIt's our moment\nYou know together we're glowing\nGonna be, gonna be golden\nOhhh, up, up, up\nWith our voices\nYeong-won-h kkae-jil-su-eop-neun\nGonna be, gonna be golden\nOh, I'm done hiding now I'm shining like I'm born to be\nOh, our time, no fear, no lies, that's who we're born to be\n\nWaited so long to break these walls down\nTo wake up and feel like me\nPut these patterns all in the past now\nAnd finally live like the girl they all see\nNo more hiding, I'll be shining\nLike I'm born to be\n‘Cause we are hunters, voices strong\nAnd I know I believe\n\nWe're goin'\nUp, up, up\nIt's our moment\nYou know together we're glowing\nGonna be, gonna be golden\nOhhh, up, up, up\nWith our voices\nYeong-won-h kkae-jil-su-eop-neun\nGonna be, gonna be golden\nOh, I'm done hiding now I'm shining like I'm born to be\nOh, our time, no fears, no lies, that's who we're born to be\n\nYou know we're \nGonna be, gonna be golden\nWe're gonna be, gonna be\nBorn to be, born to be glowin'\nBal-kke bit-na-neuin u-ri\nYou know that it's our time, no fears, no lies, that's who we're born to be\n\n\n\n.........\n📧 Contact / Demo Submissions: contact@7clouds.org\n.........\n💌 Demos / Music Submissions: https://7clouds.edmdistrict.com\n.........\n📝 Licensing / Sync Requests for 7clouds Releases: licensing@7clouds.org\n.........\n\n#golden #kpopdemonhunters #kpopdemonhuntersnetflix #lyrics #7clouds"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+          "blocked": [
+            "BY",
+            "RU"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1470953",
+        "likeCount": "5892",
+        "favoriteCount": "0",
+        "commentCount": "170"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XU-dYob7dxZrM08-EFY8OtkaclI",
+      "id": "JnDGTCv9UYw",
+      "snippet": {
+        "publishedAt": "2025-12-31T02:30:04Z",
+        "channelId": "UC4P7F8qenDo1O_5NvgBb_cg",
+        "title": "홍구 : 2025년 마지막까지 선 넘네 사기맵놈들은...?",
+        "description": "스타크래프트 저그 전프로 홍구의 공식 스타채널입니다^^\n#홍구 #공방 #참교육 #사기맵 #마지막 #상대 #스타 #엽기전략\n\n✌구독과 좋아요는 저희에게 큰 힘이 됩니다!\n구독 :: https://www.youtube.com/channel/UC4P7...\n\n💌각종 문의는? hong9@goodworklab.co.kr\n💐아프리카 방송국 :: http://afreecatv.com/dpfgc3\n\n✨시청해주셔서 감사합니다!\n\n=============================================================",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JnDGTCv9UYw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JnDGTCv9UYw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JnDGTCv9UYw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JnDGTCv9UYw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JnDGTCv9UYw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "발스타홍구",
+        "tags": [
+          "홍구",
+          "공방",
+          "참교육",
+          "최후",
+          "마지막",
+          "사기",
+          "스타크래프트",
+          "프로게이머",
+          "우승",
+          "우승자",
+          "도파",
+          "알파고",
+          "김성현",
+          "이시아",
+          "엽기전략",
+          "스타",
+          "사기맵",
+          "타골좌",
+          "타임이즈골드",
+          "양민좌",
+          "당근좌",
+          "까치좌",
+          "기프티콘",
+          "빙그레",
+          "스타홍구",
+          "홍구스타",
+          "극찬",
+          "빌런",
+          "노매너",
+          "비매너",
+          "악성유저",
+          "악질유저",
+          "발스타",
+          "상대",
+          "스타리그",
+          "빌런스타리그",
+          "발스타홍구",
+          "현교수"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "홍구 : 2025년 마지막까지 선 넘네 사기맵놈들은...?",
+          "description": "스타크래프트 저그 전프로 홍구의 공식 스타채널입니다^^\n#홍구 #공방 #참교육 #사기맵 #마지막 #상대 #스타 #엽기전략\n\n✌구독과 좋아요는 저희에게 큰 힘이 됩니다!\n구독 :: https://www.youtube.com/channel/UC4P7...\n\n💌각종 문의는? hong9@goodworklab.co.kr\n💐아프리카 방송국 :: http://afreecatv.com/dpfgc3\n\n✨시청해주셔서 감사합니다!\n\n============================================================="
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT23M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "79237",
+        "likeCount": "1105",
+        "favoriteCount": "0",
+        "commentCount": "120"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8JLve5dOCGJZIHb2C7pn-KE4MeA",
+      "id": "Vex7PnNw9tA",
+      "snippet": {
+        "publishedAt": "2025-12-29T22:00:35Z",
+        "channelId": "UCA7WISRhatMjpjXA2-greGQ",
+        "title": "가는 해가 아쉬워 듣는 7080 노래모음 🌅 50대 60대 마음을 울리는 추억의 노래 ☕ 잊혀진 계절/그 겨울의 찻집/사랑을 위하여",
+        "description": "가는 해가 아쉬워 듣는 7080 노래모음 🌅 50대 60대 마음을 울리는 추억의 노래 ☕ 잊혀진 계절/그 겨울의 찻집/사랑을 위하여\nhttps://youtu.be/Vex7PnNw9tA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vex7PnNw9tA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vex7PnNw9tA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vex7PnNw9tA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Vex7PnNw9tA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Vex7PnNw9tA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Retro Radio 7080",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "가는 해가 아쉬워 듣는 7080 노래모음 🌅 50대 60대 마음을 울리는 추억의 노래 ☕ 잊혀진 계절/그 겨울의 찻집/사랑을 위하여",
+          "description": "가는 해가 아쉬워 듣는 7080 노래모음 🌅 50대 60대 마음을 울리는 추억의 노래 ☕ 잊혀진 계절/그 겨울의 찻집/사랑을 위하여\nhttps://youtu.be/Vex7PnNw9tA"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1H7M34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": [
+            "VN"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "13468",
+        "likeCount": "194",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "MAj5phcnfN_jjCECOPxZK1uK8T8",
+      "id": "aTwSn6N-3Gs",
+      "snippet": {
+        "publishedAt": "2025-12-30T10:30:01Z",
+        "channelId": "UCZ-UuK86Bk5sGzQQ2cEglJQ",
+        "title": "배그 블루존 유탄 발사기로 존버 잡기",
+        "description": "재밌게 시청하셨다면\n'구독' 과 '좋아요' 부탁드릴게요!\n\n∞치지직 방송 - https://chzzk.naver.com/a07f0b18426abd609b4a8916c85546c1\n∞주키니 카페- https://cafe.naver.com/12zucchini\n∞인스타그램 - https://www.instagram.com/12zucchini\n∞문의 - zucchinitv@sandboxnetwork.net\n∞편집 - 팔색조\n\nhttps://creativecommons.org/licenses/by/4.0/\n출처: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100646\n아티스트: http://incompetech.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aTwSn6N-3Gs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aTwSn6N-3Gs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aTwSn6N-3Gs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aTwSn6N-3Gs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aTwSn6N-3Gs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "주키니TV",
+        "tags": [
+          "배그",
+          "배틀그라운드",
+          "PUBG",
+          "pubg",
+          "주키니",
+          "배그 솔로",
+          "배그 총",
+          "배그 포르쉐",
+          "배그 잘하는법",
+          "배그 미션"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "배그 블루존 유탄 발사기로 존버 잡기",
+          "description": "재밌게 시청하셨다면\n'구독' 과 '좋아요' 부탁드릴게요!\n\n∞치지직 방송 - https://chzzk.naver.com/a07f0b18426abd609b4a8916c85546c1\n∞주키니 카페- https://cafe.naver.com/12zucchini\n∞인스타그램 - https://www.instagram.com/12zucchini\n∞문의 - zucchinitv@sandboxnetwork.net\n∞편집 - 팔색조\n\nhttps://creativecommons.org/licenses/by/4.0/\n출처: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100646\n아티스트: http://incompetech.com/"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT22M39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "119576",
+        "likeCount": "1591",
+        "favoriteCount": "0",
+        "commentCount": "100"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "sH-9oZZllYfSxM2RsNjWejrGEKw",
+      "id": "w1GEwBkAqlo",
+      "snippet": {
+        "publishedAt": "2025-12-29T12:00:15Z",
+        "channelId": "UCZgFClzcBfd9sRZ-Fl3-Exg",
+        "title": "Best Happy New Year Songs 2026 🎉 Best Happy New Year Music 🎉 Beautiful New Year's Eve Ambience",
+        "description": "Best Happy New Year Songs 2026 🎉 Best Happy New Year Music 🎉 Beautiful New Year's Eve Ambience\n\nWelcome to Heavenly Christmas, music filled with emotion and warmth. This video presents a collection of Christmas music arranged in a choral style, combined with piano, organ, trumpet, bells, and other instruments characteristic of the holiday season. Each melody is carefully selected to fully capture the spirit of traditional Christmas: sacred, reflective, and full of hope.\n\n👉 Why You Should Listen to This Playlist\n\n✅ Helps relieve stress with gentle and spiritual choir harmonies\n✅ Creates a warm, elegant Christmas ambiance\n✅ Brings calmness, positivity, and seasonal joy to your home\n✅ Perfect as background music for any holiday activity\n✅ Makes you feel like you’re standing inside a grand cathedral filled with beautiful Christmas hymns\n\n✅ Don’t Forget to Subscribe!\n\nIf you love peaceful Christmas music and want more playlists updated throughout the season:\n\n👉 Click SUBSCRIBE\n👉 Turn on notifications to never miss new uploads\n\nYour support motivates us to create more high-quality Christmas content.\n\n📌 Copyright Information\n• All music, visuals, mixing, and editing in this video are produced by [Heavenly Christmas].\n• All audio and visual content is owned by this channel.\n• Reuploading, copying, or using any part of this video without permission is strictly prohibited.\n• All content complies with YouTube’s copyright and community guidelines.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w1GEwBkAqlo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w1GEwBkAqlo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w1GEwBkAqlo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w1GEwBkAqlo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/w1GEwBkAqlo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Heavenly Christmas",
+        "tags": [
+          "Best Happy New Year Songs 2026",
+          "Best Happy New Year Music",
+          "Beautiful New Year's Eve",
+          "New Year Music",
+          "New Year Songs",
+          "New Year Playlist",
+          "New Years Eve Music"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Best Happy New Year Songs 2026 🎉 Best Happy New Year Music 🎉 Beautiful New Year's Eve Ambience",
+          "description": "Best Happy New Year Songs 2026 🎉 Best Happy New Year Music 🎉 Beautiful New Year's Eve Ambience\n\nWelcome to Heavenly Christmas, music filled with emotion and warmth. This video presents a collection of Christmas music arranged in a choral style, combined with piano, organ, trumpet, bells, and other instruments characteristic of the holiday season. Each melody is carefully selected to fully capture the spirit of traditional Christmas: sacred, reflective, and full of hope.\n\n👉 Why You Should Listen to This Playlist\n\n✅ Helps relieve stress with gentle and spiritual choir harmonies\n✅ Creates a warm, elegant Christmas ambiance\n✅ Brings calmness, positivity, and seasonal joy to your home\n✅ Perfect as background music for any holiday activity\n✅ Makes you feel like you’re standing inside a grand cathedral filled with beautiful Christmas hymns\n\n✅ Don’t Forget to Subscribe!\n\nIf you love peaceful Christmas music and want more playlists updated throughout the season:\n\n👉 Click SUBSCRIBE\n👉 Turn on notifications to never miss new uploads\n\nYour support motivates us to create more high-quality Christmas content.\n\n📌 Copyright Information\n• All music, visuals, mixing, and editing in this video are produced by [Heavenly Christmas].\n• All audio and visual content is owned by this channel.\n• Reuploading, copying, or using any part of this video without permission is strictly prohibited.\n• All content complies with YouTube’s copyright and community guidelines."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1H38M42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "259918",
+        "likeCount": "2442",
+        "favoriteCount": "0",
+        "commentCount": "80"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "spjcbj6qns-5XIC_wGlrCSFXQ9k",
+      "id": "n6RaBqEApdY",
+      "snippet": {
+        "publishedAt": "2025-12-29T10:16:45Z",
+        "channelId": "UCVJT18d9wSCnDUdnJ9ycO7Q",
+        "title": "2025 한동숙 유튜브 연말결산 上편",
+        "description": "▶치지직 생방송  https://chzzk.naver.com/75cbf189b3bb8f9f687d2aca0d0a382b\n▶인스타그램 https://www.instagram.com/woooookhan\n▶롱수칸 https://www.youtube.com/@longsukhan\n▶네이버 카페 https://cafe.naver.com/khantata\n\n * 좋아요 버튼과 구독 버튼을 눌러주셔서 \n    감사합니다! 열심히 하겠습니다!\n * 댓글로 허위사실 및 심한 욕설시 \n    무통보 삭제될 수 있음을 알려드립니다.\n\n산악회 신년 끄투\n00:00 산평 ㅋㅋ\n\n산악회 모르둠 트라이\n01:41 카멘은 너의 거짓말\n03:21 포셔 돌리기\n\n산악회 신년 민속놀이\n04:42 재개발 저그 vs 내 집 마련 프로토스\n08:32 식민지 저그 퓨ㅠㅠ\n\n현공면미 몬헌\n11:56 삼카마\n13:12 칼벤투스 카르텔\n14:10 자X 브라더스\n14:52 삼꼬짤\n\n16:28 현공면미 라이어스 바\n\n체스터 FC\n33:21 수석코치의 첫 등장\n39:01 오버턴 사용법\n47:04 쌀먹 감독\n48:30 체스터 FC 첫 회식\n50:06 흑화한 수석코치\n\n킹덤컴2\n54:38 철국종의 선고\n\n롤 솔랭\n58:39 칸트 빙의\n\n좀보이드 42빌드\n01:00:45 리버스 조류독감(?)\n\n던파 태초런\n01:02:48 도파민 디톡스\n\n롤체 대회\n01:07:23 고혈 쪼옥\n\n모비노기\n01:13:03 시골섭 촌장 한동숙\n01:16:55 시골 이장님 야반도주\n01:24:41 이긴병X\n01:32:40 쌀쌀버린\n\n콩밥특별시\n01:35:43 악연의 시작\n01:42:15 콩밥특별시 남성 연대\n01:47:52 한통속 납치 사건\n01:56:13 대형 패싸움 발발\n\n리매치\n02:00:07 병장축구\n\n반악회 피크\n02:09:14 셀프 고려장\n02:11:30 목욕물이 노래(?)\n\n롤체 마빵보이즈\n02:12:55 마빵보이즈 해체..\n\n칸삼쥐 엘든링\n02:14:15 해체해도 반복되는 산악회 토크\n02:17:11 워터파크 입구컷\n02:19:06 에이징 커브 대물림\n\n칸삼쥐 코어키퍼\n02:20:55 승준이 우유 사건\n02:22:43 시XX 주석\n02:23:20 삼키니\n02:24:25 남녀평등\n\n칸삼쥐 야추\n02:26:16 한동숙 바지 벗어(?)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n6RaBqEApdY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n6RaBqEApdY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n6RaBqEApdY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n6RaBqEApdY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n6RaBqEApdY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "동수칸TV",
+        "tags": [
+          "게임",
+          "한동숙",
+          "칸튜브",
+          "동수칸",
+          "ㄷㅅㅋ",
+          "동숙"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "2025 한동숙 유튜브 연말결산 上편",
+          "description": "▶치지직 생방송  https://chzzk.naver.com/75cbf189b3bb8f9f687d2aca0d0a382b\n▶인스타그램 https://www.instagram.com/woooookhan\n▶롱수칸 https://www.youtube.com/@longsukhan\n▶네이버 카페 https://cafe.naver.com/khantata\n\n * 좋아요 버튼과 구독 버튼을 눌러주셔서 \n    감사합니다! 열심히 하겠습니다!\n * 댓글로 허위사실 및 심한 욕설시 \n    무통보 삭제될 수 있음을 알려드립니다.\n\n산악회 신년 끄투\n00:00 산평 ㅋㅋ\n\n산악회 모르둠 트라이\n01:41 카멘은 너의 거짓말\n03:21 포셔 돌리기\n\n산악회 신년 민속놀이\n04:42 재개발 저그 vs 내 집 마련 프로토스\n08:32 식민지 저그 퓨ㅠㅠ\n\n현공면미 몬헌\n11:56 삼카마\n13:12 칼벤투스 카르텔\n14:10 자X 브라더스\n14:52 삼꼬짤\n\n16:28 현공면미 라이어스 바\n\n체스터 FC\n33:21 수석코치의 첫 등장\n39:01 오버턴 사용법\n47:04 쌀먹 감독\n48:30 체스터 FC 첫 회식\n50:06 흑화한 수석코치\n\n킹덤컴2\n54:38 철국종의 선고\n\n롤 솔랭\n58:39 칸트 빙의\n\n좀보이드 42빌드\n01:00:45 리버스 조류독감(?)\n\n던파 태초런\n01:02:48 도파민 디톡스\n\n롤체 대회\n01:07:23 고혈 쪼옥\n\n모비노기\n01:13:03 시골섭 촌장 한동숙\n01:16:55 시골 이장님 야반도주\n01:24:41 이긴병X\n01:32:40 쌀쌀버린\n\n콩밥특별시\n01:35:43 악연의 시작\n01:42:15 콩밥특별시 남성 연대\n01:47:52 한통속 납치 사건\n01:56:13 대형 패싸움 발발\n\n리매치\n02:00:07 병장축구\n\n반악회 피크\n02:09:14 셀프 고려장\n02:11:30 목욕물이 노래(?)\n\n롤체 마빵보이즈\n02:12:55 마빵보이즈 해체..\n\n칸삼쥐 엘든링\n02:14:15 해체해도 반복되는 산악회 토크\n02:17:11 워터파크 입구컷\n02:19:06 에이징 커브 대물림\n\n칸삼쥐 코어키퍼\n02:20:55 승준이 우유 사건\n02:22:43 시XX 주석\n02:23:20 삼키니\n02:24:25 남녀평등\n\n칸삼쥐 야추\n02:26:16 한동숙 바지 벗어(?)"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2H28M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "214194",
+        "likeCount": "1546",
+        "favoriteCount": "0",
+        "commentCount": "264"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Fsdy-aXwed1iZqmilJTZbXebkP4",
+      "id": "ksKxI7zrJmU",
+      "snippet": {
+        "publishedAt": "2025-12-29T20:45:04Z",
+        "channelId": "UC3SZ3jXV9A_OwQ9u4SUYuYw",
+        "title": "50대이상이 들으면 기분좋아지는 7080노래모음🌻🌻그집앞/잊혀진 사랑/돌아와요 부산항에...싱크가사📺7080 카페음악모음",
+        "description": "50대이상이 들으면 기분좋아지는 7080노래모음🌻🌻그집앞/잊혀진 사랑/돌아와요 부산항에...싱크가사📺7080 카페음악모음\n\nhttps://youtu.be/ksKxI7zrJmU\n\n🎵 JUN FM – 추억이 머무는 곳 🎵\n\nJUN FM은 한국의 황금기였던 70~80년대 음악을 사랑하는 모든 이들을 위한 감성 라디오 채널입니다.\n세월이 흘러도 변하지 않는 멜로디, 마음을 울리는 가사, 그리고 그 시절의 감동을 다시 만나보세요\n하루의 끝, 조용히 흘러나오는 한 곡의 노래로 마음이 따뜻해지는 순간.\n그 모든 이야기가 있는 곳, JUN FM과 함께하세요. 🌙🎶",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ksKxI7zrJmU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ksKxI7zrJmU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ksKxI7zrJmU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ksKxI7zrJmU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ksKxI7zrJmU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JUN FM",
+        "tags": [
+          "7080노래",
+          "7080가요",
+          "추억의노래",
+          "한국레트로음악",
+          "망고라디오",
+          "MangoRadio",
+          "복고음악",
+          "올드케이팝",
+          "Kpop7080",
+          "70년대가요",
+          "80년대가요",
+          "감성음악",
+          "힐링음악",
+          "옛날노래",
+          "레트로감성",
+          "한국발라드",
+          "전통가요",
+          "음악모음",
+          "휴식음악",
+          "분위기음악",
+          "추억의 노래",
+          "7080 노래",
+          "7080 노래모음",
+          "내게도 사랑이",
+          "7080",
+          "7080노래모음",
+          "사랑의 굴레",
+          "8090노래모음",
+          "슬픈노래",
+          "7080 추억의 노래",
+          "7080노래모음 주옥같은노래",
+          "90년대",
+          "80년대 히트곡",
+          "7080발라드모음",
+          "8090 노래 모음",
+          "8090 모음",
+          "좋은 노래 모음",
+          "7080 모음",
+          "해바라기",
+          "70 80년대",
+          "7080 추억의 팝송",
+          "발라드 노래 모음",
+          "7080 8090 노래 7080노래",
+          "좋은 노래",
+          "발라드 추천",
+          "한국 올드가요",
+          "8090 노래 모음 다운",
+          "7080노래 모음",
+          "7080 발라드 모음",
+          "7080 슬픈 노래 모음",
+          "7080 가을 음악다방",
+          "ksKxI7zrJmU"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "50대이상이 들으면 기분좋아지는 7080노래모음🌻🌻그집앞/잊혀진 사랑/돌아와요 부산항에...싱크가사📺7080 카페음악모음",
+          "description": "50대이상이 들으면 기분좋아지는 7080노래모음🌻🌻그집앞/잊혀진 사랑/돌아와요 부산항에...싱크가사📺7080 카페음악모음\n\nhttps://youtu.be/ksKxI7zrJmU\n\n🎵 JUN FM – 추억이 머무는 곳 🎵\n\nJUN FM은 한국의 황금기였던 70~80년대 음악을 사랑하는 모든 이들을 위한 감성 라디오 채널입니다.\n세월이 흘러도 변하지 않는 멜로디, 마음을 울리는 가사, 그리고 그 시절의 감동을 다시 만나보세요\n하루의 끝, 조용히 흘러나오는 한 곡의 노래로 마음이 따뜻해지는 순간.\n그 모든 이야기가 있는 곳, JUN FM과 함께하세요. 🌙🎶"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1H7M40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": [
+            "VN"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "11585",
+        "likeCount": "111",
+        "favoriteCount": "0",
+        "commentCount": "6"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6p20eM_Pczk5HwFv-4-r0SJRCTg",
+      "id": "u8PD-2s3x8w",
+      "snippet": {
+        "publishedAt": "2025-12-31T07:08:31Z",
+        "channelId": "UCR5eP4-RruOu2KQE-bUoCcA",
+        "title": "2025년 클래시로얄에 대해 알아보자",
+        "description": "클래시로얄 2025년 돌아보기\n\n슈퍼셀 크리에이터 코드 : Sunny\n\n멤버십 가입하기 : https://www.youtube.com/channel/UCR5eP4-RruOu2KQE-bUoCcA/join\n\n써니 (무료)구독하기 : https://bit.ly/35QcVgV \n\n채널 문의 : mesunny2609@gmail.com\n\n#클래시로얄 #덱추천 #써니",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u8PD-2s3x8w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u8PD-2s3x8w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u8PD-2s3x8w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u8PD-2s3x8w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/u8PD-2s3x8w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "써니",
+        "tags": [
+          "클래시로얄",
+          "덱추천",
+          "'클래시로얄 덱'",
+          "써니cr",
+          "sunnycr",
+          "'sunny cr'",
+          "무덤덱",
+          "로자덱",
+          "기베무",
+          "얼토베",
+          "얼토메",
+          "얼티밋챔피언",
+          "랭커",
+          "클래시로얄덱",
+          "덱운영법",
+          "SunnyCR",
+          "세계1위",
+          "메타덱",
+          "써니",
+          "최신덱",
+          "8000점",
+          "카드",
+          "전설카드",
+          "Clashroyale",
+          "cr",
+          "랭커덱",
+          "추천덱",
+          "아처퀸",
+          "골드나이트",
+          "해골킹",
+          "챔피언",
+          "클로",
+          "도전",
+          "댓글플레이",
+          "예능덱",
+          "브롤스타즈",
+          "브롤",
+          "슈퍼셀게임",
+          "슈퍼셀",
+          "클래시오브클랜",
+          "클오클",
+          "진화카드",
+          "진화순위",
+          "진화메나",
+          "클토체스"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "2025년 클래시로얄에 대해 알아보자",
+          "description": "클래시로얄 2025년 돌아보기\n\n슈퍼셀 크리에이터 코드 : Sunny\n\n멤버십 가입하기 : https://www.youtube.com/channel/UCR5eP4-RruOu2KQE-bUoCcA/join\n\n써니 (무료)구독하기 : https://bit.ly/35QcVgV \n\n채널 문의 : mesunny2609@gmail.com\n\n#클래시로얄 #덱추천 #써니"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT8M29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "41464",
+        "likeCount": "989",
+        "favoriteCount": "0",
+        "commentCount": "153"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "mOKRmDFB--P7M_cVhlEz1ZnenRc",
+      "id": "mLwfuskNDOo",
+      "snippet": {
+        "publishedAt": "2025-12-23T08:04:01Z",
+        "channelId": "UC9y5zNTG8Zfkn9I2m2cdG1A",
+        "title": "거리에서",
+        "description": "Provided to YouTube by UMAG\n\n거리에서 · 성시경\n\nThe Ballads\n\n℗ 2006 더늠이엔티\n\nReleased on: 2006-10-10\n\nAuto-generated by YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mLwfuskNDOo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mLwfuskNDOo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mLwfuskNDOo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mLwfuskNDOo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mLwfuskNDOo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sung Si-kyung - Topic",
+        "tags": [
+          "성시경",
+          "The Ballads",
+          "거리에서"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "거리에서",
+          "description": "Provided to YouTube by UMAG\n\n거리에서 · 성시경\n\nThe Ballads\n\n℗ 2006 더늠이엔티\n\nReleased on: 2006-10-10\n\nAuto-generated by YouTube."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "141782",
+        "likeCount": "423",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "UOLb27tKbKC74Mo1duKegfiah1A",
+      "id": "iMBFesjInuY",
+      "snippet": {
+        "publishedAt": "2025-12-31T09:01:15Z",
+        "channelId": "UCEWqfxUKLIpqyMzebADGUlg",
+        "title": "포켓몬 세상에 좀비 바이러스가 퍼진다면 : 포켓몬 더스크【포켓몬스터 더스크 시리즈】",
+        "description": "#윤가놈 #포켓몬더스크  #포켓몬\n방송일 : 2024-8-11\n치지직 생방송 : https://chzzk.naver.com/1ad5aa0f6c6741b072528fad5e5e76b1\n풀버전 : https://www.youtube.com/@UCl8lKwEXdYxIbZf-FVWmWKg \n윤가놈 본가 :  https://www.youtube.com/@UC20DvGobETQDG_JG048JWAw\n네이버 카페 : https://cafe.naver.com/yunzinseok?iframe_url_utf8=%2FArticleRead.nhn%3FreferrerAllArticles%3Dtrue%26page%3D1%26boardtype%3DL%26clubid%3D30651566%26articleid%3D39375",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iMBFesjInuY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iMBFesjInuY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iMBFesjInuY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iMBFesjInuY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iMBFesjInuY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "근가놈",
+        "tags": [
+          "윤가놈",
+          "윤진석",
+          "치지직",
+          "스트리머",
+          "근가놈",
+          "포켓로그",
+          "포켓몬스터",
+          "귀뚤톡크",
+          "200층",
+          "무한다이노",
+          "포켓로그공략",
+          "포켓몬더스크",
+          "포켓몬좀비"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "포켓몬 세상에 좀비 바이러스가 퍼진다면 : 포켓몬 더스크【포켓몬스터 더스크 시리즈】",
+          "description": "#윤가놈 #포켓몬더스크  #포켓몬\n방송일 : 2024-8-11\n치지직 생방송 : https://chzzk.naver.com/1ad5aa0f6c6741b072528fad5e5e76b1\n풀버전 : https://www.youtube.com/@UCl8lKwEXdYxIbZf-FVWmWKg \n윤가놈 본가 :  https://www.youtube.com/@UC20DvGobETQDG_JG048JWAw\n네이버 카페 : https://cafe.naver.com/yunzinseok?iframe_url_utf8=%2FArticleRead.nhn%3FreferrerAllArticles%3Dtrue%26page%3D1%26boardtype%3DL%26clubid%3D30651566%26articleid%3D39375"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT56M33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "61497",
+        "likeCount": "1262",
+        "favoriteCount": "0",
+        "commentCount": "464"
+      }
+    }
+  ]
+}

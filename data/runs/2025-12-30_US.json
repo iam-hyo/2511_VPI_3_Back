@@ -1,0 +1,18 @@
+{
+  "runId": "2025-12-30_US",
+  "date": "2025-12-30",
+  "region": "US",
+  "status": "ERROR",
+  "createdAt": "2025-12-30T12:58:52.027Z",
+  "updatedAt": "2025-12-30T13:25:57.706Z",
+  "artifacts": {
+    "rawFileName": null,
+    "processedFileName": null
+  },
+  "meta": {},
+  "error": {
+    "step": "COLLECTION",
+    "message": "VPI API 오류 (422): {\"detail\":\"columns are missing: {'is_short', 'likes_per_time'}\"}",
+    "at": "2025-12-30T13:25:57.705Z"
+  }
+}

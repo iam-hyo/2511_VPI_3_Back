@@ -61,7 +61,7 @@ export async function collectOneRegion(region) {
 
     console.log(`[collectOneRegion] [${region}] raw 저장 완료: ${rawFileName}`);
 
-    // ⚠️ processCollectedFile이 반드시 processedFileName을 return해야 함
+    // 수집된 원본 데이터를 분석 데이터로 변환
     const processedFileName = await processCollectedFile(rawFileName, region, collectedAt, videos);
 
     console.log(`[collectOneRegion] [${region}] processed 저장 완료: ${processedFileName}`);

@@ -82,8 +82,9 @@ export async function isTodayCollectionAlreadyDone(run) {
  */
 export async function step0_collectAndInitRuns() {
   const today = todayStrKST();
-  const regions = ['KR', 'US', 'JP']; // 여기서 제어 (env로 빼도 됨)
-  // const regions = ['KR', 'US', 'JP', 'IN', 'VN'];
+  // const regions = ['KR']; // 여기서 제어 (env로 빼도 됨)
+  const regions = ['KR', 'US', 'MX']; // 여기서 제어 (env로 빼도 됨)
+
 
 
   const runs = [];
@@ -200,7 +201,7 @@ export async function step2_fetchRelated(run) {
     console.log('[step2] skip: relatedVideos already exist');
     return run;
   }
-  
+
   const region = run.region;
   const keyword = run.meta?.query;
   if (!keyword) {

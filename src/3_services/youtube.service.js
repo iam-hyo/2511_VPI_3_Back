@@ -24,13 +24,22 @@ export async function fetchPopularVideos(regionCode, maxResults = 50) {
 }
 
 /**
- * [Spec 5.3] 키워드로 5일 이내 영상 50개 검색
+ * [Spec 5.3] 관련동영상 필터 선정기
  * @param {string} keyword - 검색어
  * @returns {Promise<Array<Object>>} 검색 결과 비디오 리소스 배열
  */
 export async function fetchSearchList(keyword, maxResults=50, region) {
   const fiveDaysAgo = new Date(Date.now() - 180 * 24 * 60 * 60 * 1000).toISOString(); //180일
-  const url = `${BASE_URL}/search?part=snippet&q=${encodeURIComponent(keyword)}&maxResults=${maxResults}&order=date&publishedAfter=${fiveDaysAgo}&type=video&regionCode=${region}&key=${API_KEY}`;
+  // const url = `${BASE_URL}/search?part=snippet&q=${encodeURIComponent(keyword)}&maxResults=${maxResults}&order=date&publishedAfter=${fiveDaysAgo}&type=video&regionCode=${region}&key=${API_KEY}`;
+  let url = `${BASE_URL}/search?part=snippet&q=${encodeURIComponent(keyword)}` +
+            `&maxResults=${maxResults}` +
+            `&order=date` +
+            `&publishedAfter=${fiveDaysAgo}` +
+            `&type=video` +
+            `&regionCode=${region}` +
+            `&videoDuration=short` +    // short, medium, long, any
+            `&videoDefinition=high` + // high, standard, any
+            `&key=${API_KEY}`;
   
   const res = await fetch(url);
   if (!res.ok) {

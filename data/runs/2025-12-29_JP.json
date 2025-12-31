@@ -1,0 +1,166 @@
+{
+  "runId": "2025-12-29_JP",
+  "date": "2025-12-29",
+  "region": "JP",
+  "status": "ERROR",
+  "createdAt": "2025-12-29T10:46:44.276Z",
+  "updatedAt": "2025-12-29T10:48:27.096Z",
+  "artifacts": {
+    "rawFileName": "20251229_1946_JP_raw.json",
+    "processedFileName": "20251229_1946_JP_analyzed.json"
+  },
+  "meta": {
+    "bestVideo": {
+      "videoId": "_VC0nl_ImWQ",
+      "collectedAt": "2025-12-29T10:46:17.531Z",
+      "regionCode": "JP",
+      "title": "【暴露】ホロライブ運営（カバー株式会社）の内部事情やリーカー疑惑について、詳細を語る2025年12月29日",
+      "publishedAt": "2025-12-28T22:00:38Z",
+      "viewCount": 82257,
+      "likeCount": 1037,
+      "categoryId": "24",
+      "duration": "PT8M47S",
+      "channelId": "UCV2JIDm8hH0bDA7kAZDxpsg",
+      "channelTitle": "VTuberマスターV",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_VC0nl_ImWQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_VC0nl_ImWQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_VC0nl_ImWQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_VC0nl_ImWQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_VC0nl_ImWQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "vpiScore": 585.5424259681093,
+      "keyword": [
+        ""
+      ],
+      "keywordEmbedding": [],
+      "trendScore_View": 0,
+      "trendScore_VPI": 0,
+      "subscriberCount": 1910,
+      "_rawTrendVPI": 585.5424259681093
+    },
+    "query": "【暴露】ホロライブ運営（カバー株式会社）の内部事情やリーカー疑惑について、詳細を語る2025年12月29日",
+    "relatedVideos": [
+      {
+        "id": "_VC0nl_ImWQ",
+        "snippet": {
+          "publishedAt": "2025-12-28T22:00:38Z",
+          "channelId": "UCV2JIDm8hH0bDA7kAZDxpsg",
+          "title": "【暴露】ホロライブ運営（カバー株式会社）の内部事情やリーカー疑惑について、詳細を語る2025年12月29日",
+          "description": "この動画では、今話題のゲーム・アニメ・VTuber関係ニュースについて、ネットの反応や様々な視点からの意見をまとめて紹介しています。\n※動画内の意見はあくまでネット上の反応をまとめたものであり、特定の個人や団体を誹謗中傷する意図はありません。\n※トレンドネタを扱う動画の場合、一定期間を経過後、動画を削除または非公開にします。なるべく早めにご覧ください\n\n\n※当チャンネルは、YouTubeのガイドライン及び著作権法を遵守し、\n「批評」「研究」「報道」を目的とした引用の範囲内で動画を作成しています。\n動画内で使用している画像の著作権は、各権利者様に帰属します。\n万が一動画の内容に問題がある場合は、各権利者様よりご連絡いただければ迅速に対応いたします。\n\n\n■引用・参考元\nhttps://youtu.be/dm1selfCQ8c\n\nこの動画がおもしろい！参考になった！と思ったら\nぜひ【チャンネル登録】と【高評価】をお願いします！\nコメント欄での議論や感想もお待ちしています。",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_VC0nl_ImWQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_VC0nl_ImWQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_VC0nl_ImWQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_VC0nl_ImWQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_VC0nl_ImWQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "VTuberマスターV",
+          "tags": [
+            "VTuber",
+            "Vチューバー",
+            "バーチャルYouTuber",
+            "VTuberニュース",
+            "VTuber情報",
+            "VTuber速報",
+            "VTuberまとめ",
+            "VTuber業界",
+            "切り抜き",
+            "最新情報",
+            "ニュース",
+            "トレンド",
+            "話題",
+            "イベント",
+            "デビュー",
+            "卒業",
+            "引退",
+            "炎上",
+            "オーディション",
+            "コラボ",
+            "ホロライブ",
+            "hololive",
+            "にじさんじ",
+            "nijisanji",
+            "個人勢VTuber",
+            "企業勢VTuber",
+            "ゲーム",
+            "歌ってみた",
+            "雑談",
+            "ASMR",
+            "おすすめ",
+            "人気"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "【暴露】ホロライブ運営（カバー株式会社）の内部事情やリーカー疑惑について、詳細を語る2025年12月29日",
+            "description": "この動画では、今話題のゲーム・アニメ・VTuber関係ニュースについて、ネットの反応や様々な視点からの意見をまとめて紹介しています。\n※動画内の意見はあくまでネット上の反応をまとめたものであり、特定の個人や団体を誹謗中傷する意図はありません。\n※トレンドネタを扱う動画の場合、一定期間を経過後、動画を削除または非公開にします。なるべく早めにご覧ください\n\n\n※当チャンネルは、YouTubeのガイドライン及び著作権法を遵守し、\n「批評」「研究」「報道」を目的とした引用の範囲内で動画を作成しています。\n動画内で使用している画像の著作権は、各権利者様に帰属します。\n万が一動画の内容に問題がある場合は、各権利者様よりご連絡いただければ迅速に対応いたします。\n\n\n■引用・参考元\nhttps://youtu.be/dm1selfCQ8c\n\nこの動画がおもしろい！参考になった！と思ったら\nぜひ【チャンネル登録】と【高評価】をお願いします！\nコメント欄での議論や感想もお待ちしています。"
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "82775",
+          "likeCount": "1037",
+          "favoriteCount": "0",
+          "commentCount": "707"
+        },
+        "contentDetails": {
+          "duration": "PT8M47S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 589.2717306186374
+      }
+    ]
+  },
+  "error": {
+    "step": "PIPELINE",
+    "message": "[step3 Erorr] No related videos under 6 minutes. (filtered result empty)",
+    "at": "2025-12-29T10:48:27.095Z"
+  }
+}

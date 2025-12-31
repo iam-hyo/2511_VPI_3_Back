@@ -43,6 +43,7 @@ export async function processCollectedFile(rawFileName, region, collectedAt, vid
     publishedAt: v.snippet.publishedAt,
     viewCount: Number(v.statistics.viewCount || 0),
     likeCount: Number(v.statistics.likeCount || 0),
+    commentCount: Number(v.statistics.commentCount || 0),
     categoryId: v.snippet.categoryId, // snippet에서 categoryId
     duration: v.contentDetails.duration, // contentDetails에서 duration (ISO 8601 형식)
     channelId: v.snippet.channelId ?? null,
@@ -50,6 +51,7 @@ export async function processCollectedFile(rawFileName, region, collectedAt, vid
     thumbnails: v.snippet.thumbnails,
     // (분석 데이터는 나중에 채워짐)
     vpiScore: 0,
+    predicted_7day_views: 0,
     keyword: '',
     keywordEmbedding: [],
     trendScore_View: 0,
@@ -60,19 +62,20 @@ export async function processCollectedFile(rawFileName, region, collectedAt, vid
     // 2. VPI 호출 전, 구독자 수 조회 및 병합
     const uniqueChannelIds = [...new Set(analyzedVideos.map(v => v.channelId))];
     const subscriberMap = await fetchChannelSubscriberCounts(uniqueChannelIds);
-    
+
     analyzedVideos.forEach(v => {
       // (vpi.service.js가 subscriberCount를 찾을 수 있도록 추가)
       v.subscriberCount = subscriberMap.get(v.channelId) || 1;  //1로 나눠서 
     });
 
     // 3. [Spec 4.1] VPI 예측
-    const vpiResultsMap = await fetchVPIs(analyzedVideos); 
-    
+    const vpiResultsMap = await fetchVPIs(analyzedVideos);
+
     analyzedVideos.forEach(v => {
       // [수정] Map에서 videoId로 VPI 점수를 찾습니다.
       const result = vpiResultsMap.get(v.videoId);
-      v.vpiScore = result?.vpiScore || 0;
+      v.vpiScore = result?.FI || 0;
+      v.predicted_7day_views = result.predicted_7day_views;
     });
 
     // 4. [Spec 4.2] 키워드 추출
@@ -113,7 +116,7 @@ export async function processCollectedFile(rawFileName, region, collectedAt, vid
 
         // 4. (동적) 결과 벡터들의 평균을 계산하여 v.keywordEmbedding에 저장
         v.keywordEmbedding = maxPoolEmbeddings(embeddingVectors);
-        
+
         // console.log(`[Embedding] Video ${v.videoId}: 키워드 ${validKeywords.length}개 임베딩 및 최대 계산 완료.`);
 
       } catch (embedError) {
@@ -124,6 +127,7 @@ export async function processCollectedFile(rawFileName, region, collectedAt, vid
 
     console.log(`[${region}] 트렌드 점수 계산 중...`);
     calculateTrendScores(analyzedVideos);
+
     // [Spec] 최종 분석 파일 저장
     const processedFileName = await saveAnalyzedVideos(region, collectedAt, analyzedVideos);
 

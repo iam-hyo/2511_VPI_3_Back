@@ -112,8 +112,9 @@ function debugLargestRawTrendCluster(videos, epsilon = 1e-3) {
       const a = clusterVideos[i];
       const b = clusterVideos[j];
       const sim = cosineSimilarity(a.keywordEmbedding, b.keywordEmbedding);
-      console.log(`sim(${a.videoId}, ${b.videoId}) = ${sim}`);
-      console.log('sameRef?', a.keywordEmbedding === b.keywordEmbedding);
+      // 유사도 디버깅
+      // console.log(`sim(${a.videoId}, ${b.videoId}) = ${sim}`);
+      // console.log('sameRef?', a.keywordEmbedding === b.keywordEmbedding);
     }
   }
 }

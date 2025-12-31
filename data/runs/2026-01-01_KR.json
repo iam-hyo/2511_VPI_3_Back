@@ -1,0 +1,3839 @@
+{
+  "runId": "2026-01-01_KR",
+  "date": "2026-01-01",
+  "region": "KR",
+  "status": "DONE",
+  "createdAt": "2025-12-31T15:17:28.711Z",
+  "updatedAt": "2025-12-31T15:22:00.510Z",
+  "artifacts": {
+    "rawFileName": "20260101_0017_KR_raw.json",
+    "processedFileName": "20260101_0017_KR_analyzed.json",
+    "downloadedPaths": [
+      "C:\\Users\\전효준\\Desktop\\Workspace\\2511_VPI_Back\\data\\videos\\2026-01-01_KR\\eeR-KK_X4Ew.mp4",
+      "C:\\Users\\전효준\\Desktop\\Workspace\\2511_VPI_Back\\data\\videos\\2026-01-01_KR\\CE-82llq4HU.mp4",
+      "C:\\Users\\전효준\\Desktop\\Workspace\\2511_VPI_Back\\data\\videos\\2026-01-01_KR\\umO3hGm7P9U.mp4",
+      "C:\\Users\\전효준\\Desktop\\Workspace\\2511_VPI_Back\\data\\videos\\2026-01-01_KR\\NfVswHsHPL8.mp4"
+    ],
+    "highlightPaths": [
+      "C:\\Users\\전효준\\Desktop\\Workspace\\2511_VPI_Back\\data\\videos\\2026-01-01_KR\\eeR-KK_X4Ew_last5s.mp4",
+      "C:\\Users\\전효준\\Desktop\\Workspace\\2511_VPI_Back\\data\\videos\\2026-01-01_KR\\CE-82llq4HU_last5s.mp4",
+      "C:\\Users\\전효준\\Desktop\\Workspace\\2511_VPI_Back\\data\\videos\\2026-01-01_KR\\umO3hGm7P9U_last5s.mp4",
+      "C:\\Users\\전효준\\Desktop\\Workspace\\2511_VPI_Back\\data\\videos\\2026-01-01_KR\\NfVswHsHPL8_last5s.mp4"
+    ],
+    "mergedVideoPath": "C:\\Users\\전효준\\Desktop\\Workspace\\2511_VPI_Back\\data\\videos\\2026-01-01_KR\\2025-12-31T1521_KR_OdoruPonpokorin.mp4",
+    "metaTxtPath": "C:\\Users\\전효준\\Desktop\\Workspace\\2511_VPI_Back\\data\\videos\\2026-01-01_KR\\meta_KR.txt"
+  },
+  "meta": {
+    "bestVideo": {
+      "videoId": "NB94LKrLEt4",
+      "collectedAt": "2025-12-31T15:17:27.562Z",
+      "regionCode": "KR",
+      "title": "Odoru Ponpokorin",
+      "publishedAt": "2025-12-28T15:00:39Z",
+      "viewCount": 1003535,
+      "likeCount": 69198,
+      "commentCount": 2341,
+      "categoryId": "10",
+      "duration": "PT3M15S",
+      "channelId": "UC5DHwv9N4OQ9AWtKr8YSefw",
+      "channelTitle": "Ado - Topic",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NB94LKrLEt4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NB94LKrLEt4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NB94LKrLEt4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NB94LKrLEt4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NB94LKrLEt4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "vpiScore": 7164.377510011388,
+      "predicted_7day_views": 1783930,
+      "keyword": "",
+      "keywordEmbedding": [],
+      "trendScore_View": 0,
+      "trendScore_VPI": 0,
+      "subscriberCount": 2550
+    },
+    "query": "Odoru Ponpokorin",
+    "relatedVideos": [
+      {
+        "id": "iaATsMmqbcA",
+        "snippet": {
+          "publishedAt": "2025-12-31T14:34:32Z",
+          "channelId": "UCvSuLgWj2KDMLx2e2Qkw9-w",
+          "title": "Lyrics Ado - odoru ponpokorin Opening Chibi maruko chan",
+          "description": "Performer: Ado \nTitle: odoru ponpokorin \n\n\n\nNandemo kandemo minna\nOdori wo odotteiru yo\nOnabe no naka kara bowatto\nInchiki ojisan toujou\nItsu datte...  wasurenai\nEjison wa...  erai hito\nSonna no joushiki\ntattatararira\nPiihyara piihyara...  pappaparapa\nPiihyara piihyara...  pappaparapa\nPiihyara piihyara...  oheso ga chirari\nTattatararira\nPiihyara piihyara...  pappaparapa\nPiihyara piihyara...  odoru ponpokorin\nPiihyara pii...  onaka ga hetta yo\nAno ko mo kono ko mo minna\nIsoide aruite iru yo\nDenshinbashira no kage kara\nOwarai geinin toujou\nItsu datte, mayowanai\nKiyosuku wa, eki no naka\nSonna no yuume\ntattatararira\nPiihyara piihyara...  pappaparapa\nPiihyara piihyara...  pappaparapa\nPiihyara piihyara...  ninjin iranai\nTattatararira\nPiihyara piihyara...  pappaparapa\nPiihyara piihyara...  odoru ponpokorin\nPiihyara pii...  buta no puutarou\nItsu datte, wasurenai\nEjison wa, erai hito\nSonna no joushiki\ntattatararira\nPiihyara piihyara pappaparapa\nPiihyara piihyara pappaparapa\nPiihyara piihyara oheso ga chirari\nTattatararira\nPiihyara piihyara pappaparapa\nPiihyara piihyara odoru ponpokorin\nPiihyara pii onaka ga hetta yo\nPiihyara piihyara pappaparapa\nPiihyara piihyara odoru ponpokorin\nPiihyara pii onaka ga hetta yo\n#ado #chibimarukochan #refisikulyrics",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iaATsMmqbcA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iaATsMmqbcA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iaATsMmqbcA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/iaATsMmqbcA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/iaATsMmqbcA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kawai Lyrics",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "id",
+          "localized": {
+            "title": "Lyrics Ado - odoru ponpokorin Opening Chibi maruko chan",
+            "description": "Performer: Ado \nTitle: odoru ponpokorin \n\n\n\nNandemo kandemo minna\nOdori wo odotteiru yo\nOnabe no naka kara bowatto\nInchiki ojisan toujou\nItsu datte...  wasurenai\nEjison wa...  erai hito\nSonna no joushiki\ntattatararira\nPiihyara piihyara...  pappaparapa\nPiihyara piihyara...  pappaparapa\nPiihyara piihyara...  oheso ga chirari\nTattatararira\nPiihyara piihyara...  pappaparapa\nPiihyara piihyara...  odoru ponpokorin\nPiihyara pii...  onaka ga hetta yo\nAno ko mo kono ko mo minna\nIsoide aruite iru yo\nDenshinbashira no kage kara\nOwarai geinin toujou\nItsu datte, mayowanai\nKiyosuku wa, eki no naka\nSonna no yuume\ntattatararira\nPiihyara piihyara...  pappaparapa\nPiihyara piihyara...  pappaparapa\nPiihyara piihyara...  ninjin iranai\nTattatararira\nPiihyara piihyara...  pappaparapa\nPiihyara piihyara...  odoru ponpokorin\nPiihyara pii...  buta no puutarou\nItsu datte, wasurenai\nEjison wa, erai hito\nSonna no joushiki\ntattatararira\nPiihyara piihyara pappaparapa\nPiihyara piihyara pappaparapa\nPiihyara piihyara oheso ga chirari\nTattatararira\nPiihyara piihyara pappaparapa\nPiihyara piihyara odoru ponpokorin\nPiihyara pii onaka ga hetta yo\nPiihyara piihyara pappaparapa\nPiihyara piihyara odoru ponpokorin\nPiihyara pii onaka ga hetta yo\n#ado #chibimarukochan #refisikulyrics"
+          },
+          "defaultAudioLanguage": "id"
+        },
+        "statistics": {
+          "viewCount": "2",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        },
+        "contentDetails": {
+          "duration": "PT3M10S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "eeR-KK_X4Ew",
+        "snippet": {
+          "publishedAt": "2025-12-31T13:23:40Z",
+          "channelId": "UCKK2wSSwF2G3t7cXAkID0bw",
+          "title": "I react to Ado´s new Opening Song: \"Odoru Ponpokorin” - Ado 💙🔥 I Reaction - Part 2 #odoruponpokorin",
+          "description": "I react to Ado´s new Opening Song: \"Odoru Ponpokorin” - Ado 💙🔥 I Reaction - Part 2\n#ado #odoruponpokorin  #adosong  #reaction #fyp",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eeR-KK_X4Ew/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eeR-KK_X4Ew/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eeR-KK_X4Ew/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/eeR-KK_X4Ew/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/eeR-KK_X4Ew/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Lordicem",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "I react to Ado´s new Opening Song: \"Odoru Ponpokorin” - Ado 💙🔥 I Reaction - Part 2 #odoruponpokorin",
+            "description": "I react to Ado´s new Opening Song: \"Odoru Ponpokorin” - Ado 💙🔥 I Reaction - Part 2\n#ado #odoruponpokorin  #adosong  #reaction #fyp"
+          },
+          "defaultAudioLanguage": "de"
+        },
+        "statistics": {
+          "viewCount": "1487",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        },
+        "contentDetails": {
+          "duration": "PT1M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "CE-82llq4HU",
+        "snippet": {
+          "publishedAt": "2025-12-31T10:09:31Z",
+          "channelId": "UCI-pgUY2UTpd9FPm3ZmVXZg",
+          "title": "Odoru ponpokorin cover #lipsync #jpopメドレー #cover #ytshorts ",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CE-82llq4HU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CE-82llq4HU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CE-82llq4HU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/CE-82llq4HU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Lolaさん ",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "Odoru ponpokorin cover #lipsync #jpopメドレー #cover #ytshorts ",
+            "description": ""
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "203",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        },
+        "contentDetails": {
+          "duration": "PT47S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "N-GlaFbZj6E",
+        "snippet": {
+          "publishedAt": "2025-12-31T09:07:33Z",
+          "channelId": "UCpLnGoMIS9oqwT6SD9ai16g",
+          "title": "[J-Pop] - Ado - Odoru Ponpokorin [Monstercat Remake]",
+          "description": "ts actually fire fr\nalso happy new year everyone\n\nWe're music promotion channel. We're not affiliated with Monstercat in anyway.\n\nStream/Download: https://ado.lnk.to/ponpokorin\n\nGenre: #jpop\n\nFollow Monstercat:\n• https://monster.cat/2biZbkd\n• https://apple.co/2xiKWTO\n• https://facebook.com/monstercat\n• https://twitter.com/monstercat\n• https://instagram.com/monstercat\n• https://tiktok.com/@monstercat\n\nFollow Ado:\n• https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl\n• https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA\n• https://twitter.com/ado1024imokenp\n• https://www.instagram.com/ado_staff_official\n\nFor copyright issue, please email us:\nvietgamerytbusiness@gmail.com\n\nFollow our main channel: https://youtube.com/c/VietGamerYT",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/N-GlaFbZj6E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/N-GlaFbZj6E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/N-GlaFbZj6E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/N-GlaFbZj6E/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/N-GlaFbZj6E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "VGMCL",
+          "tags": [
+            "monstercat remake",
+            "VGMCL",
+            "ado",
+            "Ado odoru ponpokorin"
+          ],
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "[J-Pop] - Ado - Odoru Ponpokorin [Monstercat Remake]",
+            "description": "ts actually fire fr\nalso happy new year everyone\n\nWe're music promotion channel. We're not affiliated with Monstercat in anyway.\n\nStream/Download: https://ado.lnk.to/ponpokorin\n\nGenre: #jpop\n\nFollow Monstercat:\n• https://monster.cat/2biZbkd\n• https://apple.co/2xiKWTO\n• https://facebook.com/monstercat\n• https://twitter.com/monstercat\n• https://instagram.com/monstercat\n• https://tiktok.com/@monstercat\n\nFollow Ado:\n• https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl\n• https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA\n• https://twitter.com/ado1024imokenp\n• https://www.instagram.com/ado_staff_official\n\nFor copyright issue, please email us:\nvietgamerytbusiness@gmail.com\n\nFollow our main channel: https://youtube.com/c/VietGamerYT"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+          "viewCount": "4",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        },
+        "contentDetails": {
+          "duration": "PT3M15S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "6B_L_E3npo8",
+        "snippet": {
+          "publishedAt": "2025-12-31T03:59:11Z",
+          "channelId": "UCEbxmyea-jGFS3169sR9qng",
+          "title": "Chibi Maruko-chan - Opening FULL『Odoru Ponpokorin』by Ado (Lyrics)",
+          "description": "Chibi Maruko-chan - Opening FULL『Odoru Ponpokorin』by Ado (Lyrics)\n\n🎀Original Title: おどるポンポコリン / Odoru Ponpokorin\n🎀Artist: Ado\n🎀Release: 2025.12.29\n🎀Tie-in: (Anime) Chibi Maruko-chan / ちびまる子ちゃん\n🎀Lyricist: さくらももこ\n🎀Composer: Tetsuro Oda\n🎀Arranger: Hyadain\n\nAll Rights Administered by original artist.\n\nI do not own the music, photos and lyrics.\nNo copyright infringement intended.\n\nThis is made for entertainment purpose only.\n\n❤️Thanks for watching!\n❤️Sorry for any mistakes!\n❤️Don't forget to LIKE, COMMENT and SUBSCRIBE!\n\n---------------------------------------------------------------------------------- \n\nCopyright Info: Be aware this channel is only for promotion purpose. All music belongs to the original creators.\n \n#chibimarukochan #ado #odoruponpokorin #ちびまる子ちゃん #おどるポンポコリン #anime #opening #lyrics",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6B_L_E3npo8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6B_L_E3npo8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6B_L_E3npo8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6B_L_E3npo8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/6B_L_E3npo8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "AYANO",
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "Chibi Maruko-chan - Opening FULL『Odoru Ponpokorin』by Ado (Lyrics)",
+            "description": "Chibi Maruko-chan - Opening FULL『Odoru Ponpokorin』by Ado (Lyrics)\n\n🎀Original Title: おどるポンポコリン / Odoru Ponpokorin\n🎀Artist: Ado\n🎀Release: 2025.12.29\n🎀Tie-in: (Anime) Chibi Maruko-chan / ちびまる子ちゃん\n🎀Lyricist: さくらももこ\n🎀Composer: Tetsuro Oda\n🎀Arranger: Hyadain\n\nAll Rights Administered by original artist.\n\nI do not own the music, photos and lyrics.\nNo copyright infringement intended.\n\nThis is made for entertainment purpose only.\n\n❤️Thanks for watching!\n❤️Sorry for any mistakes!\n❤️Don't forget to LIKE, COMMENT and SUBSCRIBE!\n\n---------------------------------------------------------------------------------- \n\nCopyright Info: Be aware this channel is only for promotion purpose. All music belongs to the original creators.\n \n#chibimarukochan #ado #odoruponpokorin #ちびまる子ちゃん #おどるポンポコリン #anime #opening #lyrics"
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "2276",
+          "likeCount": "87",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        },
+        "contentDetails": {
+          "duration": "PT3M15S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "Y1L3C0lNj3E",
+        "snippet": {
+          "publishedAt": "2025-12-31T02:44:38Z",
+          "channelId": "UCUSw1eUKyw8BWLcsIsSpUkw",
+          "title": "Ado - Odoru Ponpokorin (Nightcore/Sped Up) ",
+          "description": "Ado — おどるポンポコリン (Nightcore/Sped Up)\n\nChibi Maruko Chan new opening song\n\nJoin my discord server (I'll mostly post about my Minecraft pack's progress but everyone is welcomed)\nhttps://discord.gg/wuMSPm2q\n\nLYRICS\n\nJap:\nなんでもかんでも　みんな\nおどりをおどっているよ\nおなべの中から　ボワっと\nインチキおじさん　登場\nいつだって　わすれない\nエジソンは　えらい人\nそんなの常識　タッタタラリラ\nピーヒャラ　ピーヒャラ　パッパパラパ\nピーヒャラ　ピーヒャラ　パッパパラパ\nピーヒャラ　ピーヒャラ　おへそがちらり\nタッタタラリラ\nピーヒャラ　ピーヒャラ　パッパパラパ\nピーヒャラ　ピーヒゃラ　おどるポンポコリン\nピーヒャラ　ピ　お腹がへったよ\nあの子も　この子も　みんな\nいそいで　歩いているよ\nでんしんばしらの　かげから\nお笑い芸人　登場\nいつだって　迷わない\nキヨスクは　駅の中\nそんなの有名　タッタタラリラ\nピーヒャラ　ピーヒャラ　パッパパラパ\nピーヒャラ　ピーヒャラ　パッパパラパ\nピーヒャラ　ピーヒャラ　ニンジンいらない\nタッタタラリラ\nピーヒャラ　ピーヒャラ　パッパパラパ\nピーヒャラ　ピーヒャラ　おどるポンポコリン\nピーヒャラ　ピ　ブタのプータロー\nいつだって　わすれない\nエジソンは　えらい人\nそんなの常識　タッタタラリラ\nピーヒャラ　ピーヒャラ　パッパパラパ\nピーヒャラ　ピーヒャラ　パッパパラパ\nピーヒャラ　ピーヒャラ　おへそがちらり\nタッタタラリラ\nピーヒャラ　ピーヒャラ　パッパパラパ\nピーヒャラ　ピーヒャラ　おどるポンポコリン\nピーヒャラ　ピ　お腹がへったよ\n\nRom:\nNandemo kandemo minna\nOdori wo odotteiru yo\nOnabe no naka kara bowatto\nInchiki ojisan toujou\n\nItsudatte wasurenai\nEdison wa erai hito\nSonna no joushiki tattatararira\n\nPiihyara piihyara pappaparapa\nPiihyara piihyara pappaparapa\nPiihyara piihyara oheso ga chirari\nTattatararira\n\nPiihyara piihyara pappaparapa\nPiihyara piihyara odoru ponpokorin\nPiihyara pi onaka ga hetta yo\n\nAno ko mo kono ko mo minna\nIsoide aruiteiru yo\nDenshinbashira no kage kara\nOwarai geinin toujou\n\nItsudatte mayowanai\nKiyosuku wa eki no naka\nSonna no yuumei tattatararira\n\nPiihyara piihyara pappaparapa\nPiihyara piihyara pappaparapa\nPiihyara piihyara ninjin iranai\nTattatararira\n\nPiihyara piihyara pappaparapa\nPiihyara piihyara odoru ponpokorin\nPiihyara pi buta no puutarou\n\nItsudatte wasurenai\nEdison wa erai hito\nSonna no joushiki tattatararira\n\nPiihyara piihyara pappaparapa\nPiihyara piihyara pappaparapa\nPiihyara piihyara oheso ga chirari\nTattatararira\n\nPiihyara piihyara pappaparapa\nPiihyara piihyara odoru ponpokorin\nPiihyara pi onaka ga hetta yo",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Y1L3C0lNj3E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Y1L3C0lNj3E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Y1L3C0lNj3E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Y1L3C0lNj3E/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Y1L3C0lNj3E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "FrostAlphɑ",
+          "categoryId": "20",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "Ado - Odoru Ponpokorin (Nightcore/Sped Up) ",
+            "description": "Ado — おどるポンポコリン (Nightcore/Sped Up)\n\nChibi Maruko Chan new opening song\n\nJoin my discord server (I'll mostly post about my Minecraft pack's progress but everyone is welcomed)\nhttps://discord.gg/wuMSPm2q\n\nLYRICS\n\nJap:\nなんでもかんでも　みんな\nおどりをおどっているよ\nおなべの中から　ボワっと\nインチキおじさん　登場\nいつだって　わすれない\nエジソンは　えらい人\nそんなの常識　タッタタラリラ\nピーヒャラ　ピーヒャラ　パッパパラパ\nピーヒャラ　ピーヒャラ　パッパパラパ\nピーヒャラ　ピーヒャラ　おへそがちらり\nタッタタラリラ\nピーヒャラ　ピーヒャラ　パッパパラパ\nピーヒャラ　ピーヒゃラ　おどるポンポコリン\nピーヒャラ　ピ　お腹がへったよ\nあの子も　この子も　みんな\nいそいで　歩いているよ\nでんしんばしらの　かげから\nお笑い芸人　登場\nいつだって　迷わない\nキヨスクは　駅の中\nそんなの有名　タッタタラリラ\nピーヒャラ　ピーヒャラ　パッパパラパ\nピーヒャラ　ピーヒャラ　パッパパラパ\nピーヒャラ　ピーヒャラ　ニンジンいらない\nタッタタラリラ\nピーヒャラ　ピーヒャラ　パッパパラパ\nピーヒャラ　ピーヒャラ　おどるポンポコリン\nピーヒャラ　ピ　ブタのプータロー\nいつだって　わすれない\nエジソンは　えらい人\nそんなの常識　タッタタラリラ\nピーヒャラ　ピーヒャラ　パッパパラパ\nピーヒャラ　ピーヒャラ　パッパパラパ\nピーヒャラ　ピーヒャラ　おへそがちらり\nタッタタラリラ\nピーヒャラ　ピーヒャラ　パッパパラパ\nピーヒャラ　ピーヒャラ　おどるポンポコリン\nピーヒャラ　ピ　お腹がへったよ\n\nRom:\nNandemo kandemo minna\nOdori wo odotteiru yo\nOnabe no naka kara bowatto\nInchiki ojisan toujou\n\nItsudatte wasurenai\nEdison wa erai hito\nSonna no joushiki tattatararira\n\nPiihyara piihyara pappaparapa\nPiihyara piihyara pappaparapa\nPiihyara piihyara oheso ga chirari\nTattatararira\n\nPiihyara piihyara pappaparapa\nPiihyara piihyara odoru ponpokorin\nPiihyara pi onaka ga hetta yo\n\nAno ko mo kono ko mo minna\nIsoide aruiteiru yo\nDenshinbashira no kage kara\nOwarai geinin toujou\n\nItsudatte mayowanai\nKiyosuku wa eki no naka\nSonna no yuumei tattatararira\n\nPiihyara piihyara pappaparapa\nPiihyara piihyara pappaparapa\nPiihyara piihyara ninjin iranai\nTattatararira\n\nPiihyara piihyara pappaparapa\nPiihyara piihyara odoru ponpokorin\nPiihyara pi buta no puutarou\n\nItsudatte wasurenai\nEdison wa erai hito\nSonna no joushiki tattatararira\n\nPiihyara piihyara pappaparapa\nPiihyara piihyara pappaparapa\nPiihyara piihyara oheso ga chirari\nTattatararira\n\nPiihyara piihyara pappaparapa\nPiihyara piihyara odoru ponpokorin\nPiihyara pi onaka ga hetta yo"
+          },
+          "defaultAudioLanguage": "ms"
+        },
+        "statistics": {
+          "viewCount": "159",
+          "likeCount": "6",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        },
+        "contentDetails": {
+          "duration": "PT2M59S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "umO3hGm7P9U",
+        "snippet": {
+          "publishedAt": "2025-12-31T01:49:41Z",
+          "channelId": "UCTghAXxoqjRX59f3HPhkHXg",
+          "title": "Ado Odoru Ponpokorin Cover en Español? METAL COVER by stañorlfg x SMILING preview",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/umO3hGm7P9U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/umO3hGm7P9U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/umO3hGm7P9U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/umO3hGm7P9U/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/umO3hGm7P9U/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "STAÑO Rlfg x SMILING",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "es",
+          "localized": {
+            "title": "Ado Odoru Ponpokorin Cover en Español? METAL COVER by stañorlfg x SMILING preview",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+          "viewCount": "40",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        },
+        "contentDetails": {
+          "duration": "PT29S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "NfVswHsHPL8",
+        "snippet": {
+          "publishedAt": "2025-12-31T00:20:09Z",
+          "channelId": "UClrfEGFqoR3555389GBlvjg",
+          "title": "Adoとまる子の描き方 #落書き #一発描き #drawing #ちびまる子ちゃん #chibimarukochan #ado #おどるポンポコリン",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NfVswHsHPL8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NfVswHsHPL8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NfVswHsHPL8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/NfVswHsHPL8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/NfVswHsHPL8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "あいつのちゃんねる",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "Adoとまる子の描き方 #落書き #一発描き #drawing #ちびまる子ちゃん #chibimarukochan #ado #おどるポンポコリン",
+            "description": ""
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "1825",
+          "likeCount": "28",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        },
+        "contentDetails": {
+          "duration": "PT41S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "hSIXNE9L0Vk",
+        "snippet": {
+          "publishedAt": "2025-12-30T21:11:59Z",
+          "channelId": "UCmM6mHRRGDROaEZPJj0IBIw",
+          "title": "✧ ╏ ｢Odoru Ponpokorin / おどるポンポコリン｣ Ado × Chibi Maruko-chan 🌀🌹 |  HER VOICE IS SO PEAAAK 💙",
+          "description": "| https://www.twitch.tv/t0mzk\n\n#deadasdisco #rhythmgame #ado  #chibimarukochan  #op  #ちびまる子ちゃん #anime #t0mzk #fyp",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hSIXNE9L0Vk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hSIXNE9L0Vk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hSIXNE9L0Vk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/hSIXNE9L0Vk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/hSIXNE9L0Vk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "t0mz",
+          "tags": [
+            "Twitch",
+            "Gaming",
+            "VOD",
+            "Streamer",
+            "Streaming",
+            "Stream",
+            "Live",
+            "LetsPlay",
+            "Gameplay",
+            "Games",
+            "PC",
+            "Keymailer",
+            "Steam",
+            "Deadasdisco",
+            "earlyaccess",
+            "t0mzk",
+            "playtest",
+            "Dead as Disco",
+            "rhythmgame",
+            "NEW SONG",
+            "Odoru Ponpokorin",
+            "おどるポンポコリン",
+            "Ado",
+            "Chibi Maruko-chan",
+            "ちびまる子ちゃん",
+            "anime",
+            "opening",
+            "adomination"
+          ],
+          "categoryId": "20",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "✧ ╏ ｢Odoru Ponpokorin / おどるポンポコリン｣ Ado × Chibi Maruko-chan 🌀🌹 |  HER VOICE IS SO PEAAAK 💙",
+            "description": "| https://www.twitch.tv/t0mzk\n\n#deadasdisco #rhythmgame #ado  #chibimarukochan  #op  #ちびまる子ちゃん #anime #t0mzk #fyp"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+          "viewCount": "2234",
+          "likeCount": "38",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        },
+        "contentDetails": {
+          "duration": "PT35S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "FhlCQEwVJts",
+        "snippet": {
+          "publishedAt": "2025-12-30T15:54:39Z",
+          "channelId": "UCyiB0DZ7zuJQQnsRJclVnOw",
+          "title": "Ado「おどるポンポコリン」(Odoru Ponpokorin) Acapella clean with lyrics(Kan/Rom/Eng)",
+          "description": "#acapella #acapellamusic #acapellasongs #ado \n\n\n\n\nThanks for watching! \nDon't forget to Like on video ,Share it and Comment also don't forget to SUBSCRIBE for more acapella! \nSorry if there are issues or mistakes",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FhlCQEwVJts/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FhlCQEwVJts/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FhlCQEwVJts/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/FhlCQEwVJts/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/FhlCQEwVJts/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hmmm ☆",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Ado「おどるポンポコリン」(Odoru Ponpokorin) Acapella clean with lyrics(Kan/Rom/Eng)",
+            "description": "#acapella #acapellamusic #acapellasongs #ado \n\n\n\n\nThanks for watching! \nDon't forget to Like on video ,Share it and Comment also don't forget to SUBSCRIBE for more acapella! \nSorry if there are issues or mistakes"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+          "viewCount": "641",
+          "likeCount": "25",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        },
+        "contentDetails": {
+          "duration": "PT3M2S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "vJkUMTO3iJ0",
+        "snippet": {
+          "publishedAt": "2025-12-30T13:32:42Z",
+          "channelId": "UCKK2wSSwF2G3t7cXAkID0bw",
+          "title": "I react to Ado´s new Opening Song: \"Odoru Ponpokorin” - Ado 💙🔥 I Reaction - Part 1 #ado",
+          "description": "I react to Ado´s new Opening Song: \"Odoru Ponpokorin” - Ado 💙🔥 I Reaction - Part 1\n#ado #odoruponpokorin  #adosong  #reaction #fyp",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vJkUMTO3iJ0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vJkUMTO3iJ0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vJkUMTO3iJ0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vJkUMTO3iJ0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vJkUMTO3iJ0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Lordicem",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "I react to Ado´s new Opening Song: \"Odoru Ponpokorin” - Ado 💙🔥 I Reaction - Part 1 #ado",
+            "description": "I react to Ado´s new Opening Song: \"Odoru Ponpokorin” - Ado 💙🔥 I Reaction - Part 1\n#ado #odoruponpokorin  #adosong  #reaction #fyp"
+          },
+          "defaultAudioLanguage": "de"
+        },
+        "statistics": {
+          "viewCount": "365",
+          "likeCount": "9",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        },
+        "contentDetails": {
+          "duration": "PT1M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "HzfV7cyxNuw",
+        "snippet": {
+          "publishedAt": "2025-12-30T09:27:35Z",
+          "channelId": "UCydvGcIaE1F7eVD329W8DYg",
+          "title": "[No Audio] Chibi Maruko-Chan OP (Ado) - Odoru Ponpokorin (Cover) | YARG / CH / GH3",
+          "description": "[song]\nname = Odoru Ponpokorin (Cover)\nartist = Ado\nalbum = Chibi Maruko-Chan OP\ngenre = J-Pop\nyear = 2025\n======================================================\nUpdate Custom Highway's Transparent & Game Icon : http://www.mediafire.com/file/v3vv7c1iq89stor/%5BUpdate%5D+Custom+Highway+Transparent+%26+Game+Icon.rar\n\n- Black Highway\n- Black Transparent Highway\n- Black Transparent Rainbow Lines 1 Highway\n- Black Transparent Rainbow Lines 2 Highway\n- Black Transparent Rainbow Lines 3 Highway\n- Rainbow Lines 1 Highway\n- Rainbow Lines 2 Highway\n- Rainbow Lines 3 Highway\n- White Transparent Highway\n- White Transparent Rainbow Lines 1 Highway\n- White Transparent Rainbow Lines 2 Highway\n- White Transparent Rainbow Lines 3 Highway\nPlease, extract file .rar to folder Clone Hero\n\naudio + chart : https://www.mediafire.com/file/qhnwmqojz21auiy/Ado+-+Odoru+Ponpokorin+(Cover).rar/file\n\nyg mau donasi / saweran, monggo klik link : https://saweria.co/AnankrinPrime\nyg mau request bikin chart custom song, monggo bisa order di akun discord A K#7550 atau ke sosmed lainnya seperti FB & IG\n(ingat ya request bikin chart sekarang ga gratis)\n\nMy Chart's = \nMediafire : https://www.mediafire.com/folder/316481bcjk2r4/Guitar_Hero_chart\nGoogle Drive : https://drive.google.com/drive/folders/1LNZp0Nhpk50AGTmeSx2vHX1q3iQZylEO?usp=drive_link\n\nMy Chart's Commission =\nGoogle Drive : -\n======================================================\nMy Facebook : http://www.facebook.com/anank94\nMy Instagram : http://instagram.com/anankrin\n======================================================\nMau Clone Hero ?\nspek pas2an bisa main clone hero dengan lancar & banyak fitur kek kaya RB & GHL terbaru\nbisa windows, bisa juga di linux ...\ndownload : https://www.youtube.com/channel/UCc3IfdqGZjhdgQbi_EpfuYg\n=================================================\nMau Guitar Hero 3 mod Anime 2021?\ntengok video sebelumnya yang saya kirim \ndownload : https://youtu.be/CrmBpglDHXk\n\nI don't own anything ! All rights belong to their respective owner.\n\"Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing.\"\n#CloneHero #ado",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HzfV7cyxNuw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HzfV7cyxNuw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HzfV7cyxNuw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/HzfV7cyxNuw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/HzfV7cyxNuw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Anankrin Prime",
+          "tags": [
+            "clone",
+            "hero",
+            "clone hero",
+            "guitar",
+            "guitar hero",
+            "anime",
+            "ado",
+            "Chibi Maruko-Chan",
+            "Odoru Ponpokorin"
+          ],
+          "categoryId": "20",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "id",
+          "localized": {
+            "title": "[No Audio] Chibi Maruko-Chan OP (Ado) - Odoru Ponpokorin (Cover) | YARG / CH / GH3",
+            "description": "[song]\nname = Odoru Ponpokorin (Cover)\nartist = Ado\nalbum = Chibi Maruko-Chan OP\ngenre = J-Pop\nyear = 2025\n======================================================\nUpdate Custom Highway's Transparent & Game Icon : http://www.mediafire.com/file/v3vv7c1iq89stor/%5BUpdate%5D+Custom+Highway+Transparent+%26+Game+Icon.rar\n\n- Black Highway\n- Black Transparent Highway\n- Black Transparent Rainbow Lines 1 Highway\n- Black Transparent Rainbow Lines 2 Highway\n- Black Transparent Rainbow Lines 3 Highway\n- Rainbow Lines 1 Highway\n- Rainbow Lines 2 Highway\n- Rainbow Lines 3 Highway\n- White Transparent Highway\n- White Transparent Rainbow Lines 1 Highway\n- White Transparent Rainbow Lines 2 Highway\n- White Transparent Rainbow Lines 3 Highway\nPlease, extract file .rar to folder Clone Hero\n\naudio + chart : https://www.mediafire.com/file/qhnwmqojz21auiy/Ado+-+Odoru+Ponpokorin+(Cover).rar/file\n\nyg mau donasi / saweran, monggo klik link : https://saweria.co/AnankrinPrime\nyg mau request bikin chart custom song, monggo bisa order di akun discord A K#7550 atau ke sosmed lainnya seperti FB & IG\n(ingat ya request bikin chart sekarang ga gratis)\n\nMy Chart's = \nMediafire : https://www.mediafire.com/folder/316481bcjk2r4/Guitar_Hero_chart\nGoogle Drive : https://drive.google.com/drive/folders/1LNZp0Nhpk50AGTmeSx2vHX1q3iQZylEO?usp=drive_link\n\nMy Chart's Commission =\nGoogle Drive : -\n======================================================\nMy Facebook : http://www.facebook.com/anank94\nMy Instagram : http://instagram.com/anankrin\n======================================================\nMau Clone Hero ?\nspek pas2an bisa main clone hero dengan lancar & banyak fitur kek kaya RB & GHL terbaru\nbisa windows, bisa juga di linux ...\ndownload : https://www.youtube.com/channel/UCc3IfdqGZjhdgQbi_EpfuYg\n=================================================\nMau Guitar Hero 3 mod Anime 2021?\ntengok video sebelumnya yang saya kirim \ndownload : https://youtu.be/CrmBpglDHXk\n\nI don't own anything ! All rights belong to their respective owner.\n\"Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing.\"\n#CloneHero #ado"
+          },
+          "defaultAudioLanguage": "id"
+        },
+        "statistics": {
+          "viewCount": "435",
+          "likeCount": "5",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        },
+        "contentDetails": {
+          "duration": "PT3M12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "V7iF9klNxac",
+        "snippet": {
+          "publishedAt": "2025-12-29T11:49:59Z",
+          "channelId": "UCI8yRbzwpLalvDwPQEBHkGg",
+          "title": "祝 Ado Odoru Ponpokorin　#Ado #ちびまる子ちゃん #踊るぽんぽこりん #sora2",
+          "description": "この曲大好き！　#Ado #ちびまる子ちゃん #踊るぽんぽこりん #sora2",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/V7iF9klNxac/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/V7iF9klNxac/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/V7iF9klNxac/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/V7iF9klNxac/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/V7iF9klNxac/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "まいまい",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "祝 Ado Odoru Ponpokorin　#Ado #ちびまる子ちゃん #踊るぽんぽこりん #sora2",
+            "description": "この曲大好き！　#Ado #ちびまる子ちゃん #踊るぽんぽこりん #sora2"
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "30352",
+          "likeCount": "387",
+          "favoriteCount": "0",
+          "commentCount": "12"
+        },
+        "contentDetails": {
+          "duration": "PT16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "CndeT9updlU",
+        "snippet": {
+          "publishedAt": "2025-12-29T11:20:04Z",
+          "channelId": "UC6wNu9ujeXs-f-DVPgBK4Kw",
+          "title": "2025年に自作したガジェット2選#自作PC #白PC #照明 #ゲーム #アニメ #購入品紹介 #買ってよかった #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CndeT9updlU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CndeT9updlU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CndeT9updlU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/CndeT9updlU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/CndeT9updlU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "あやぼう / ゆるデジタルライフ",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "2025年に自作したガジェット2選#自作PC #白PC #照明 #ゲーム #アニメ #購入品紹介 #買ってよかった #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "36086",
+          "likeCount": "323",
+          "favoriteCount": "0",
+          "commentCount": "30"
+        },
+        "contentDetails": {
+          "duration": "PT37S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "m644XuRjPUc",
+        "snippet": {
+          "publishedAt": "2025-12-29T09:30:26Z",
+          "channelId": "UCu0YyWbdHVJoiusR4ZWsAdA",
+          "title": "『 Chibi Maruko-chan 』- Opening FULL \" Odoru Ponpokorin \" by Ado (Lyrics)",
+          "description": "Anime：Chibi Maruko-chan　ちびまる子ちゃん\nSong：Odoru Ponpokorin　おどるポンポコリン\nArtist：Ado\n\n\n\n\n\nご視聴ありがとうございます。\nもし良かったら、イイね！＆チャンネル登録してもらえますと嬉しいです。\nどうか宜しくお願いいたします。\n\n\n※英語はできませんので、英語訳の歌詞はありません。（本当にごめんなさい）\nSorry, I don’t speak English, so there is no English translation of the lyrics. (I’m really sorry!)\n\n\nThank you for watching.\nPlease subscribe to my channel.\nYour subscription and Like would be encouraging.\n(make me happy!!!)\n\nNo copyright infringement intended / Don't reupload \nPlease forgive me if there are any mistakes in the lyrics.\nThis is made for entertainment purpose only.\n\n\n\n★YouTube MV：https://www.youtube.com/watch?v=NB94LKrLEt4",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/m644XuRjPUc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/m644XuRjPUc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/m644XuRjPUc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/m644XuRjPUc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/m644XuRjPUc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Anime Song-JP",
+          "tags": [
+            "#おどるポンポコリン",
+            "#Ado",
+            "#アド",
+            "#Odoru Pompokolin",
+            "#Odoru Ponpokorin",
+            "#B.B.Queens",
+            "#ちびまる子ちゃん",
+            "#櫻桃小丸子",
+            "#ちびまるこちゃん",
+            "#さくらももこ",
+            "#마루코는 아홉살",
+            "#Chibi Maruko-chan",
+            "#Momoko Sakura",
+            "#Little Maruko-chan",
+            "#หนูน้อยจอมซ่า มารุโกะจัง",
+            "#La pequeña Maruko-chan",
+            "#animesong",
+            "#anime",
+            "#song",
+            "#anisong",
+            "#Lyrics",
+            "#TV anime",
+            "#主題歌",
+            "#主題曲",
+            "#動畫",
+            "#羅馬拼音",
+            "#anime song lyrics",
+            "#new japanese song",
+            "#japanese songs with lyrics",
+            "#日本",
+            "#New Anime",
+            "#japanese song romaji lyrics",
+            "#japanese hit songs",
+            "#Opening",
+            "#Theme Song",
+            "#歌詞",
+            "#テーマソング",
+            "#片頭曲",
+            "#片尾曲"
+          ],
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "『 Chibi Maruko-chan 』- Opening FULL \" Odoru Ponpokorin \" by Ado (Lyrics)",
+            "description": "Anime：Chibi Maruko-chan　ちびまる子ちゃん\nSong：Odoru Ponpokorin　おどるポンポコリン\nArtist：Ado\n\n\n\n\n\nご視聴ありがとうございます。\nもし良かったら、イイね！＆チャンネル登録してもらえますと嬉しいです。\nどうか宜しくお願いいたします。\n\n\n※英語はできませんので、英語訳の歌詞はありません。（本当にごめんなさい）\nSorry, I don’t speak English, so there is no English translation of the lyrics. (I’m really sorry!)\n\n\nThank you for watching.\nPlease subscribe to my channel.\nYour subscription and Like would be encouraging.\n(make me happy!!!)\n\nNo copyright infringement intended / Don't reupload \nPlease forgive me if there are any mistakes in the lyrics.\nThis is made for entertainment purpose only.\n\n\n\n★YouTube MV：https://www.youtube.com/watch?v=NB94LKrLEt4"
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "4608",
+          "likeCount": "73",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        },
+        "contentDetails": {
+          "duration": "PT3M11S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "JuLQxXE3hyM",
+        "snippet": {
+          "publishedAt": "2025-12-29T04:40:28Z",
+          "channelId": "UCin2_NyfBYmSqELot2LeVhw",
+          "title": "ちびまる子ちゃんOP (Odoru Ponpokorin) x Será Por Qué Te Amo  -【Ado】x Ricchi E Poveri (Mashup)",
+          "description": "Notes:\nEnglish:\nSomebody said both songs sound similar, so I had to cook.\n\nEspañol:\nAlgún csm de un grupo de feisbuk dijo que se parecían así que me puse en chinga a hacer esta webada.\n\n日本語:\n申し訳ありません。日本語がわからないので、Google翻訳を使いました。この音楽ミックスを楽しんでいただければ幸いです。\n\nSongs:\n\nAdo -  ちびまる子ちゃんOP (Odoru Ponpokorin) (Acapella\nRicchi E Poveri - Sera Porque Te Amo (Acapella & Instrumental)\n\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JuLQxXE3hyM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JuLQxXE3hyM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JuLQxXE3hyM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/JuLQxXE3hyM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/JuLQxXE3hyM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Alguien Sasaki: The Musical",
+          "tags": [
+            "post malone mashup",
+            "circles",
+            "circles mashup",
+            "circles post malone mashup",
+            "post malone circles",
+            "mashup",
+            "Ado",
+            "ado mashup",
+            "value",
+            "value mashup",
+            "ado value",
+            "ado value mashup",
+            "value ado mashup",
+            "zanmu",
+            "zanmu ado",
+            "zanmu ado mashup",
+            "rammstein",
+            "rammstein mashup",
+            "engen",
+            "engel",
+            "engel mashup",
+            "engel rammstein",
+            "engel rammstein mashup",
+            "rammstein engel",
+            "rammstein engel mashup",
+            "rockstar",
+            "rockstar ado",
+            "ado rockstar",
+            "rockstar mashup",
+            "ado rockstar mashup",
+            "rockstar ado mashup",
+            "ado best adobum"
+          ],
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "es",
+          "localized": {
+            "title": "ちびまる子ちゃんOP (Odoru Ponpokorin) x Será Por Qué Te Amo  -【Ado】x Ricchi E Poveri (Mashup)",
+            "description": "Notes:\nEnglish:\nSomebody said both songs sound similar, so I had to cook.\n\nEspañol:\nAlgún csm de un grupo de feisbuk dijo que se parecían así que me puse en chinga a hacer esta webada.\n\n日本語:\n申し訳ありません。日本語がわからないので、Google翻訳を使いました。この音楽ミックスを楽しんでいただければ幸いです。\n\nSongs:\n\nAdo -  ちびまる子ちゃんOP (Odoru Ponpokorin) (Acapella\nRicchi E Poveri - Sera Porque Te Amo (Acapella & Instrumental)\n\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "statistics": {
+          "viewCount": "71",
+          "likeCount": "9",
+          "favoriteCount": "0",
+          "commentCount": "8"
+        },
+        "contentDetails": {
+          "duration": "PT2M43S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "regionRestriction": {
+            "blocked": [
+              "AS",
+              "PR",
+              "UM",
+              "US"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "u-nJLW-gdl8",
+        "snippet": {
+          "publishedAt": "2025-12-29T03:42:25Z",
+          "channelId": "UCiHAHSaigvHHH4ax5V5JHWQ",
+          "title": "おどるポンポコリンで世代がバレるw #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/u-nJLW-gdl8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/u-nJLW-gdl8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/u-nJLW-gdl8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/u-nJLW-gdl8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/u-nJLW-gdl8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "アニメ同人アーカイブ",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "おどるポンポコリンで世代がバレるw #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "135821",
+          "likeCount": "1085",
+          "favoriteCount": "0",
+          "commentCount": "111"
+        },
+        "contentDetails": {
+          "duration": "PT7S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "TcLtG9ojWVA",
+        "snippet": {
+          "publishedAt": "2025-12-28T22:00:35Z",
+          "channelId": "UCyvM1PU9dQVvgo9bofVrnig",
+          "title": "【#ちびまる子ちゃん】おどるポンポコリン/Ado  #踊ってみた #Ado",
+          "description": "https://www.youtube.com/watch?v=NB94LKrLEt4\nOdoru Ponpokorin - YouTube",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TcLtG9ojWVA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TcLtG9ojWVA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TcLtG9ojWVA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/TcLtG9ojWVA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/TcLtG9ojWVA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ごーるど🌊メタバースソーラン【SORAN.3650】",
+          "tags": [
+            "まめひなた",
+            "踊ってみた",
+            "VRChat",
+            "Dance",
+            "フルトラ",
+            "フルトラッキング",
+            "ちびまる子ちゃん",
+            "ちびまる子",
+            "ADO",
+            "OP",
+            "新OP"
+          ],
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "【#ちびまる子ちゃん】おどるポンポコリン/Ado  #踊ってみた #Ado",
+            "description": "https://www.youtube.com/watch?v=NB94LKrLEt4\nOdoru Ponpokorin - YouTube"
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "2087",
+          "likeCount": "52",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        },
+        "contentDetails": {
+          "duration": "PT16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "EY3QKPqT4Io",
+        "snippet": {
+          "publishedAt": "2025-12-28T17:23:00Z",
+          "channelId": "UCKh1sxUpOa5ks38EY2wlcVg",
+          "title": "Adoさんらしさ全開の｢おどるポンポコリン｣が本日リリース！#ado#ちびまる子ちゃん#shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/EY3QKPqT4Io/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/EY3QKPqT4Io/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/EY3QKPqT4Io/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/EY3QKPqT4Io/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/EY3QKPqT4Io/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "茶とら-chatora-",
+          "categoryId": "20",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "Adoさんらしさ全開の｢おどるポンポコリン｣が本日リリース！#ado#ちびまる子ちゃん#shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "18911",
+          "likeCount": "382",
+          "favoriteCount": "0",
+          "commentCount": "13"
+        },
+        "contentDetails": {
+          "duration": "PT16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "NB94LKrLEt4",
+        "snippet": {
+          "publishedAt": "2025-12-28T15:00:39Z",
+          "channelId": "UC5DHwv9N4OQ9AWtKr8YSefw",
+          "title": "Odoru Ponpokorin",
+          "description": "Provided to YouTube by Universal Music Group\n\nOdoru Ponpokorin · Ado\n\nOdoru Ponpokorin\n\n℗ 2025 UNIVERSAL MUSIC LLC\n\nReleased on: 2025-12-29\n\nVocalist: Ado\nRecordingarranger: Hyadain\nLyricist: Momoko Sakura\nComposer: Tetsuro Oda\n\nAuto-generated by YouTube.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NB94LKrLEt4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NB94LKrLEt4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NB94LKrLEt4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/NB94LKrLEt4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/NB94LKrLEt4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Ado - Topic",
+          "tags": [
+            "Ado",
+            "アド",
+            "Odoru Ponpokorin",
+            "オドルポンポコリン",
+            "おどるポンポコリン"
+          ],
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Odoru Ponpokorin",
+            "description": "Provided to YouTube by Universal Music Group\n\nOdoru Ponpokorin · Ado\n\nOdoru Ponpokorin\n\n℗ 2025 UNIVERSAL MUSIC LLC\n\nReleased on: 2025-12-29\n\nVocalist: Ado\nRecordingarranger: Hyadain\nLyricist: Momoko Sakura\nComposer: Tetsuro Oda\n\nAuto-generated by YouTube."
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "1003535",
+          "likeCount": "69203",
+          "favoriteCount": "0",
+          "commentCount": "2341"
+        },
+        "contentDetails": {
+          "duration": "PT3M15S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "allowed": [
+              "AE",
+              "AR",
+              "AS",
+              "AT",
+              "AU",
+              "AW",
+              "AZ",
+              "BA",
+              "BD",
+              "BE",
+              "BG",
+              "BH",
+              "BM",
+              "BO",
+              "BR",
+              "CA",
+              "CH",
+              "CL",
+              "CO",
+              "CR",
+              "CY",
+              "CZ",
+              "DE",
+              "DK",
+              "DO",
+              "DZ",
+              "EC",
+              "EE",
+              "EG",
+              "ES",
+              "FI",
+              "FR",
+              "GB",
+              "GE",
+              "GF",
+              "GH",
+              "GP",
+              "GR",
+              "GT",
+              "GU",
+              "HK",
+              "HN",
+              "HR",
+              "HU",
+              "ID",
+              "IE",
+              "IL",
+              "IN",
+              "IQ",
+              "IS",
+              "IT",
+              "JM",
+              "JO",
+              "JP",
+              "KE",
+              "KH",
+              "KR",
+              "KW",
+              "KY",
+              "KZ",
+              "LA",
+              "LB",
+              "LI",
+              "LK",
+              "LT",
+              "LU",
+              "LV",
+              "LY",
+              "MA",
+              "MK",
+              "MP",
+              "MQ",
+              "MT",
+              "MX",
+              "MY",
+              "NC",
+              "NG",
+              "NI",
+              "NL",
+              "NO",
+              "NP",
+              "NZ",
+              "OM",
+              "PA",
+              "PE",
+              "PF",
+              "PG",
+              "PH",
+              "PK",
+              "PL",
+              "PR",
+              "PT",
+              "PY",
+              "QA",
+              "RE",
+              "RO",
+              "RS",
+              "SA",
+              "SE",
+              "SG",
+              "SI",
+              "SK",
+              "SN",
+              "SV",
+              "TC",
+              "TH",
+              "TN",
+              "TR",
+              "TW",
+              "TZ",
+              "UA",
+              "UG",
+              "US",
+              "UY",
+              "VE",
+              "VI",
+              "VN",
+              "YE",
+              "YT",
+              "ZA",
+              "ZW"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "FekyB3vd7go",
+        "snippet": {
+          "publishedAt": "2025-12-28T12:32:15Z",
+          "channelId": "UCKh1sxUpOa5ks38EY2wlcVg",
+          "title": "Adoさん遂にちびまる子ちゃんの主題歌を担当｢おどるポンポコリン｣#ado#ちびまる子ちゃん#shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FekyB3vd7go/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FekyB3vd7go/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FekyB3vd7go/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/FekyB3vd7go/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/FekyB3vd7go/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "茶とら-chatora-",
+          "categoryId": "20",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "Adoさん遂にちびまる子ちゃんの主題歌を担当｢おどるポンポコリン｣#ado#ちびまる子ちゃん#shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "11974",
+          "likeCount": "135",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        },
+        "contentDetails": {
+          "duration": "PT14S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "VRzp45Gv3EQ",
+        "snippet": {
+          "publishedAt": "2025-12-28T07:51:02Z",
+          "channelId": "UCAYKUgpzowS6dQW5W-Zsxhg",
+          "title": "おどるポンポコリン (ado·2026) 弾き語ってみた",
+          "description": "#ウクレレ #弾き語り #ちびまる子ちゃん #ukulele",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VRzp45Gv3EQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VRzp45Gv3EQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VRzp45Gv3EQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VRzp45Gv3EQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VRzp45Gv3EQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "おおやdegon",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "おどるポンポコリン (ado·2026) 弾き語ってみた",
+            "description": "#ウクレレ #弾き語り #ちびまる子ちゃん #ukulele"
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "615",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        },
+        "contentDetails": {
+          "duration": "PT58S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "C7-Pua79HrI",
+        "snippet": {
+          "publishedAt": "2025-12-26T10:00:19Z",
+          "channelId": "UCD9kuuNdyWB22fEnfqQjrvg",
+          "title": "「おどるポンポコリン」子どもと一緒に踊ってみてね！",
+          "description": "今回はB.B.クイーンズの「おどるポンポコリン」の振り付けを、\n2歳から踊れるダンスにアレンジしてます！\n\n保育や子育てに役立つ情報はこちらから👇\nhttps://hoikunote.com/\n\n#保育 #子どもダンス #yoasobi",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/C7-Pua79HrI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/C7-Pua79HrI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/C7-Pua79HrI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/C7-Pua79HrI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/C7-Pua79HrI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ほいくnote",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "「おどるポンポコリン」子どもと一緒に踊ってみてね！",
+            "description": "今回はB.B.クイーンズの「おどるポンポコリン」の振り付けを、\n2歳から踊れるダンスにアレンジしてます！\n\n保育や子育てに役立つ情報はこちらから👇\nhttps://hoikunote.com/\n\n#保育 #子どもダンス #yoasobi"
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "6",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        },
+        "contentDetails": {
+          "duration": "PT30S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "0HYlflAbak0",
+        "snippet": {
+          "publishedAt": "2025-12-21T17:50:52Z",
+          "channelId": "UCy0VP_vuQyLPL8yn8S9ulIA",
+          "title": "TROT GIRLS JAPAN - Odoru pompokolin (Part 1)",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0HYlflAbak0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0HYlflAbak0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0HYlflAbak0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0HYlflAbak0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0HYlflAbak0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "kimi no mitsuha",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "TROT GIRLS JAPAN - Odoru pompokolin (Part 1)",
+            "description": ""
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "22",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        },
+        "contentDetails": {
+          "duration": "PT59S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "pj5-1bBdzZM",
+        "snippet": {
+          "publishedAt": "2025-12-20T17:01:28Z",
+          "channelId": "UCOTjkiosCFCBHHARzJ90sqw",
+          "title": "Ado cantará el nuevo opening de Chibi Maruko-chan",
+          "description": "Ado interpretará una nueva versión de “Odoru Ponpokorin”, el icónico opening de Chibi Maruko-chan, que se estrenará el próximo 28 de diciembre. Además, la cantante aparecerá como personaje animado dentro de la serie, marcando una colaboración especial pensada para atraer a una nueva generación sin romper con el espíritu clásico que ha definido a la franquicia durante décadas.\n\nEste movimiento llega en un año particularmente sensible para la serie, tras el cambio de voz de Maruko luego del fallecimiento de TARAKO. A pesar de ello, Chibi Maruko-chan se mantiene como uno de los animes más vistos de Japón, demostrando una capacidad notable para renovarse sin perder su identidad ni su conexión emocional con el público.\n\nLa elección de Ado no solo responde a su enorme popularidad actual, sino también a su capacidad para reinterpretar un clásico generacional con respeto y personalidad propia. La estrategia apunta a unir generaciones, manteniendo vivo el legado de la serie mientras se abre a nuevas audiencias.\n\nMi comentario:\nAdo cantando un clásico generacional es el puente perfecto entre épocas. Chibi Maruko-chan demuestra que puede reinventarse sin traicionar su esencia, atrayendo nueva audiencia con absoluto respeto por su legado. Una jugada inteligente y bien medida por parte de Fuji TV 🙌💚\n\nado,chibi maruko chan,odoru ponpokorin,opening anime,anime clásico,fuji tv,ado opening anime,anime música,noticias anime,anime japonés,anime 2025,legado anime,cultura anime,anime actualidad\n\n#Ado #ChibiMarukoChan #AnimeNews #OpeningAnime #AnimeMusic #AnimeClassic #CulturaAnime #AnimeCommunity\n\n⚠️ DISCLAIMER:\nEste video está hecho con fines de entretenimiento y se acoge al \"Fair Use\" bajo la Sección 107 del Acta de Derechos de Autor de 1976, que permite el uso de material protegido por derechos de autor con propósitos como crítica, comentario, reportaje, enseñanza, investigación y estudio. El uso sin fines de lucro, educativo o personal inclina la balanza a favor del \"Fair Use\".",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pj5-1bBdzZM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pj5-1bBdzZM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pj5-1bBdzZM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/pj5-1bBdzZM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/pj5-1bBdzZM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Markarian",
+          "tags": [
+            "ado",
+            "chibi maruko chan",
+            "odoru ponpokorin",
+            "opening anime",
+            "anime clásico",
+            "fuji tv",
+            "ado opening anime",
+            "anime música",
+            "noticias anime",
+            "anime japonés",
+            "anime 2025",
+            "legado anime",
+            "cultura anime",
+            "anime actualidad"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "es",
+          "localized": {
+            "title": "Ado cantará el nuevo opening de Chibi Maruko-chan",
+            "description": "Ado interpretará una nueva versión de “Odoru Ponpokorin”, el icónico opening de Chibi Maruko-chan, que se estrenará el próximo 28 de diciembre. Además, la cantante aparecerá como personaje animado dentro de la serie, marcando una colaboración especial pensada para atraer a una nueva generación sin romper con el espíritu clásico que ha definido a la franquicia durante décadas.\n\nEste movimiento llega en un año particularmente sensible para la serie, tras el cambio de voz de Maruko luego del fallecimiento de TARAKO. A pesar de ello, Chibi Maruko-chan se mantiene como uno de los animes más vistos de Japón, demostrando una capacidad notable para renovarse sin perder su identidad ni su conexión emocional con el público.\n\nLa elección de Ado no solo responde a su enorme popularidad actual, sino también a su capacidad para reinterpretar un clásico generacional con respeto y personalidad propia. La estrategia apunta a unir generaciones, manteniendo vivo el legado de la serie mientras se abre a nuevas audiencias.\n\nMi comentario:\nAdo cantando un clásico generacional es el puente perfecto entre épocas. Chibi Maruko-chan demuestra que puede reinventarse sin traicionar su esencia, atrayendo nueva audiencia con absoluto respeto por su legado. Una jugada inteligente y bien medida por parte de Fuji TV 🙌💚\n\nado,chibi maruko chan,odoru ponpokorin,opening anime,anime clásico,fuji tv,ado opening anime,anime música,noticias anime,anime japonés,anime 2025,legado anime,cultura anime,anime actualidad\n\n#Ado #ChibiMarukoChan #AnimeNews #OpeningAnime #AnimeMusic #AnimeClassic #CulturaAnime #AnimeCommunity\n\n⚠️ DISCLAIMER:\nEste video está hecho con fines de entretenimiento y se acoge al \"Fair Use\" bajo la Sección 107 del Acta de Derechos de Autor de 1976, que permite el uso de material protegido por derechos de autor con propósitos como crítica, comentario, reportaje, enseñanza, investigación y estudio. El uso sin fines de lucro, educativo o personal inclina la balanza a favor del \"Fair Use\"."
+          },
+          "defaultAudioLanguage": "es"
+        },
+        "statistics": {
+          "viewCount": "1186",
+          "likeCount": "46",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        },
+        "contentDetails": {
+          "duration": "PT48S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "Po5rvouoBtQ",
+        "snippet": {
+          "publishedAt": "2025-12-20T10:00:46Z",
+          "channelId": "UCGMTTkSQpRF7PLVPPJ3fpVQ",
+          "title": "Adoがまる子を歌う日がついに来た！6年8ヶ月ぶりの大抜擢 #ado #ちびまる子ちゃん #おどるポンポコリン #アニメ主題歌",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Po5rvouoBtQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Po5rvouoBtQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Po5rvouoBtQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Po5rvouoBtQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Po5rvouoBtQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "闇の裏レポ",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "Adoがまる子を歌う日がついに来た！6年8ヶ月ぶりの大抜擢 #ado #ちびまる子ちゃん #おどるポンポコリン #アニメ主題歌",
+            "description": ""
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "1348",
+          "likeCount": "17",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        },
+        "contentDetails": {
+          "duration": "PT2M33S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "w6RqPwQPLwA",
+        "snippet": {
+          "publishedAt": "2025-12-20T09:30:44Z",
+          "channelId": "UCNvEa4idVdv0qdKPr_7d_UA",
+          "title": "ちびまる子ちゃん『おどるポンポコリン』Adoがカバー⁉️#ちびまる子ちゃん #まる子 #おどるポンポコリン #ado",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/w6RqPwQPLwA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/w6RqPwQPLwA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/w6RqPwQPLwA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/w6RqPwQPLwA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/w6RqPwQPLwA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "万倍チャンネル",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "ちびまる子ちゃん『おどるポンポコリン』Adoがカバー⁉️#ちびまる子ちゃん #まる子 #おどるポンポコリン #ado",
+            "description": ""
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "30431",
+          "likeCount": "306",
+          "favoriteCount": "0",
+          "commentCount": "6"
+        },
+        "contentDetails": {
+          "duration": "PT47S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "rTkxEPQwMbY",
+        "snippet": {
+          "publishedAt": "2025-12-19T23:01:20Z",
+          "channelId": "UCZKcyy93iwxHK7CnF7Tw7lw",
+          "title": "♫🌸209| Odoru Ponpokorin Cover by Koufuku 幸福 Ch |【 SINGING | 08/04/2025 】",
+          "description": "♫ Chúc các bạn nghe nhạc vui vẻ và có 1 ngày tốt lành.\n✨Original Stream : https://www.youtube.com/live/FKsFg0Fuvus?si=B5896xb9szsvHkCl\n➖➖➖➖➖➖➖➖➖➖➖➖➖➖\n\n♫🌸Ủng hộ Koufuku 幸福 Ch. tại đây 👇\n ✨https://youtube.com/@KoufukuCh?si=FtCH58XuphlEHVS-\n\n\n #vtubervn #koufukuch #vtuber #vietuber #vnvtuber #singing",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rTkxEPQwMbY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rTkxEPQwMbY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rTkxEPQwMbY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/rTkxEPQwMbY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/rTkxEPQwMbY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Chúng Tôi Thích Nghe Nhạc Của Vtuber",
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "vi",
+          "localized": {
+            "title": "♫🌸209| Odoru Ponpokorin Cover by Koufuku 幸福 Ch |【 SINGING | 08/04/2025 】",
+            "description": "♫ Chúc các bạn nghe nhạc vui vẻ và có 1 ngày tốt lành.\n✨Original Stream : https://www.youtube.com/live/FKsFg0Fuvus?si=B5896xb9szsvHkCl\n➖➖➖➖➖➖➖➖➖➖➖➖➖➖\n\n♫🌸Ủng hộ Koufuku 幸福 Ch. tại đây 👇\n ✨https://youtube.com/@KoufukuCh?si=FtCH58XuphlEHVS-\n\n\n #vtubervn #koufukuch #vtuber #vietuber #vnvtuber #singing"
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "5",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        },
+        "contentDetails": {
+          "duration": "PT1M53S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "LBXCHeoJoKY",
+        "snippet": {
+          "publishedAt": "2025-12-19T10:25:08Z",
+          "channelId": "UC-zKqf4xTVLa9QjuBNRdu9A",
+          "title": "おどるポンポコリン 【ちびまる子ちゃん】 Pop Rock Cover / Seira #shorts",
+          "description": "いよいよ明日！\nSeira\"初\"の\"全曲アニソンカバー\"のワンマンライブ\n「HOME PARTY ~ ALL ANISON COVER Special ~」\n\nアニソン好きならきっと楽しんでいただけるはず✨\n「初めまして」「一人参加」大歓迎です！\n気軽に遊びに来て下さいね🥳😎\n\n🗓️2025.12.20 📍NAGOYA\nTicket🎫販売中！\nhttp://t.livepocket.jp/e/hp_aacs",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LBXCHeoJoKY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LBXCHeoJoKY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LBXCHeoJoKY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/LBXCHeoJoKY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/LBXCHeoJoKY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Seira channel",
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "おどるポンポコリン 【ちびまる子ちゃん】 Pop Rock Cover / Seira #shorts",
+            "description": "いよいよ明日！\nSeira\"初\"の\"全曲アニソンカバー\"のワンマンライブ\n「HOME PARTY ~ ALL ANISON COVER Special ~」\n\nアニソン好きならきっと楽しんでいただけるはず✨\n「初めまして」「一人参加」大歓迎です！\n気軽に遊びに来て下さいね🥳😎\n\n🗓️2025.12.20 📍NAGOYA\nTicket🎫販売中！\nhttp://t.livepocket.jp/e/hp_aacs"
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "12740",
+          "likeCount": "334",
+          "favoriteCount": "0",
+          "commentCount": "11"
+        },
+        "contentDetails": {
+          "duration": "PT41S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "2J9_sGwyghA",
+        "snippet": {
+          "publishedAt": "2025-12-19T02:54:05Z",
+          "channelId": "UCSZhKyyw2kRx_L0F04Kfsfg",
+          "title": "Adoちびまる子ちゃんコラボ！おどるポンポコリンSHORT公開",
+          "description": "2025年12月28日(日)18:00〜放送\nちびまる子ちゃんとAdoちゃんコラボ！\nおどるポンポコリンをAdoちゃんが熱唱！！\n本気(MAJI)です!!!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2J9_sGwyghA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2J9_sGwyghA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2J9_sGwyghA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/2J9_sGwyghA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/2J9_sGwyghA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ゲロ兄さん旧チャンネル（ゲロ兄さん）",
+          "categoryId": "2",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "Adoちびまる子ちゃんコラボ！おどるポンポコリンSHORT公開",
+            "description": "2025年12月28日(日)18:00〜放送\nちびまる子ちゃんとAdoちゃんコラボ！\nおどるポンポコリンをAdoちゃんが熱唱！！\n本気(MAJI)です!!!"
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "36129",
+          "likeCount": "231",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        },
+        "contentDetails": {
+          "duration": "PT13S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "ek8czkNd8CQ",
+        "snippet": {
+          "publishedAt": "2025-12-18T18:41:07Z",
+          "channelId": "UCtW9iK50gQ5YNiF86QuH0vQ",
+          "title": "アニメ『ちびまる子ちゃん』のOP主題歌「おどるポンポコリン」の歌唱を #Ado が担当Adoが歌う「おどるポンポコリン」は12月28日(日)18:00〜の放送かです12月29日(月)に音源配信も決定",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ek8czkNd8CQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ek8czkNd8CQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ek8czkNd8CQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ek8czkNd8CQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ek8czkNd8CQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "101号室のまさひー",
+          "categoryId": "15",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "アニメ『ちびまる子ちゃん』のOP主題歌「おどるポンポコリン」の歌唱を #Ado が担当Adoが歌う「おどるポンポコリン」は12月28日(日)18:00〜の放送かです12月29日(月)に音源配信も決定",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+          "viewCount": "6659",
+          "likeCount": "27",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        },
+        "contentDetails": {
+          "duration": "PT27S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "Fm1Z0rzwr7Y",
+        "snippet": {
+          "publishedAt": "2025-12-18T15:59:53Z",
+          "channelId": "UCvZuQSbXHx76K_oKe1wEIZQ",
+          "title": "Adoがまる子ちゃん主題歌に抜擢！6年8ヶ月ぶりの変化が話題に #short",
+          "description": "国民的アニメ『ちびまる子ちゃん』のオープニング主題歌「おどるポンポコリン」を、歌手Adoさんが新たに担当することが発表されました。\n歌唱アーティストの変更は6年8ヶ月ぶりで、アニメ化35周年の節目を飾る特別なタイミングです。\n\n長年親しまれてきた名曲だけに、「懐かしさを大切にしてほしい」という声がある一方で、「Adoさんの表現力で新しい魅力が生まれそう」「今の子ども世代にも届きそう」と期待の意見も多く見られています。\n実際にSNSでは、世代を超えて注目が集まっており、話題性の高さがうかがえます。\n\n伝統を守りながらも、新しい風を取り入れる今回の試み。\nあなたはAdoさん版「おどるポンポコリン」、どう感じましたか？\nぜひコメントで感想を教えてください。\n\n※本動画は公式発表・報道内容をもとに紹介しています。\n\n#Ado #ちびまる子ちゃん #おどるポンポコリン #アニメ主題歌",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Fm1Z0rzwr7Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Fm1Z0rzwr7Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Fm1Z0rzwr7Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Fm1Z0rzwr7Y/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Fm1Z0rzwr7Y/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "海老アレルギー",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "Adoがまる子ちゃん主題歌に抜擢！6年8ヶ月ぶりの変化が話題に #short",
+            "description": "国民的アニメ『ちびまる子ちゃん』のオープニング主題歌「おどるポンポコリン」を、歌手Adoさんが新たに担当することが発表されました。\n歌唱アーティストの変更は6年8ヶ月ぶりで、アニメ化35周年の節目を飾る特別なタイミングです。\n\n長年親しまれてきた名曲だけに、「懐かしさを大切にしてほしい」という声がある一方で、「Adoさんの表現力で新しい魅力が生まれそう」「今の子ども世代にも届きそう」と期待の意見も多く見られています。\n実際にSNSでは、世代を超えて注目が集まっており、話題性の高さがうかがえます。\n\n伝統を守りながらも、新しい風を取り入れる今回の試み。\nあなたはAdoさん版「おどるポンポコリン」、どう感じましたか？\nぜひコメントで感想を教えてください。\n\n※本動画は公式発表・報道内容をもとに紹介しています。\n\n#Ado #ちびまる子ちゃん #おどるポンポコリン #アニメ主題歌"
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "1963",
+          "likeCount": "18",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "5DGmr7rryQw",
+        "snippet": {
+          "publishedAt": "2025-12-18T08:00:13Z",
+          "channelId": "UC0Zx310UpURng56Prb9s0qQ",
+          "title": "【ニュースとコメント】Ado「おどるポンポコリン」担当",
+          "description": "多くのコメントが寄せられたニュースとコメントの一部を紹介します。\n\n歌手のAdoがアニメ「ちびまる子ちゃん」の新オープニング主題歌を担当することが発表された。「おどるポンポコリン」を歌う。歌唱アーティスト変更は6年8カ月ぶり。\n\n#ニュース\n\nコメント一覧\nhttps://news.yahoo.co.jp/articles/d5fd7c0354abc7c9b9c0cb0a1ac378d59cd041f6/comments",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5DGmr7rryQw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5DGmr7rryQw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5DGmr7rryQw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/5DGmr7rryQw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/5DGmr7rryQw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Yahoo!ニュース",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "【ニュースとコメント】Ado「おどるポンポコリン」担当",
+            "description": "多くのコメントが寄せられたニュースとコメントの一部を紹介します。\n\n歌手のAdoがアニメ「ちびまる子ちゃん」の新オープニング主題歌を担当することが発表された。「おどるポンポコリン」を歌う。歌唱アーティスト変更は6年8カ月ぶり。\n\n#ニュース\n\nコメント一覧\nhttps://news.yahoo.co.jp/articles/d5fd7c0354abc7c9b9c0cb0a1ac378d59cd041f6/comments"
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "5692",
+          "likeCount": "35",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        },
+        "contentDetails": {
+          "duration": "PT45S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "TCxs5pQO1vM",
+        "snippet": {
+          "publishedAt": "2025-12-17T23:39:19Z",
+          "channelId": "UCZ0C9bbEj3bY6CxhIgO2a6w",
+          "title": "Ado、『ちびまる子ちゃん』OP主題歌を新たに担当　「おどるポンポコリン」歌唱アーティスト変更は6年8ヶ月ぶり",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TCxs5pQO1vM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TCxs5pQO1vM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TCxs5pQO1vM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/TCxs5pQO1vM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/TCxs5pQO1vM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "おか",
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "Ado、『ちびまる子ちゃん』OP主題歌を新たに担当　「おどるポンポコリン」歌唱アーティスト変更は6年8ヶ月ぶり",
+            "description": ""
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "8849",
+          "likeCount": "44",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        },
+        "contentDetails": {
+          "duration": "PT14S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "lluV-o5rnGQ",
+        "snippet": {
+          "publishedAt": "2025-12-17T23:32:24Z",
+          "channelId": "UCo4ZN3cRuMGMjGtO0Rq33yw",
+          "title": "Ado、『ちびまる子ちゃん』OP主題歌を新たに担当 「おどるポンポコリン」歌唱アーティスト変更は6年8ヶ月ぶり",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lluV-o5rnGQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lluV-o5rnGQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lluV-o5rnGQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lluV-o5rnGQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/lluV-o5rnGQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": " Japan Latest NEWS today ",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "Ado、『ちびまる子ちゃん』OP主題歌を新たに担当 「おどるポンポコリン」歌唱アーティスト変更は6年8ヶ月ぶり",
+            "description": ""
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "786",
+          "likeCount": "6",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        },
+        "contentDetails": {
+          "duration": "PT1M9S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "U0AkPq8IzS8",
+        "snippet": {
+          "publishedAt": "2025-12-17T20:53:49Z",
+          "channelId": "UCegiucmLi3mhu7hjs16w4KA",
+          "title": "【速報】ちびまる子ちゃん おどるポンポコリン 6年8ヶ月ぶりに変更 Adoが担当 #ちびまる子ちゃん #おどるポンポコリン #アニメ",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/U0AkPq8IzS8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/U0AkPq8IzS8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/U0AkPq8IzS8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/U0AkPq8IzS8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/U0AkPq8IzS8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ナンバーワンチャンネル【映画・エンタメ・グッズ】",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "【速報】ちびまる子ちゃん おどるポンポコリン 6年8ヶ月ぶりに変更 Adoが担当 #ちびまる子ちゃん #おどるポンポコリン #アニメ",
+            "description": ""
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "65528",
+          "likeCount": "351",
+          "favoriteCount": "0",
+          "commentCount": "9"
+        },
+        "contentDetails": {
+          "duration": "PT8S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "wQv-_SKJKuE",
+        "snippet": {
+          "publishedAt": "2025-12-16T23:36:17Z",
+          "channelId": "UCY2EdbBT0IYhJ2vHscIHFXA",
+          "title": "Chibi Maruko-chan Theme Song / Odoru Ponpokorin | Oboe Cover",
+          "description": "Hello everyone! Today, I'm taking a trip down memory lane with a cover of the iconic theme song from the beloved anime, Chibi Maruko-chan (ちびまる子ちゃん), often known as \"Odoru Ponpokorin\"!\n\n🎶 About the Song:\n\nThis song is a global symbol of childhood joy and simplicity. Despite Maruko-chan's humorous and sometimes lazy nature, the theme song is bursting with positive energy. Its infectious rhythm and cheerful melody make it an instant stress-reliever.\n\nI hope my performance on the [Your Instrument Name, e.g., Piano/Flute] brings back all your happiest childhood memories!\n\nWhat Japanese anime theme song should I cover next? Let me know in the comments! 👇\n\n🔔 Don't forget to Like, Subscribe, and hit the bell for more anime OST and nostalgic music covers!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wQv-_SKJKuE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wQv-_SKJKuE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wQv-_SKJKuE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wQv-_SKJKuE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/wQv-_SKJKuE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Oboist- Brian",
+          "tags": [
+            "Chibi Maruko-chan",
+            "Odoru Ponpokorin",
+            "Anime Theme Song",
+            "Nostalgia",
+            "90s Anime",
+            "Childhood Memories",
+            "Anime OST",
+            "Piano Cover",
+            "Instrumental Music",
+            "Happy BGM",
+            "Anime Music",
+            "Chibi Maruko",
+            "さくらももこ",
+            "樱桃小丸子",
+            "日本动漫",
+            "童年",
+            "双簧管",
+            "童年回忆",
+            "双簧管演奏",
+            "可爱",
+            "洗脑",
+            "热门"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Chibi Maruko-chan Theme Song / Odoru Ponpokorin | Oboe Cover",
+            "description": "Hello everyone! Today, I'm taking a trip down memory lane with a cover of the iconic theme song from the beloved anime, Chibi Maruko-chan (ちびまる子ちゃん), often known as \"Odoru Ponpokorin\"!\n\n🎶 About the Song:\n\nThis song is a global symbol of childhood joy and simplicity. Despite Maruko-chan's humorous and sometimes lazy nature, the theme song is bursting with positive energy. Its infectious rhythm and cheerful melody make it an instant stress-reliever.\n\nI hope my performance on the [Your Instrument Name, e.g., Piano/Flute] brings back all your happiest childhood memories!\n\nWhat Japanese anime theme song should I cover next? Let me know in the comments! 👇\n\n🔔 Don't forget to Like, Subscribe, and hit the bell for more anime OST and nostalgic music covers!"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+          "viewCount": "145",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        },
+        "contentDetails": {
+          "duration": "PT19S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "di34596Fkj8",
+        "snippet": {
+          "publishedAt": "2025-12-16T10:00:59Z",
+          "channelId": "UC5bAwi02ANhyh74B9PHikEA",
+          "title": "おどるポンポコリン♪☕イタリアンブレインロット / トゥントゥントゥンサフール",
+          "description": "☕おどるポンポコリンの替え歌　頭から離れないメロディ！\n\n▼ザビャンさん　「トゥントゥントゥンサフールに恋している」\nhttps://youtu.be/GmXC23jARZ8?list=RDGmXC23jARZ8\n▼ ザビャンさん公式イタリアンブレインロット図鑑はこちら！\nhttps://www.thebyan.com/\n\n#イタリアンブレインロット　#カーケルカールクルクル\n#トゥントゥントゥンサフール　#サフール",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/di34596Fkj8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/di34596Fkj8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/di34596Fkj8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/di34596Fkj8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/di34596Fkj8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ピザッピ -PizzaPi-",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "おどるポンポコリン♪☕イタリアンブレインロット / トゥントゥントゥンサフール",
+            "description": "☕おどるポンポコリンの替え歌　頭から離れないメロディ！\n\n▼ザビャンさん　「トゥントゥントゥンサフールに恋している」\nhttps://youtu.be/GmXC23jARZ8?list=RDGmXC23jARZ8\n▼ ザビャンさん公式イタリアンブレインロット図鑑はこちら！\nhttps://www.thebyan.com/\n\n#イタリアンブレインロット　#カーケルカールクルクル\n#トゥントゥントゥンサフール　#サフール"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+          "viewCount": "3065",
+          "likeCount": "20",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        },
+        "contentDetails": {
+          "duration": "PT1M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "76XHNVEih50",
+        "snippet": {
+          "publishedAt": "2025-12-13T11:00:25Z",
+          "channelId": "UC09D3M_DdLaZMJnZp0v4pLQ",
+          "title": "「おどるポンポコリン」の奇跡【織田哲郎】 #shorts",
+          "description": "元動画 → https://youtu.be/1UfxG1MNQSc\n誰が「J-POP」を終わらせたのか！？〜大総括！織田哲郎と2人の女神から初音ミク、King Gnuまでの日本ポピュラー音楽史！！【山田玲司-365】",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/76XHNVEih50/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/76XHNVEih50/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/76XHNVEih50/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/76XHNVEih50/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/76XHNVEih50/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "山田玲司のヤングサンデー",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "「おどるポンポコリン」の奇跡【織田哲郎】 #shorts",
+            "description": "元動画 → https://youtu.be/1UfxG1MNQSc\n誰が「J-POP」を終わらせたのか！？〜大総括！織田哲郎と2人の女神から初音ミク、King Gnuまでの日本ポピュラー音楽史！！【山田玲司-365】"
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "29044",
+          "likeCount": "166",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        },
+        "contentDetails": {
+          "duration": "PT55S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "dtZIYPtVnBw",
+        "snippet": {
+          "publishedAt": "2025-12-10T11:01:17Z",
+          "channelId": "UCLL_HKkxgQN90pUVrMHRtxg",
+          "title": "ちびまる子ちゃんのOPソング「おどるポンポコリン」を歌いました。#ちびまる子ちゃん #おどるポンポコリン #アニメソング #弾き語り #cover",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dtZIYPtVnBw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dtZIYPtVnBw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dtZIYPtVnBw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/dtZIYPtVnBw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/dtZIYPtVnBw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "タカハシナオト放送局",
+          "categoryId": "19",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "ちびまる子ちゃんのOPソング「おどるポンポコリン」を歌いました。#ちびまる子ちゃん #おどるポンポコリン #アニメソング #弾き語り #cover",
+            "description": ""
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "458",
+          "likeCount": "5",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        },
+        "contentDetails": {
+          "duration": "PT1M4S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "0JCJznhPS58",
+        "snippet": {
+          "publishedAt": "2025-12-10T04:19:04Z",
+          "channelId": "UCQdDeo1unrmcSxtl0i9u14Q",
+          "title": "Odoru Ponpokorin",
+          "description": "Powered by DemoCreator. \nhttps://bit.ly/3RDO45a #DemoCreator",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0JCJznhPS58/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0JCJznhPS58/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0JCJznhPS58/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0JCJznhPS58/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0JCJznhPS58/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Fabian Ferrer",
+          "tags": [
+            "DemoCreator"
+          ],
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Odoru Ponpokorin",
+            "description": "Powered by DemoCreator. \nhttps://bit.ly/3RDO45a #DemoCreator"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "statistics": {
+          "viewCount": "21",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        },
+        "contentDetails": {
+          "duration": "PT1M25S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "KfUxK3XybIU",
+        "snippet": {
+          "publishedAt": "2025-12-07T10:05:36Z",
+          "channelId": "UCroQKeAtEXkPaCFg2-rJYQw",
+          "title": "ちびまる子ちゃん【Chibi Maruko-chan】おどるポンポコリン | ODORU PONPOKORIN | Samba Anime Cover",
+          "description": "🎀 ODORU PONPOKORIN 💛🥁🌈\nFeel the carefree joy, colorful fun, and pure nostalgia of Chibi Maruko-chan — reborn as a bright, playful samba bursting with smiles! 💃✨🌟\n\n🌸 国民的アニメ ちびまる子ちゃん の超名曲「おどるポンポコリン」が、陽気でカラフルなサンバアレンジに変身！\n聴いた瞬間ワクワクして、笑顔がこぼれる“幸福度100%”のサンバカバーをお届け！🎶💛\n\nまるちゃんの世界観が、リズムと一緒に踊り出す——\n家族も友だちも、みんなでハッピーになれるカーニバルサウンド！🌈💃🥁\n\n🇪🇸 ¡La alegría infinita de Chibi Maruko-chan vuelve en una samba llena de color y diversión!\nUna versión que hace sonreír, bailar y disfrutar como un día soleado. ☀️💛💃\n\n🇰🇷 추억과 즐거움이 가득한 치비마루코짱이 삼바로 다시 태어났다! 🎀\n듣는 순간 흥이 폭발하는, 행복 가득한 삼바 리믹스! 🥁🌈✨\n\n🌍 At AniSamba!, we transform beloved Japanese anime songs into colorful, joyful samba covers — overflowing with rhythm, fun, and sunshine! 🎷🌞\nアニメソングが、笑顔としあわせのカーニバルに生まれ変わる！🌈💃\n\n🎵 Always a Carnival, Always Full of Fun!\n世界中のアニメ＆音楽ファンと一緒に、ハッピーなリズムで踊ろう！🌏🌟\n\n🔔 Don’t forget to Subscribe and dance with pure joy!\nチャンネル登録して、サンバで“笑顔”を広げよう！💛🥁✨\n\n#ちびまる子ちゃん #おどるポンポコリン #ChibiMarukoChan #OdoruPonpokorin #AnimeSamba #AniSamba #アニソン #アニソンカバー #SambaCover #サンバカバー #AnimeMusic #アニメ音楽 #Anisong #JapanAnime #FamilyAnime #FeelGoodAnime #NostalgicAnime #HappySamba #SambaDoSorriso #SambaDeAlegria #CarnivalFun #PonpokorinSamba #치비마루코짱 #포ン포코린",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KfUxK3XybIU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KfUxK3XybIU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KfUxK3XybIU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/KfUxK3XybIU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/KfUxK3XybIU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "AniSamba! | アニサンバ!",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "ちびまる子ちゃん【Chibi Maruko-chan】おどるポンポコリン | ODORU PONPOKORIN | Samba Anime Cover",
+            "description": "🎀 ODORU PONPOKORIN 💛🥁🌈\nFeel the carefree joy, colorful fun, and pure nostalgia of Chibi Maruko-chan — reborn as a bright, playful samba bursting with smiles! 💃✨🌟\n\n🌸 国民的アニメ ちびまる子ちゃん の超名曲「おどるポンポコリン」が、陽気でカラフルなサンバアレンジに変身！\n聴いた瞬間ワクワクして、笑顔がこぼれる“幸福度100%”のサンバカバーをお届け！🎶💛\n\nまるちゃんの世界観が、リズムと一緒に踊り出す——\n家族も友だちも、みんなでハッピーになれるカーニバルサウンド！🌈💃🥁\n\n🇪🇸 ¡La alegría infinita de Chibi Maruko-chan vuelve en una samba llena de color y diversión!\nUna versión que hace sonreír, bailar y disfrutar como un día soleado. ☀️💛💃\n\n🇰🇷 추억과 즐거움이 가득한 치비마루코짱이 삼바로 다시 태어났다! 🎀\n듣는 순간 흥이 폭발하는, 행복 가득한 삼바 리믹스! 🥁🌈✨\n\n🌍 At AniSamba!, we transform beloved Japanese anime songs into colorful, joyful samba covers — overflowing with rhythm, fun, and sunshine! 🎷🌞\nアニメソングが、笑顔としあわせのカーニバルに生まれ変わる！🌈💃\n\n🎵 Always a Carnival, Always Full of Fun!\n世界中のアニメ＆音楽ファンと一緒に、ハッピーなリズムで踊ろう！🌏🌟\n\n🔔 Don’t forget to Subscribe and dance with pure joy!\nチャンネル登録して、サンバで“笑顔”を広げよう！💛🥁✨\n\n#ちびまる子ちゃん #おどるポンポコリン #ChibiMarukoChan #OdoruPonpokorin #AnimeSamba #AniSamba #アニソン #アニソンカバー #SambaCover #サンバカバー #AnimeMusic #アニメ音楽 #Anisong #JapanAnime #FamilyAnime #FeelGoodAnime #NostalgicAnime #HappySamba #SambaDoSorriso #SambaDeAlegria #CarnivalFun #PonpokorinSamba #치비마루코짱 #포ン포코린"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+          "viewCount": "552",
+          "likeCount": "11",
+          "favoriteCount": "0",
+          "commentCount": "4"
+        },
+        "contentDetails": {
+          "duration": "PT1M16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "YgsdQmU7Djk",
+        "snippet": {
+          "publishedAt": "2025-12-05T12:25:45Z",
+          "channelId": "UCGhDWYUA9kdD8x5tJ5k0ETw",
+          "title": "#おどるポンポコリン #ちびまる子ちゃん #egirls #踊ってみた #ダンス",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YgsdQmU7Djk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YgsdQmU7Djk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YgsdQmU7Djk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/YgsdQmU7Djk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/YgsdQmU7Djk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "K-style(鹿児島YouTuber)",
+          "tags": [
+            "おどるポンポコリン",
+            "ちびまる子ちゃん",
+            "オープニング",
+            "オープニングテーマ",
+            "OP",
+            "踊ってみた",
+            "踊った",
+            "ダンス",
+            "dance"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "#おどるポンポコリン #ちびまる子ちゃん #egirls #踊ってみた #ダンス",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+          "viewCount": "430",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        },
+        "contentDetails": {
+          "duration": "PT28S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "xr827EHI5zw",
+        "snippet": {
+          "publishedAt": "2025-12-01T03:17:33Z",
+          "channelId": "UCVOQ6Dux7Z_b-1_qOKUxHLg",
+          "title": "バリトンウクレレで「踊るポンポコリン」弾いてみました",
+          "description": "マハロのバリトンウクレレ、MM4Eです",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xr827EHI5zw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xr827EHI5zw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xr827EHI5zw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/xr827EHI5zw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/xr827EHI5zw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ウクレレさっちゃん",
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "バリトンウクレレで「踊るポンポコリン」弾いてみました",
+            "description": "マハロのバリトンウクレレ、MM4Eです"
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "1314",
+          "favoriteCount": "0"
+        },
+        "contentDetails": {
+          "duration": "PT1M2S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "F9I8-W2vYoA",
+        "snippet": {
+          "publishedAt": "2025-11-29T16:07:20Z",
+          "channelId": "UCVEXYeBZKfCF84duTtg-ALg",
+          "title": "【おどるポンポコリン】エレクトーン伴奏で歌ってみた#はぴぷるん #エレクトーン #静岡県#ちびまる子ちゃん",
+          "description": "はぴぷるん\n\n【おどるポンポコリン】\nうたandエレクトーン\n\n#FAMIFES2025にて\n\n☆～☆～☆～☆～☆～☆～☆～☆～☆～☆～\n\n\n静岡県浜松市で\n【絵本と音楽】の活動をしています。\n\nチャンネル登録お願いします♪\n\nブログ書いてます♪\nhttps://ameblo.jp/happi-prune\n\nInstagramもやってます♪\nhttps://www.instagram.com/happi.prune...\n\nXもやってます♪\nhttps://twitter.com/Happi_Prune\n\nはぴぷるんLINE公式アカウント♪\nhttps://lin.ee/ccnbL0A",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/F9I8-W2vYoA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/F9I8-W2vYoA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/F9I8-W2vYoA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/F9I8-W2vYoA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/F9I8-W2vYoA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "はぴぷるん",
+          "tags": [
+            "エレクトーン",
+            "歌ってみた",
+            "はぴぷるん",
+            "ちびまる子ちゃん",
+            "静岡県"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "【おどるポンポコリン】エレクトーン伴奏で歌ってみた#はぴぷるん #エレクトーン #静岡県#ちびまる子ちゃん",
+            "description": "はぴぷるん\n\n【おどるポンポコリン】\nうたandエレクトーン\n\n#FAMIFES2025にて\n\n☆～☆～☆～☆～☆～☆～☆～☆～☆～☆～\n\n\n静岡県浜松市で\n【絵本と音楽】の活動をしています。\n\nチャンネル登録お願いします♪\n\nブログ書いてます♪\nhttps://ameblo.jp/happi-prune\n\nInstagramもやってます♪\nhttps://www.instagram.com/happi.prune...\n\nXもやってます♪\nhttps://twitter.com/Happi_Prune\n\nはぴぷるんLINE公式アカウント♪\nhttps://lin.ee/ccnbL0A"
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "347",
+          "likeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        },
+        "contentDetails": {
+          "duration": "PT37S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "TPibTEAO-Bg",
+        "snippet": {
+          "publishedAt": "2025-11-26T06:00:34Z",
+          "channelId": "UCJs_xpaqPAKkuNL2dFkCYkw",
+          "title": "おどるポンポコリン【アレンジ / 発車メロディ】",
+          "description": "発車メロディ風アレンジ　第33弾　\n\nまだ「Phal_A」はGeminiと仲直りできていません\n \n本家アーティスト様\nB.B.クィーンズ\n\n背景：Phal_A",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TPibTEAO-Bg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TPibTEAO-Bg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TPibTEAO-Bg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/TPibTEAO-Bg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/TPibTEAO-Bg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Phal_A / TOYA",
+          "tags": [
+            "発車メロディ",
+            "ちびまる子ちゃん"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "おどるポンポコリン【アレンジ / 発車メロディ】",
+            "description": "発車メロディ風アレンジ　第33弾　\n\nまだ「Phal_A」はGeminiと仲直りできていません\n \n本家アーティスト様\nB.B.クィーンズ\n\n背景：Phal_A"
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "243",
+          "likeCount": "4",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        },
+        "contentDetails": {
+          "duration": "PT16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "vEtL1FkYtw4",
+        "snippet": {
+          "publishedAt": "2025-11-26T01:36:11Z",
+          "channelId": "UCv7HyHiVNQuMGc06c6bHBTg",
+          "title": "おどるポンポコリン 瀬戸内の島のはま #弾き語り #アレンジカバー #歌ってみた #来島 #cover #男が歌う #ギター #普通の男",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vEtL1FkYtw4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vEtL1FkYtw4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vEtL1FkYtw4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vEtL1FkYtw4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vEtL1FkYtw4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "瀬戸内の島のはま",
+          "tags": [
+            "おどるポンポコリン",
+            "BBクイーンズ",
+            "アコギ弾き語り",
+            "瀬戸内の島のはま",
+            "周防大島(すおうおおしま)"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "おどるポンポコリン 瀬戸内の島のはま #弾き語り #アレンジカバー #歌ってみた #来島 #cover #男が歌う #ギター #普通の男",
+            "description": ""
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "1338",
+          "likeCount": "13",
+          "favoriteCount": "0",
+          "commentCount": "2"
+        },
+        "contentDetails": {
+          "duration": "PT1M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "9E8GwmH15xk",
+        "snippet": {
+          "publishedAt": "2025-11-26T01:20:42Z",
+          "channelId": "UCcZKhMpBkYsmPaPVGaH0fHw",
+          "title": "ja dançou  no Matsuri Dance Odoru ponpokorin?",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9E8GwmH15xk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9E8GwmH15xk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9E8GwmH15xk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/9E8GwmH15xk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/9E8GwmH15xk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Fapiano",
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "pt-PT",
+          "localized": {
+            "title": "ja dançou  no Matsuri Dance Odoru ponpokorin?",
+            "description": ""
+          },
+          "defaultAudioLanguage": "pt-PT"
+        },
+        "statistics": {
+          "viewCount": "1514",
+          "likeCount": "41",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        },
+        "contentDetails": {
+          "duration": "PT2M58S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "ujHXbdHARz0",
+        "snippet": {
+          "publishedAt": "2025-11-23T09:01:25Z",
+          "channelId": "UCwlziBKNO7LVS2L_SWnI2jA",
+          "title": "B.B.クィーンズ_おどるポンポコリン_B.B. Queens_Odoru Pompokolinミック先生のSingin' JAPAN 一日一曲弾き語り DAY249",
+          "description": "ワンコーラスはインスタ、TikTokに\nLong vers are on my Instagram and Tiktok\n#弾き語り #ギター  #japanesesong #guitar",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ujHXbdHARz0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ujHXbdHARz0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ujHXbdHARz0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ujHXbdHARz0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ujHXbdHARz0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ミック先生のSingin' JAPAN",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "B.B.クィーンズ_おどるポンポコリン_B.B. Queens_Odoru Pompokolinミック先生のSingin' JAPAN 一日一曲弾き語り DAY249",
+            "description": "ワンコーラスはインスタ、TikTokに\nLong vers are on my Instagram and Tiktok\n#弾き語り #ギター  #japanesesong #guitar"
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "270",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        },
+        "contentDetails": {
+          "duration": "PT31S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "kMr9iF-0xmM",
+        "snippet": {
+          "publishedAt": "2025-11-22T09:01:16Z",
+          "channelId": "UCeeGbPt4yYr7Tm3SWtzZaPA",
+          "title": "【トランペット】 おどるポンポコリン / B.Bクィーンズ #trumpet #トランペット #おどるポンポコリン #ちびまる子ちゃん",
+          "description": "プロトランペット奏者として活動しながら、演奏動画を毎日アップしています♪  \n\n是非是非、高評価・チャンネル登録よろしくお願い致します。  \n\n#吹いてみた #演奏してみた #cover #ショート動画 #金管楽器 #吹奏楽 #オーケストラ",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kMr9iF-0xmM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kMr9iF-0xmM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kMr9iF-0xmM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/kMr9iF-0xmM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/kMr9iF-0xmM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "【トランペット奏者】有薗 利彦",
+          "tags": [
+            "trumpet",
+            "トランペット",
+            "おどるポンポコリン",
+            "B.Bクィーンズ",
+            "ちびまる子ちゃん",
+            "吹いてみた",
+            "ショート動画",
+            "カバー演奏"
+          ],
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "【トランペット】 おどるポンポコリン / B.Bクィーンズ #trumpet #トランペット #おどるポンポコリン #ちびまる子ちゃん",
+            "description": "プロトランペット奏者として活動しながら、演奏動画を毎日アップしています♪  \n\n是非是非、高評価・チャンネル登録よろしくお願い致します。  \n\n#吹いてみた #演奏してみた #cover #ショート動画 #金管楽器 #吹奏楽 #オーケストラ"
+          },
+          "defaultAudioLanguage": "zxx"
+        },
+        "statistics": {
+          "viewCount": "12361",
+          "likeCount": "185",
+          "favoriteCount": "0",
+          "commentCount": "32"
+        },
+        "contentDetails": {
+          "duration": "PT14S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      }
+    ],
+    "top4VideoIds": [
+      "eeR-KK_X4Ew",
+      "CE-82llq4HU",
+      "umO3hGm7P9U",
+      "NfVswHsHPL8"
+    ],
+    "top4Videos": [
+      {
+        "id": "eeR-KK_X4Ew",
+        "snippet": {
+          "publishedAt": "2025-12-31T13:23:40Z",
+          "channelId": "UCKK2wSSwF2G3t7cXAkID0bw",
+          "title": "I react to Ado´s new Opening Song: \"Odoru Ponpokorin” - Ado 💙🔥 I Reaction - Part 2 #odoruponpokorin",
+          "description": "I react to Ado´s new Opening Song: \"Odoru Ponpokorin” - Ado 💙🔥 I Reaction - Part 2\n#ado #odoruponpokorin  #adosong  #reaction #fyp",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eeR-KK_X4Ew/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eeR-KK_X4Ew/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eeR-KK_X4Ew/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/eeR-KK_X4Ew/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/eeR-KK_X4Ew/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Lordicem",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "I react to Ado´s new Opening Song: \"Odoru Ponpokorin” - Ado 💙🔥 I Reaction - Part 2 #odoruponpokorin",
+            "description": "I react to Ado´s new Opening Song: \"Odoru Ponpokorin” - Ado 💙🔥 I Reaction - Part 2\n#ado #odoruponpokorin  #adosong  #reaction #fyp"
+          },
+          "defaultAudioLanguage": "de"
+        },
+        "statistics": {
+          "viewCount": "1487",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        },
+        "contentDetails": {
+          "duration": "PT1M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "CE-82llq4HU",
+        "snippet": {
+          "publishedAt": "2025-12-31T10:09:31Z",
+          "channelId": "UCI-pgUY2UTpd9FPm3ZmVXZg",
+          "title": "Odoru ponpokorin cover #lipsync #jpopメドレー #cover #ytshorts ",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CE-82llq4HU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CE-82llq4HU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CE-82llq4HU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/CE-82llq4HU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Lolaさん ",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "Odoru ponpokorin cover #lipsync #jpopメドレー #cover #ytshorts ",
+            "description": ""
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "203",
+          "likeCount": "1",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        },
+        "contentDetails": {
+          "duration": "PT47S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "umO3hGm7P9U",
+        "snippet": {
+          "publishedAt": "2025-12-31T01:49:41Z",
+          "channelId": "UCTghAXxoqjRX59f3HPhkHXg",
+          "title": "Ado Odoru Ponpokorin Cover en Español? METAL COVER by stañorlfg x SMILING preview",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/umO3hGm7P9U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/umO3hGm7P9U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/umO3hGm7P9U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/umO3hGm7P9U/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/umO3hGm7P9U/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "STAÑO Rlfg x SMILING",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "es",
+          "localized": {
+            "title": "Ado Odoru Ponpokorin Cover en Español? METAL COVER by stañorlfg x SMILING preview",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+          "viewCount": "40",
+          "likeCount": "2",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        },
+        "contentDetails": {
+          "duration": "PT29S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      },
+      {
+        "id": "NfVswHsHPL8",
+        "snippet": {
+          "publishedAt": "2025-12-31T00:20:09Z",
+          "channelId": "UClrfEGFqoR3555389GBlvjg",
+          "title": "Adoとまる子の描き方 #落書き #一発描き #drawing #ちびまる子ちゃん #chibimarukochan #ado #おどるポンポコリン",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NfVswHsHPL8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NfVswHsHPL8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NfVswHsHPL8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/NfVswHsHPL8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/NfVswHsHPL8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "あいつのちゃんねる",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ja",
+          "localized": {
+            "title": "Adoとまる子の描き方 #落書き #一発描き #drawing #ちびまる子ちゃん #chibimarukochan #ado #おどるポンポコリン",
+            "description": ""
+          },
+          "defaultAudioLanguage": "ja"
+        },
+        "statistics": {
+          "viewCount": "1825",
+          "likeCount": "28",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        },
+        "contentDetails": {
+          "duration": "PT41S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "vpiScore": 0
+      }
+    ],
+    "clipCaptions": [
+      "Ado Reaction: SHOCKING!",
+      "Ponpokorin Lipsync: CRAZY!",
+      "Ponpokorin: METAL MADNESS!",
+      "Ado Maruko: ART SHOCK!"
+    ],
+    "videoMeta": {
+      "title": "Ado's Odoru Ponpokorin: Viral Hit!",
+      "description": "Ado's 'Odoru Ponpokorin' is taking over! This J-pop classic gets a powerful new twist from the incredible Ado. Get ready to sing along and feel the energy! #OdoruPonpokorin #Ado #Jpop #ChibiMarukochan #AnimeMusic #Shorts #TrendingMusic #ViralSong #MusicReaction #NewMusic",
+      "hashtags": [
+        "#OdoruPonpokorin",
+        "#Ado",
+        "#Jpop",
+        "#ChibiMarukochan",
+        "#AnimeMusic",
+        "#Shorts",
+        "#TrendingMusic",
+        "#ViralSong",
+        "#MusicReaction",
+        "#NewMusic"
+      ]
+    }
+  },
+  "error": null
+}
